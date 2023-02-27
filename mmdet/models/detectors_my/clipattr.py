@@ -225,7 +225,7 @@ class CLIPAttr(BaseDetector):
             att_logit = torch.cat(att_logit, dim=-1)
             logits = torch.cat((att_logit, cate_logit), dim=-1)
 
-        losses = self.bbox_head.forward_train(logits, img_metas, data_set_type, gt_labels)
+        losses = self.bbox_head.forward_ovarnet_train(logits, img_metas, data_set_type, gt_labels)
 
         return losses
 
