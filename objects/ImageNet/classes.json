@@ -1,0 +1,1543 @@
+{
+    "l1_attributes": [
+        "kit fox/ vulpes macrotis",
+        "english setter",
+        "hinny",
+        "liger",
+        "australian terrier",
+        "manatee/ trichechus manatus",
+        "mule",
+        "lemur",
+        "lesser panda/ red panda/ panda/ bear cat/ cat bear/ ailurus fulgens",
+        "bear",
+        "wolfhound",
+        "chickeree/ douglas squirrel/ tamiasciurus douglasi",
+        "egyptian cat",
+        "galago/ bushbaby/ bush baby",
+        "persian cat",
+        "cougar/ puma/ catamount/ mountain lion/ painter/ panther/ felis concolor",
+        "gazelle",
+        "badger",
+        "great dane",
+        "whippet",
+        "pipistrelle/ pipistrel/ pipistrellus pipistrellus",
+        "scottish deerhound/ deerhound",
+        "coonhound",
+        "killer whale/ killer/ orca/ grampus/ sea wolf/ orcinus orca",
+        "foxhound",
+        "mink",
+        "pronghorn/ prongbuck/ pronghorn antelope/ american antelope/ antilocapra americana",
+        "jerboa",
+        "chacma/ chacma baboon/ papio ursinus",
+        "wirehair/ wirehaired terrier/ wire-haired terrier",
+        "jaguar/ panther/ panthera onca/ felis onca",
+        "otterhound/ otter hound",
+        "bloodhound/ sleuthhound",
+        "gnu/ wildebeest",
+        "bovid",
+        "lechwe/ kobus leche",
+        "black-footed ferret/ ferret/ mustela nigripes",
+        "simian",
+        "cur/ mongrel/ mutt",
+        "skunk/ polecat/ wood pussy",
+        "marten/ marten cat",
+        "cavy",
+        "corgi/ welsh corgi",
+        "weasel",
+        "bushbuck/ guib/ tragelaphus scriptus",
+        "bassarisk/ cacomistle/ cacomixle/ coon cat/ raccoon fox/ ringtail/ ring-tailed cat/ civet cat/ miner's cat/ bassariscus astutus",
+        "malinois",
+        "colobus/ colobus monkey",
+        "bowhead/ bowhead whale/ greenland whale/ balaena mysticetus",
+        "silverback",
+        "viscacha/ chinchillon/ lagostomus maximus",
+        "manul/ pallas's cat/ felis manul",
+        "pinto",
+        "impala/ aepyceros melampus",
+        "guereza/ colobus guereza",
+        "hartebeest",
+        "schipperke",
+        "ratel/ honey badger/ mellivora capensis",
+        "argali/ argal/ ovis ammon",
+        "guenon/ guenon monkey",
+        "indri/ indris/ indri indri/ indri brevicaudatus",
+        "sheep",
+        "pony",
+        "aardvark/ ant bear/ anteater/ orycteropus afer",
+        "pinscher",
+        "schnauzer",
+        "bullterrier/ bull terrier",
+        "hart/ stag",
+        "poodle/ poodle dog",
+        "lemming",
+        "wether",
+        "zebra",
+        "warhorse",
+        "deer/ cervid",
+        "orangutan/ orang/ orangutang/ pongo pygmaeus",
+        "basenji",
+        "antelope",
+        "vizsla/ hungarian pointer",
+        "spaniel",
+        "workhorse",
+        "groenendael",
+        "clumber/ clumber spaniel",
+        "ewe",
+        "fanaloka/ fossa fossa",
+        "chimpanzee/ chimp/ pan troglodytes",
+        "komondor",
+        "aoudad/ arui/ audad/ barbary sheep/ maned sheep/ ammotragus lervia",
+        "longwool",
+        "aye-aye/ daubentonia madagascariensis",
+        "staghound",
+        "carnivore",
+        "gorilla/ gorilla gorilla",
+        "addax/ addax nasomaculatus",
+        "dik-dik",
+        "roan",
+        "waterbuck",
+        "binturong/ bearcat/ arctictis bintourong",
+        "mouse",
+        "merino/ merino sheep",
+        "stoat",
+        "coati/ coati-mondi/ coati-mundi/ coon cat/ nasua narica",
+        "oryx/ pasang",
+        "dachshund/ dachsie/ badger dog",
+        "male horse",
+        "eland",
+        "siamang/ hylobates syndactylus/ symphalangus syndactylus",
+        "collie",
+        "hominid",
+        "aardwolf/ proteles cristata",
+        "gemsbok/ gemsbuck/ oryx gazella",
+        "greyhound",
+        "hare",
+        "beagle",
+        "buckskin",
+        "patas/ hussar monkey/ erythrocebus patas",
+        "dhole/ cuon alpinus",
+        "kudu/ koodoo/ koudou",
+        "tayra/ taira/ eira barbara",
+        "baboon",
+        "macaque",
+        "gerenuk/ litocranius walleri",
+        "tarsier",
+        "serotine/ european brown bat/ eptesicus serotinus",
+        "sassaby/ topi/ damaliscus lunatus",
+        "kuvasz",
+        "pug/ pug-dog",
+        "coypu/ nutria/ myocastor coypus",
+        "cattalo/ beefalo",
+        "terrier",
+        "courser",
+        "grivet/ cercopithecus aethiops",
+        "zebu",
+        "goat/ caprine animal",
+        "keeshond",
+        "spitz",
+        "puku/ adenota vardoni",
+        "caribou/ reindeer/ greenland caribou/ rangifer tarandus",
+        "mare/ female horse",
+        "hound/ hound dog",
+        "prosimian",
+        "kob/ kobus kob",
+        "horse/ equus caballus",
+        "grizzly/ grizzly bear/ silvertip/ silver-tip/ ursus horribilis/ ursus arctos horribilis",
+        "sambar/ sambur/ cervus unicolor",
+        "palomino",
+        "jaguarundi/ jaguarundi cat/ jaguarondi/ eyra/ felis yagouaroundi",
+        "hamster",
+        "saiga/ saiga tatarica",
+        "urial/ ovis vignei",
+        "rorqual/ razorback",
+        "basset/ basset hound",
+        "chevrotain/ mouse deer",
+        "agouti/ dasyprocta aguti",
+        "squirrel",
+        "bison",
+        "groundhog/ woodchuck/ marmota monax",
+        "tamarin/ lion monkey/ lion marmoset/ leoncita",
+        "rat",
+        "giraffe/ camelopard/ giraffa camelopardalis",
+        "rabbit/ coney/ cony",
+        "vervet/ vervet monkey/ cercopithecus aethiops pygerythrus",
+        "longhorn/ texas longhorn",
+        "tabby/ tabby cat",
+        "margay/ margay cat/ felis wiedi",
+        "narwhal/ narwal/ narwhale/ monodon monoceros",
+        "feline/ felid",
+        "bovine",
+        "saint bernard/ st bernard",
+        "ape",
+        "elk/ european elk/ moose/ alces alces",
+        "raccoon/ racoon",
+        "ungulate/ hoofed mammal",
+        "bluetick",
+        "redbone",
+        "abrocome/ chinchilla rat/ rat chinchilla",
+        "polecat/ fitch/ foulmart/ foumart/ mustela putorius",
+        "marmot",
+        "lion/ king of beasts/ panthera leo",
+        "bat/ chiropteran",
+        "blackbuck/ black buck/ antilope cervicapra",
+        "mandrill/ mandrillus sphinx",
+        "chestnut",
+        "dugong/ dugong dugon",
+        "freetail/ free-tailed bat/ freetailed bat",
+        "dun",
+        "mastiff",
+        "pachyderm",
+        "sussex spaniel",
+        "tiglon/ tigon",
+        "dormouse",
+        "kinkajou/ honey bear/ potto/ potos flavus/ potos caudivolvulus",
+        "monkey",
+        "steenbok/ steinbok/ raphicerus campestris",
+        "porpoise",
+        "pangolin/ scaly anteater/ anteater",
+        "retriever",
+        "stablemate/ stable companion",
+        "hyrax/ coney/ cony/ dassie/ das",
+        "steeplechaser",
+        "mouser",
+        "wapiti/ elk/ american elk/ cervus elaphus canadensis",
+        "muntjac/ barking deer",
+        "gerbil/ gerbille",
+        "langur",
+        "cheetah/ chetah/ acinonyx jubatus",
+        "briard",
+        "otter",
+        "bulldog/ english bulldog",
+        "serval/ felis serval",
+        "nilgai/ nylghai/ nylghau/ blue bull/ boselaphus tragocamelus",
+        "hind",
+        "rodent/ gnawer",
+        "phalanger/ opossum/ possum",
+        "cow",
+        "koala/ koala bear/ kangaroo bear/ native bear/ phascolarctos cinereus",
+        "numbat/ banded anteater/ anteater/ myrmecobius fasciatus",
+        "echidna/ spiny anteater/ anteater",
+        "kangaroo",
+        "thylacine/ tasmanian wolf/ tasmanian tiger/ thylacinus cynocephalus",
+        "platypus/ duckbill/ duckbilled platypus/ duck-billed platypus/ ornithorhynchus anatinus",
+        "bandicoot",
+        "insectivore",
+        "cuscus",
+        "wombat",
+        "pademelon/ paddymelon",
+        "puppy",
+        "livestock/ stock/ farm animal",
+        "frog/ toad/ toad frog/ anuran/ batrachian/ salientian",
+        "sunflower/ helianthus",
+        "bonsai",
+        "strawberry",
+        "transporter/ car transporter",
+        "police van/ police wagon/ paddy wagon/ patrol wagon/ wagon/ black maria",
+        "cabinet",
+        "lamp",
+        "bench",
+        "chair",
+        "sofa/ couch/ lounge",
+        "toilet seat",
+        "pool table/ billiard table/ snooker table",
+        "table",
+        "acorn",
+        "drum/ membranophone/ tympan",
+        "marimba/ xylophone",
+        "daisy",
+        "grass",
+        "comb",
+        "fork",
+        "ptarmigan",
+        "coho/ cohoe/ coho salmon/ blue jack/ silver salmon/ oncorhynchus kisutch",
+        "green lizard/ lacerta viridis",
+        "filter",
+        "rule/ ruler",
+        "key",
+        "keyboard",
+        "wheel",
+        "ferris wheel",
+        "roller coaster/ big dipper/ chute-the-chute",
+        "buckle",
+        "button",
+        "ski",
+        "barn spider/ araneus cavaticus",
+        "garden spider/ aranea diademata",
+        "silverfish/ lepisma saccharina",
+        "pot",
+        "drawer",
+        "bridge/ span",
+        "building/ edifice",
+        "cross",
+        "sail",
+        "rack",
+        "window",
+        "tower",
+        "roughage/ fiber",
+        "chili/ chili con carne",
+        "varietal/ varietal wine",
+        "mousse",
+        "martini",
+        "generic/ generic wine",
+        "vegetarianism",
+        "bag",
+        "coloring/ colouring/ food coloring/ food colouring/ food color/ food colour",
+        "sidecar",
+        "pudding",
+        "slivovitz",
+        "backboard/ basketball backboard",
+        "syrup/ sirup",
+        "slumgullion",
+        "sugar/ refined sugar",
+        "schnitzel/ wiener schnitzel",
+        "casserole",
+        "sheet/ bed sheet",
+        "chapatti/ chapati",
+        "ricotta",
+        "anisette/ anisette de bordeaux",
+        "grappa",
+        "limeade",
+        "bleu/ blue cheese",
+        "cue/ cue stick/ pool cue/ pool stick",
+        "feather boa/ boa",
+        "shortcake",
+        "croquette",
+        "terrine",
+        "bannock",
+        "chutney/ indian relish",
+        "fondue/ fondu",
+        "ramekin/ ramequin",
+        "flag",
+        "moussaka",
+        "basket/ basketball hoop/ hoop",
+        "absinth/ absinthe",
+        "samosa",
+        "kummel",
+        "flan",
+        "pesto",
+        "bordelaise",
+        "limpa",
+        "retsina",
+        "sukiyaki",
+        "lemonade",
+        "pasta",
+        "goulash/ hungarian goulash/ gulyas",
+        "succotash",
+        "mozzarella",
+        "bottle",
+        "potpie",
+        "kedgeree",
+        "teriyaki",
+        "maraschino/ maraschino liqueur",
+        "daiquiri/ rum cocktail",
+        "kirsch",
+        "hyson",
+        "tiramisu",
+        "zabaglione/ sabayon",
+        "grassland",
+        "vintage",
+        "ravigote/ ravigotte",
+        "bullshot",
+        "gorgonzola",
+        "champagne/ bubbly",
+        "sambuca",
+        "miso",
+        "gravy",
+        "tostada",
+        "veloute",
+        "honey",
+        "porridge",
+        "curry",
+        "salsa",
+        "catsup/ ketchup/ cetchup/ tomato ketchup",
+        "vermouth",
+        "sauerkraut",
+        "margarine/ margarin/ oleo/ oleomargarine/ marge",
+        "bathtub/ bathing tub/ bath/ tub",
+        "souffle",
+        "hummus/ humus/ hommos/ hoummos/ humous",
+        "ball",
+        "demiglace/ demi-glaze",
+        "salad",
+        "pita/ pocket bread",
+        "omelet/ omelette",
+        "burrito",
+        "towel",
+        "basketball",
+        "stick",
+        "squash racket/ squash racquet/ bat",
+        "orangeade",
+        "macedoine",
+        "jambalaya",
+        "plain/ field/ champaign",
+        "screwdriver",
+        "box",
+        "mallet",
+        "pizza/ pizza pie",
+        "blackboard/ chalkboard",
+        "adobo",
+        "pot-au-feu",
+        "saute",
+        "ice lolly/ lolly/ lollipop/ popsicle",
+        "parfait",
+        "egg yolk/ yolk",
+        "ragout",
+        "souchong/ soochong",
+        "pate"
+    ],
+    "levels": 1,
+    "attribute_tree": [
+        {
+            "kit fox/ vulpes macrotis,Kit Fox/ vulpes macrotis": null
+        },
+        {
+            "english setter,英语二传手": null
+        },
+        {
+            "hinny,Hinny": null
+        },
+        {
+            "liger,利格": null
+        },
+        {
+            "australian terrier,澳大利亚梗": null
+        },
+        {
+            "manatee/ trichechus manatus,海牛/ trichechus manatus": null
+        },
+        {
+            "mule,m子": null
+        },
+        {
+            "lemur,狐猴": null
+        },
+        {
+            "lesser panda/ red panda/ panda/ bear cat/ cat bear/ ailurus fulgens,小熊猫/红熊/熊猫/熊猫/猫熊/ ailurus fulgens": null
+        },
+        {
+            "bear,熊": null
+        },
+        {
+            "wolfhound,狼狗": null
+        },
+        {
+            "chickeree/ douglas squirrel/ tamiasciurus douglasi,菊苣/道格拉斯松鼠/ tamiasciurus douglasii": null
+        },
+        {
+            "egyptian cat,埃及猫": null
+        },
+        {
+            "galago/ bushbaby/ bush baby,galago/灌木丛/布什宝贝": null
+        },
+        {
+            "persian cat,波斯猫": null
+        },
+        {
+            "cougar/ puma/ catamount/ mountain lion/ painter/ panther/ felis concolor,美洲狮/ puma/ catamount/ Mountain Lion/ Painter/ Panther/ Felis Concolor": null
+        },
+        {
+            "gazelle,羚羊": null
+        },
+        {
+            "badger,獾": null
+        },
+        {
+            "great dane,大丹犬": null
+        },
+        {
+            "whippet,鞭子": null
+        },
+        {
+            "pipistrelle/ pipistrel/ pipistrellus pipistrellus,pipistrelle/ pipistrel/ pipistrellus pipistrellus": null
+        },
+        {
+            "scottish deerhound/ deerhound,苏格兰Deerhound/ Deerhound": null
+        },
+        {
+            "coonhound,Coonhound": null
+        },
+        {
+            "killer whale/ killer/ orca/ grampus/ sea wolf/ orcinus orca,杀手鲸/杀手/ orca/ grampus/ sea wolf/ orcinus orca": null
+        },
+        {
+            "foxhound,狐狸猎犬": null
+        },
+        {
+            "mink,貂": null
+        },
+        {
+            "pronghorn/ prongbuck/ pronghorn antelope/ american antelope/ antilocapra americana,pronghorn/ prongbuck/ pronghorn羚羊/美国羚羊/ Antilocapra Americana": null
+        },
+        {
+            "jerboa,Jerboa": null
+        },
+        {
+            "chacma/ chacma baboon/ papio ursinus,chacma/ chacma狒狒/ Papio Ursinus": null
+        },
+        {
+            "wirehair/ wirehaired terrier/ wire-haired terrier,铁毛/线毛梗/金发梗": null
+        },
+        {
+            "jaguar/ panther/ panthera onca/ felis onca,Jaguar/ Panther/ Panthera onca/ Felis onca": null
+        },
+        {
+            "otterhound/ otter hound,水獭/水獭猎犬": null
+        },
+        {
+            "bloodhound/ sleuthhound,猎犬/侦探猎犬": null
+        },
+        {
+            "gnu/ wildebeest,gnu/ wildebeest": null
+        },
+        {
+            "bovid,牛": null
+        },
+        {
+            "lechwe/ kobus leche,Lechwe/ Kobus Leche": null
+        },
+        {
+            "black-footed ferret/ ferret/ mustela nigripes,黑脚雪貂/雪貂/芥末酱": null
+        },
+        {
+            "simian,猿猴": null
+        },
+        {
+            "cur/ mongrel/ mutt,Cur/ Mongrel/ Mutt": null
+        },
+        {
+            "skunk/ polecat/ wood pussy,臭鼬/ polecat/木猫": null
+        },
+        {
+            "marten/ marten cat,马滕/马滕猫": null
+        },
+        {
+            "cavy,骑士": null
+        },
+        {
+            "corgi/ welsh corgi,Corgi/ Welsh Corgi": null
+        },
+        {
+            "weasel,黄鼠狼": null
+        },
+        {
+            "bushbuck/ guib/ tragelaphus scriptus,布什巴克/吉布/ tragelaphus scriptus": null
+        },
+        {
+            "bassarisk/ cacomistle/ cacomixle/ coon cat/ raccoon fox/ ringtail/ ring-tailed cat/ civet cat/ miner's cat/ bassariscus astutus,bassarisk/ cacomistle/ cacomixle/ coon cat/浣熊狐狸/铃声/环尾猫/ civet cat/ miner's cat/ bassariscus astutus": null
+        },
+        {
+            "malinois,玛奴": null
+        },
+        {
+            "colobus/ colobus monkey,哥洛布/哥洛布斯猴子": null
+        },
+        {
+            "bowhead/ bowhead whale/ greenland whale/ balaena mysticetus,弓头/弓头鲸/格陵兰鲸/ Balaena Mysticetus": null
+        },
+        {
+            "silverback,银背": null
+        },
+        {
+            "viscacha/ chinchillon/ lagostomus maximus,Viscacha/ Chinchillon/ Lagostomus Maximus": null
+        },
+        {
+            "manul/ pallas's cat/ felis manul,Manul/ Pallas的Cat/ Felis Manul": null
+        },
+        {
+            "pinto,Pinto": null
+        },
+        {
+            "impala/ aepyceros melampus,Impala/ Aepyceros Melampus": null
+        },
+        {
+            "guereza/ colobus guereza,Guereza/ Colobus Guereza": null
+        },
+        {
+            "hartebeest,哈特羚": null
+        },
+        {
+            "schipperke,Schipperke": null
+        },
+        {
+            "ratel/ honey badger/ mellivora capensis,Ratel/ Honey Badger/ Mellivora Capensis": null
+        },
+        {
+            "argali/ argal/ ovis ammon,argali/ argal/ ovis ammon": null
+        },
+        {
+            "guenon/ guenon monkey,圭恩/圭恩猴子": null
+        },
+        {
+            "indri/ indris/ indri indri/ indri brevicaudatus,indri/ indris/ indri indri/ indri brevicaudatus": null
+        },
+        {
+            "sheep,羊": null
+        },
+        {
+            "pony,小马": null
+        },
+        {
+            "aardvark/ ant bear/ anteater/ orycteropus afer,Aardvark/ Ant Bear/ Anteater/ Oryceropus afer": null
+        },
+        {
+            "pinscher,Pinscher": null
+        },
+        {
+            "schnauzer,Schnauzer": null
+        },
+        {
+            "bullterrier/ bull terrier,破产者/牛栏": null
+        },
+        {
+            "hart/ stag,哈特/雄鹿": null
+        },
+        {
+            "poodle/ poodle dog,贵宾犬/贵宾犬": null
+        },
+        {
+            "lemming,莱姆": null
+        },
+        {
+            "wether,wether": null
+        },
+        {
+            "zebra,斑马": null
+        },
+        {
+            "warhorse,战马": null
+        },
+        {
+            "deer/ cervid,鹿/肠": null
+        },
+        {
+            "orangutan/ orang/ orangutang/ pongo pygmaeus,猩猩/猩猩/ Orangutang/ Pongo Pygmaeus": null
+        },
+        {
+            "basenji,basenji": null
+        },
+        {
+            "antelope,羚羊": null
+        },
+        {
+            "vizsla/ hungarian pointer,Vizsla/匈牙利指针": null
+        },
+        {
+            "spaniel,西班牙猎狗": null
+        },
+        {
+            "workhorse,主力": null
+        },
+        {
+            "groenendael,Groenendael": null
+        },
+        {
+            "clumber/ clumber spaniel,浮肿/浮雕西班牙猎狗": null
+        },
+        {
+            "ewe,母羊": null
+        },
+        {
+            "fanaloka/ fossa fossa,Fanaloka/ Fossa Fossa": null
+        },
+        {
+            "chimpanzee/ chimp/ pan troglodytes,黑猩猩/黑猩猩/锅troglodytes": null
+        },
+        {
+            "komondor,Komondor": null
+        },
+        {
+            "aoudad/ arui/ audad/ barbary sheep/ maned sheep/ ammotragus lervia,Aoudad/ Arui/ Audad/ barbary绵羊/饲养绵羊/ Ammotragus Lervia": null
+        },
+        {
+            "longwool,长磨": null
+        },
+        {
+            "aye-aye/ daubentonia madagascariensis,Aye-aye/ daubentonia Madagascariensis": null
+        },
+        {
+            "staghound,狗狗": null
+        },
+        {
+            "carnivore,食肉动物": null
+        },
+        {
+            "gorilla/ gorilla gorilla,大猩猩/大猩猩大猩猩": null
+        },
+        {
+            "addax/ addax nasomaculatus,Addax/ Addax Nasomaculatus": null
+        },
+        {
+            "dik-dik,dik-dik": null
+        },
+        {
+            "roan,罗恩": null
+        },
+        {
+            "waterbuck,水巴": null
+        },
+        {
+            "binturong/ bearcat/ arctictis bintourong,Binturong/ Bearcat/ arctictis binturong": null
+        },
+        {
+            "mouse,鼠": null
+        },
+        {
+            "merino/ merino sheep,美利奴羊/美利奴羊": null
+        },
+        {
+            "stoat,鼪": null
+        },
+        {
+            "coati/ coati-mondi/ coati-mundi/ coon cat/ nasua narica,coati/ coati-mondi/ coati-mundi/ coon cat/ nasua narica": null
+        },
+        {
+            "oryx/ pasang,oryx/ pasang": null
+        },
+        {
+            "dachshund/ dachsie/ badger dog,dachshund/ dachsie/ badge狗": null
+        },
+        {
+            "male horse,雄马": null
+        },
+        {
+            "eland,Eland": null
+        },
+        {
+            "siamang/ hylobates syndactylus/ symphalangus syndactylus,siamang/ hylobates syndactylus/ symphalangus syndactylus": null
+        },
+        {
+            "collie,牧羊犬": null
+        },
+        {
+            "hominid,人类": null
+        },
+        {
+            "aardwolf/ proteles cristata,aardwolf/ proteles cristata": null
+        },
+        {
+            "gemsbok/ gemsbuck/ oryx gazella,Gemsbok/ Gemsbuck/ Oryx Gazella": null
+        },
+        {
+            "greyhound,灵狮": null
+        },
+        {
+            "hare,野兔": null
+        },
+        {
+            "beagle,小猎犬": null
+        },
+        {
+            "buckskin,雄鹿": null
+        },
+        {
+            "patas/ hussar monkey/ erythrocebus patas,Patas/ Hussar Monkey/ Erythrocebus Patas": null
+        },
+        {
+            "dhole/ cuon alpinus,dhole/ cuon alpinus": null
+        },
+        {
+            "kudu/ koodoo/ koudou,kudu/ koodoo/ koudou": null
+        },
+        {
+            "tayra/ taira/ eira barbara,Tayra/ Taira/ Eira Barbara": null
+        },
+        {
+            "baboon,狒狒": null
+        },
+        {
+            "macaque,猕猴": null
+        },
+        {
+            "gerenuk/ litocranius walleri,Gerenuk/ Litocranius Walleri": null
+        },
+        {
+            "tarsier,Tarsier": null
+        },
+        {
+            "serotine/ european brown bat/ eptesicus serotinus,血清素/欧洲棕色蝙蝠/ Eptesicus血清素": null
+        },
+        {
+            "sassaby/ topi/ damaliscus lunatus,Sassaby/ topi/ damaliscus lunatus": null
+        },
+        {
+            "kuvasz,库瓦斯": null
+        },
+        {
+            "pug/ pug-dog,哈巴狗/哈巴狗狗": null
+        },
+        {
+            "coypu/ nutria/ myocastor coypus,COYPU/ NUTRIA/ MYOCASTOR COYPUS": null
+        },
+        {
+            "cattalo/ beefalo,cattalo/ beefalo": null
+        },
+        {
+            "terrier,梗": null
+        },
+        {
+            "courser,Courser": null
+        },
+        {
+            "grivet/ cercopithecus aethiops,grivet/ cercopithecus aethiops": null
+        },
+        {
+            "zebu,Zebu": null
+        },
+        {
+            "goat/ caprine animal,go": null
+        },
+        {
+            "keeshond,Keeshond": null
+        },
+        {
+            "spitz,斯皮兹": null
+        },
+        {
+            "puku/ adenota vardoni,puku/ adenota vardoni": null
+        },
+        {
+            "caribou/ reindeer/ greenland caribou/ rangifer tarandus,北美驯鹿/驯鹿/格陵兰驯鹿/游兰派塔兰德斯": null
+        },
+        {
+            "mare/ female horse,母马": null
+        },
+        {
+            "hound/ hound dog,猎犬/猎犬": null
+        },
+        {
+            "prosimian,前科医生": null
+        },
+        {
+            "kob/ kobus kob,Kob/ Kobus Kob": null
+        },
+        {
+            "horse/ equus caballus,马/ eseus caballus": null
+        },
+        {
+            "grizzly/ grizzly bear/ silvertip/ silver-tip/ ursus horribilis/ ursus arctos horribilis,灰熊/灰熊/ silvertip/ silver-tip/ ursus horribilis/ ursus artctos arribilis": null
+        },
+        {
+            "sambar/ sambur/ cervus unicolor,桑巴尔/桑堡/囊": null
+        },
+        {
+            "palomino,帕洛米诺": null
+        },
+        {
+            "jaguarundi/ jaguarundi cat/ jaguarondi/ eyra/ felis yagouaroundi,jaguarundi/ jaguarundi cat/ jaguarondi/ eyra/ felis yagouaroundi": null
+        },
+        {
+            "hamster,仓鼠": null
+        },
+        {
+            "saiga/ saiga tatarica,Saiga/ Saiga Tatarica": null
+        },
+        {
+            "urial/ ovis vignei,urial/ ovis vignei": null
+        },
+        {
+            "rorqual/ razorback,Rorqual/ Razorback": null
+        },
+        {
+            "basset/ basset hound,贝丝/巴塞特猎犬": null
+        },
+        {
+            "chevrotain/ mouse deer,雪佛兰/老鼠鹿": null
+        },
+        {
+            "agouti/ dasyprocta aguti,agouti/ dasyprocta aguti": null
+        },
+        {
+            "squirrel,松鼠": null
+        },
+        {
+            "bison,野牛": null
+        },
+        {
+            "groundhog/ woodchuck/ marmota monax,土拨鼠/伍德克/ marmota monax": null
+        },
+        {
+            "tamarin/ lion monkey/ lion marmoset/ leoncita,塔玛林/狮子猴/狮子马尔莫斯/ leoncita": null
+        },
+        {
+            "rat,鼠": null
+        },
+        {
+            "giraffe/ camelopard/ giraffa camelopardalis,长颈鹿/骆驼/小肠骆驼果": null
+        },
+        {
+            "rabbit/ coney/ cony,兔子/康尼/康尼": null
+        },
+        {
+            "vervet/ vervet monkey/ cercopithecus aethiops pygerythrus,Vervet/ vervet猴子/ Cercopithecus aethiops Pygerythrus": null
+        },
+        {
+            "longhorn/ texas longhorn,Longhorn/ Texas Longhorn": null
+        },
+        {
+            "tabby/ tabby cat,塔比/塔比猫": null
+        },
+        {
+            "margay/ margay cat/ felis wiedi,Margay/ Margay Cat/ Felis Wiedi": null
+        },
+        {
+            "narwhal/ narwal/ narwhale/ monodon monoceros,NARWHAL/ NARWAL/ NARWHALE/ MONODON MONOCEROS": null
+        },
+        {
+            "feline/ felid,猫/费利德": null
+        },
+        {
+            "bovine,牛": null
+        },
+        {
+            "saint bernard/ st bernard,圣伯纳德/圣伯纳德": null
+        },
+        {
+            "ape,猿": null
+        },
+        {
+            "elk/ european elk/ moose/ alces alces,麋鹿/欧洲麋鹿/驼鹿/阿尔斯·阿尔斯": null
+        },
+        {
+            "raccoon/ racoon,浣熊/浣熊": null
+        },
+        {
+            "ungulate/ hoofed mammal,哺乳动物/蹄型哺乳动物": null
+        },
+        {
+            "bluetick,Bluetick": null
+        },
+        {
+            "redbone,Redbone": null
+        },
+        {
+            "abrocome/ chinchilla rat/ rat chinchilla,废除/龙猫大鼠/大鼠龙猫": null
+        },
+        {
+            "polecat/ fitch/ foulmart/ foumart/ mustela putorius,POLECAT/ FITCH/ FOURMART/ FOUMART/ MUSTELA PUTORIUS": null
+        },
+        {
+            "marmot,马莫特": null
+        },
+        {
+            "lion/ king of beasts/ panthera leo,狮子/野兽之王/潘特拉狮子座": null
+        },
+        {
+            "bat/ chiropteran,蝙蝠/ chiropteran": null
+        },
+        {
+            "blackbuck/ black buck/ antilope cervicapra,黑巴克/黑色雄鹿/静脉covicapra": null
+        },
+        {
+            "mandrill/ mandrillus sphinx,mandrill/ mandrillus狮身人面像": null
+        },
+        {
+            "chestnut,板栗": null
+        },
+        {
+            "dugong/ dugong dugon,Dugong/ Dugong Dugon": null
+        },
+        {
+            "freetail/ free-tailed bat/ freetailed bat,壁炉/自由尾蝙蝠/弗雷尾蝙蝠": null
+        },
+        {
+            "dun,逼债": null
+        },
+        {
+            "mastiff,獒": null
+        },
+        {
+            "pachyderm,Pachyderm": null
+        },
+        {
+            "sussex spaniel,苏塞克斯犬": null
+        },
+        {
+            "tiglon/ tigon,Tiglon/ Tigon": null
+        },
+        {
+            "dormouse,休蒙特": null
+        },
+        {
+            "kinkajou/ honey bear/ potto/ potos flavus/ potos caudivolvulus,Kinkajou/蜂蜜熊/ Potto/ Potos Flavus/ Potos Caudivolvulus": null
+        },
+        {
+            "monkey,猴": null
+        },
+        {
+            "steenbok/ steinbok/ raphicerus campestris,Steenbok/ Steinbok/ Raphicerus Campestris": null
+        },
+        {
+            "porpoise,海豚": null
+        },
+        {
+            "pangolin/ scaly anteater/ anteater,穿山甲/鳞片食品/食星": null
+        },
+        {
+            "retriever,猎犬": null
+        },
+        {
+            "stablemate/ stable companion,稳定/稳定的伴侣": null
+        },
+        {
+            "hyrax/ coney/ cony/ dassie/ das,hyrax/ coney/ cony/ dassie/ das": null
+        },
+        {
+            "steeplechaser,跳栏者": null
+        },
+        {
+            "mouser,慕斯": null
+        },
+        {
+            "wapiti/ elk/ american elk/ cervus elaphus canadensis,Wapiti/ Elk/ American Elk/ Cervus Elaphus Canadensis": null
+        },
+        {
+            "muntjac/ barking deer,muntjac/ barking鹿": null
+        },
+        {
+            "gerbil/ gerbille,Gerbil/ Gerbille": null
+        },
+        {
+            "langur,兰格": null
+        },
+        {
+            "cheetah/ chetah/ acinonyx jubatus,猎豹/ chetah/ acinonyx jubatus": null
+        },
+        {
+            "briard,Briard": null
+        },
+        {
+            "otter,獭": null
+        },
+        {
+            "bulldog/ english bulldog,斗牛犬/英语斗牛犬": null
+        },
+        {
+            "serval/ felis serval,serval/ felis serval": null
+        },
+        {
+            "nilgai/ nylghai/ nylghau/ blue bull/ boselaphus tragocamelus,Nilgai/ nylghai/ nylghau/ blue Bull/ Boselaphus tragocamelus": null
+        },
+        {
+            "hind,后": null
+        },
+        {
+            "rodent/ gnawer,啮齿动物/ gnawer": null
+        },
+        {
+            "phalanger/ opossum/ possum,Phalanger/负鼠/负鼠": null
+        },
+        {
+            "cow,奶牛": null
+        },
+        {
+            "koala/ koala bear/ kangaroo bear/ native bear/ phascolarctos cinereus,考拉/考拉熊/袋鼠熊/本地熊/ phascolarctos cinereus": null
+        },
+        {
+            "numbat/ banded anteater/ anteater/ myrmecobius fasciatus,numbat/带状的食人鱼/绿豆/ Myrmecobius Fasciatus": null
+        },
+        {
+            "echidna/ spiny anteater/ anteater,echidna/刺绿色食品/食人鱼": null
+        },
+        {
+            "kangaroo,袋鼠": null
+        },
+        {
+            "thylacine/ tasmanian wolf/ tasmanian tiger/ thylacinus cynocephalus,甲状腺素/塔斯马尼亚狼/塔斯马尼亚老虎/凯西纳斯cynocephalus": null
+        },
+        {
+            "platypus/ duckbill/ duckbilled platypus/ duck-billed platypus/ ornithorhynchus anatinus,鸭嘴兽/鸭子/鸭子鸭/鸭嘴柏拉图/鸟": null
+        },
+        {
+            "bandicoot,Bandicoot": null
+        },
+        {
+            "insectivore,食虫动物": null
+        },
+        {
+            "cuscus,Cuscus": null
+        },
+        {
+            "wombat,袋熊": null
+        },
+        {
+            "pademelon/ paddymelon,Pademelon/ Paddymelon": null
+        },
+        {
+            "puppy,小狗": null
+        },
+        {
+            "livestock/ stock/ farm animal,牲畜/股票/农用动物": null
+        },
+        {
+            "frog/ toad/ toad frog/ anuran/ batrachian/ salientian,青蛙/蟾蜍/蟾蜍青蛙/阿努拉/巴拉奇/咸": null
+        },
+        {
+            "sunflower/ helianthus,向日葵/ helianthus": null
+        },
+        {
+            "bonsai,盆栽": null
+        },
+        {
+            "strawberry,草莓": null
+        },
+        {
+            "transporter/ car transporter,运输车/汽车运输车": null
+        },
+        {
+            "police van/ police wagon/ paddy wagon/ patrol wagon/ wagon/ black maria,警察货车/警车/帕迪旅行车/巡逻车/货车/黑色玛丽亚": null
+        },
+        {
+            "cabinet,内阁": null
+        },
+        {
+            "lamp,灯": null
+        },
+        {
+            "bench,长椅": null
+        },
+        {
+            "chair,椅子": null
+        },
+        {
+            "sofa/ couch/ lounge,沙发/沙发/休息室": null
+        },
+        {
+            "toilet seat,马桶座圈": null
+        },
+        {
+            "pool table/ billiard table/ snooker table,泳池表/台球表/斯诺克表": null
+        },
+        {
+            "table,桌子": null
+        },
+        {
+            "acorn,橡子": null
+        },
+        {
+            "drum/ membranophone/ tympan,鼓/膜/鼓舞": null
+        },
+        {
+            "marimba/ xylophone,马林巴/木琴": null
+        },
+        {
+            "daisy,雏菊": null
+        },
+        {
+            "grass,草": null
+        },
+        {
+            "comb,梳子": null
+        },
+        {
+            "fork,叉子": null
+        },
+        {
+            "ptarmigan,ptarmigan": null
+        },
+        {
+            "coho/ cohoe/ coho salmon/ blue jack/ silver salmon/ oncorhynchus kisutch,coho/ cohoe/ coho鲑鱼/蓝色杰克/银三文鱼/ oncorhynchus kisutch": null
+        },
+        {
+            "green lizard/ lacerta viridis,绿色蜥蜴/拉克塔·维里迪斯": null
+        },
+        {
+            "filter,筛选": null
+        },
+        {
+            "rule/ ruler,规则/统治者": null
+        },
+        {
+            "key,钥匙": null
+        },
+        {
+            "keyboard,键盘": null
+        },
+        {
+            "wheel,车轮": null
+        },
+        {
+            "ferris wheel,摩天轮": null
+        },
+        {
+            "roller coaster/ big dipper/ chute-the-chute,过山车/北斗星/斜道": null
+        },
+        {
+            "buckle,扣上": null
+        },
+        {
+            "button,按钮": null
+        },
+        {
+            "ski,滑雪": null
+        },
+        {
+            "barn spider/ araneus cavaticus,谷仓蜘蛛/阿拉尼斯骑兵": null
+        },
+        {
+            "garden spider/ aranea diademata,花园蜘蛛/阿拉尼亚dicdemata": null
+        },
+        {
+            "silverfish/ lepisma saccharina,silverfish/ lepisma saccharina": null
+        },
+        {
+            "pot,锅": null
+        },
+        {
+            "drawer,抽屉": null
+        },
+        {
+            "bridge/ span,桥/跨度": null
+        },
+        {
+            "building/ edifice,建筑物/大厦": null
+        },
+        {
+            "cross,叉": null
+        },
+        {
+            "sail,帆": null
+        },
+        {
+            "rack,架子": null
+        },
+        {
+            "window,窗户": null
+        },
+        {
+            "tower,塔": null
+        },
+        {
+            "roughage/ fiber,粗糙/纤维": null
+        },
+        {
+            "chili/ chili con carne,辣椒/辣椒con carne": null
+        },
+        {
+            "varietal/ varietal wine,品种/品种葡萄酒": null
+        },
+        {
+            "mousse,摩丝": null
+        },
+        {
+            "martini,马提尼": null
+        },
+        {
+            "generic/ generic wine,通用葡萄酒": null
+        },
+        {
+            "vegetarianism,素食主义": null
+        },
+        {
+            "bag,包": null
+        },
+        {
+            "coloring/ colouring/ food coloring/ food colouring/ food color/ food colour,着色/着色/食品着色/食品着色/食品颜色/食品颜色": null
+        },
+        {
+            "sidecar,边车": null
+        },
+        {
+            "pudding,布丁": null
+        },
+        {
+            "slivovitz,Slivovitz": null
+        },
+        {
+            "backboard/ basketball backboard,篮板/篮球篮板": null
+        },
+        {
+            "syrup/ sirup,糖浆/ sirup": null
+        },
+        {
+            "slumgullion,昏迷": null
+        },
+        {
+            "sugar/ refined sugar,糖/精制糖": null
+        },
+        {
+            "schnitzel/ wiener schnitzel,schnitzel/ wiener schnitzel": null
+        },
+        {
+            "casserole,沙锅": null
+        },
+        {
+            "sheet/ bed sheet,床单/床单": null
+        },
+        {
+            "chapatti/ chapati,骗子/骗子": null
+        },
+        {
+            "ricotta,凝乳": null
+        },
+        {
+            "anisette/ anisette de bordeaux,Anisette/ Anisette de Bordeaux": null
+        },
+        {
+            "grappa,格拉帕": null
+        },
+        {
+            "limeade,莱姆汁": null
+        },
+        {
+            "bleu/ blue cheese,bleu/蓝色奶酪": null
+        },
+        {
+            "cue/ cue stick/ pool cue/ pool stick,提示/提示棒/泳池提示/泳池棒": null
+        },
+        {
+            "feather boa/ boa,羽毛蟒蛇/蟒蛇": null
+        },
+        {
+            "shortcake,酥饼": null
+        },
+        {
+            "croquette,Croquette": null
+        },
+        {
+            "terrine,陶器": null
+        },
+        {
+            "bannock,班诺克": null
+        },
+        {
+            "chutney/ indian relish,酸辣酱/印度福利": null
+        },
+        {
+            "fondue/ fondu,火锅/ Fondu": null
+        },
+        {
+            "ramekin/ ramequin,Ramekin/ Ramequin": null
+        },
+        {
+            "flag,旗帜": null
+        },
+        {
+            "moussaka,茄": null
+        },
+        {
+            "basket/ basketball hoop/ hoop,篮子/篮球篮": null
+        },
+        {
+            "absinth/ absinthe,苦艾酒/苦艾酒": null
+        },
+        {
+            "samosa,萨摩萨": null
+        },
+        {
+            "kummel,Kummel": null
+        },
+        {
+            "flan,水果馅饼": null
+        },
+        {
+            "pesto,香蒜": null
+        },
+        {
+            "bordelaise,Bordelaise": null
+        },
+        {
+            "limpa,limpa": null
+        },
+        {
+            "retsina,retsina": null
+        },
+        {
+            "sukiyaki,寿喜烧": null
+        },
+        {
+            "lemonade,柠檬汽水": null
+        },
+        {
+            "pasta,意大利面": null
+        },
+        {
+            "goulash/ hungarian goulash/ gulyas,Goulash/匈牙利古拉什/古利斯": null
+        },
+        {
+            "succotash,助长": null
+        },
+        {
+            "mozzarella,奶酪": null
+        },
+        {
+            "bottle,瓶子": null
+        },
+        {
+            "potpie,锅饼": null
+        },
+        {
+            "kedgeree,Kedgeree": null
+        },
+        {
+            "teriyaki,照烧": null
+        },
+        {
+            "maraschino/ maraschino liqueur,Maraschino/ Maraschino利口酒": null
+        },
+        {
+            "daiquiri/ rum cocktail,Daiquiri/朗姆酒鸡尾酒": null
+        },
+        {
+            "kirsch,柯希": null
+        },
+        {
+            "hyson,希森": null
+        },
+        {
+            "tiramisu,提拉米苏": null
+        },
+        {
+            "zabaglione/ sabayon,Zabaglione/ Sabayon": null
+        },
+        {
+            "grassland,草原": null
+        },
+        {
+            "vintage,优质的": null
+        },
+        {
+            "ravigote/ ravigotte,Ravigote/ Ravigotte": null
+        },
+        {
+            "bullshot,牛头": null
+        },
+        {
+            "gorgonzola,Gorgonzola": null
+        },
+        {
+            "champagne/ bubbly,香槟/气泡": null
+        },
+        {
+            "sambuca,桑布卡": null
+        },
+        {
+            "miso,味噌": null
+        },
+        {
+            "gravy,肉汁": null
+        },
+        {
+            "tostada,Tostada": null
+        },
+        {
+            "veloute,Veloute": null
+        },
+        {
+            "honey,蜂蜜": null
+        },
+        {
+            "porridge,稀饭": null
+        },
+        {
+            "curry,咖喱": null
+        },
+        {
+            "salsa,莎莎": null
+        },
+        {
+            "catsup/ ketchup/ cetchup/ tomato ketchup,catsup/番茄酱/ cetchup/番茄番茄酱": null
+        },
+        {
+            "vermouth,苦艾酒": null
+        },
+        {
+            "sauerkraut,酸菜": null
+        },
+        {
+            "margarine/ margarin/ oleo/ oleomargarine/ marge,人造黄油/玛格琳/ oleo/ oleomargarine/ marge": null
+        },
+        {
+            "bathtub/ bathing tub/ bath/ tub,浴缸/浴缸/浴缸/浴缸": null
+        },
+        {
+            "souffle,蛋奶酥": null
+        },
+        {
+            "hummus/ humus/ hommos/ hoummos/ humous,鹰嘴豆泥/鹰嘴豆泥/鹰嘴豆泥/鹰嘴豆泥/鹰嘴豆泥": null
+        },
+        {
+            "ball,球": null
+        },
+        {
+            "demiglace/ demi-glaze,Demi Glace/ demi-glace": null
+        },
+        {
+            "salad,沙拉": null
+        },
+        {
+            "pita/ pocket bread,皮塔饼/口袋面包": null
+        },
+        {
+            "omelet/ omelette,煎蛋/煎蛋": null
+        },
+        {
+            "burrito,墨西哥卷饼": null
+        },
+        {
+            "towel,毛巾": null
+        },
+        {
+            "basketball,篮球": null
+        },
+        {
+            "stick,戳": null
+        },
+        {
+            "squash racket/ squash racquet/ bat,壁球球拍/壁球球拍/蝙蝠": null
+        },
+        {
+            "orangeade,橙色": null
+        },
+        {
+            "macedoine,大会": null
+        },
+        {
+            "jambalaya,什锦饭": null
+        },
+        {
+            "plain/ field/ champaign,平原/田野/香槟": null
+        },
+        {
+            "screwdriver,螺丝刀": null
+        },
+        {
+            "box,盒子": null
+        },
+        {
+            "mallet,槌": null
+        },
+        {
+            "pizza/ pizza pie,披萨/比萨饼派": null
+        },
+        {
+            "blackboard/ chalkboard,黑板/黑板": null
+        },
+        {
+            "adobo,阿道博": null
+        },
+        {
+            "pot-au-feu,pot-au-feu": null
+        },
+        {
+            "saute,炒": null
+        },
+        {
+            "ice lolly/ lolly/ lollipop/ popsicle,冰棒/棒棒糖/棒棒糖/冰棒": null
+        },
+        {
+            "parfait,冻糕": null
+        },
+        {
+            "egg yolk/ yolk,蛋黄/蛋黄": null
+        },
+        {
+            "ragout,抹布": null
+        },
+        {
+            "souchong/ soochong,Souchong/ Soochong": null
+        },
+        {
+            "pate,佩特": null
+        }
+    ]
+}

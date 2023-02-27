@@ -1,0 +1,135 @@
+{
+    "l1_attributes": [
+        "aeroplane",
+        "bicycle",
+        "bird",
+        "boat",
+        "bottle",
+        "bus",
+        "car",
+        "cat",
+        "chair",
+        "cow",
+        "diningtable",
+        "dog",
+        "horse",
+        "motorbike",
+        "person",
+        "pottedplant",
+        "sheep",
+        "sofa",
+        "train",
+        "tvmonitor",
+        "donkey",
+        "monkey",
+        "goat",
+        "wolf",
+        "jetski",
+        "zebra",
+        "centaur",
+        "mug",
+        "statue",
+        "building",
+        "bag",
+        "carriage"
+    ],
+    "levels": 1,
+    "attribute_tree": [
+        {
+            "aeroplane,飞机": null
+        },
+        {
+            "bicycle,自行车": null
+        },
+        {
+            "bird,鸟": null
+        },
+        {
+            "boat,船": null
+        },
+        {
+            "bottle,瓶子": null
+        },
+        {
+            "bus,公共汽车": null
+        },
+        {
+            "car,车": null
+        },
+        {
+            "cat,猫": null
+        },
+        {
+            "chair,椅子": null
+        },
+        {
+            "cow,奶牛": null
+        },
+        {
+            "diningtable,餐桌": null
+        },
+        {
+            "dog,狗": null
+        },
+        {
+            "horse,马": null
+        },
+        {
+            "motorbike,摩托车": null
+        },
+        {
+            "person,人": null
+        },
+        {
+            "pottedplant,盆栽": null
+        },
+        {
+            "sheep,羊": null
+        },
+        {
+            "sofa,沙发": null
+        },
+        {
+            "train,火车": null
+        },
+        {
+            "tvmonitor,电视监视器": null
+        },
+        {
+            "donkey,驴": null
+        },
+        {
+            "monkey,猴": null
+        },
+        {
+            "goat,山羊": null
+        },
+        {
+            "wolf,狼": null
+        },
+        {
+            "jetski,杰斯基": null
+        },
+        {
+            "zebra,斑马": null
+        },
+        {
+            "centaur,半人马座": null
+        },
+        {
+            "mug,马克杯": null
+        },
+        {
+            "statue,雕像": null
+        },
+        {
+            "building,建造": null
+        },
+        {
+            "bag,包": null
+        },
+        {
+            "carriage,运输": null
+        }
+    ]
+}

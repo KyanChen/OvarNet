@@ -1,0 +1,64 @@
+{
+    "cleanliness": [
+        "cleanliness"
+    ],
+    "color": [
+        "color",
+        "clothes color",
+        "hair color"
+    ],
+    "pattern": [
+        "clothes pattern",
+        "pattern"
+    ],
+    "color quantity": [
+        "color quantity"
+    ],
+    "cooked": [
+        "cooked"
+    ],
+    "face expression": [
+        "face expression"
+    ],
+    "gender": [
+        "gender"
+    ],
+    "group": [
+        "group"
+    ],
+    "length": [
+        "length",
+        "hair length"
+    ],
+    "tone": [
+        "tone",
+        "hair tone"
+    ],
+    "type": [
+        "hair type"
+    ],
+    "material": [
+        "material"
+    ],
+    "maturity": [
+        "maturity"
+    ],
+    "optical property": [
+        "optical property"
+    ],
+    "order": [
+        "order"
+    ],
+    "position": [
+        "position"
+    ],
+    "size": [
+        "size"
+    ],
+    "state": [
+        "state"
+    ],
+    "texture": [
+        "texture"
+    ]
+}

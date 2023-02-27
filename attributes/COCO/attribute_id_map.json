@@ -1,0 +1,849 @@
+{
+    "num_attributes": 204,
+    "num_sub_attributes": 216,
+    "id2attribute": {
+        "0": [
+            "standing"
+        ],
+        "1": [
+            "sitting"
+        ],
+        "2": [
+            "laying"
+        ],
+        "3": [
+            "walking"
+        ],
+        "4": [
+            "watching",
+            "looking"
+        ],
+        "5": [
+            "eating"
+        ],
+        "6": [
+            "waiting"
+        ],
+        "7": [
+            "moving"
+        ],
+        "8": [
+            "playing"
+        ],
+        "9": [
+            "sleeping"
+        ],
+        "10": [
+            "working"
+        ],
+        "11": [
+            "running"
+        ],
+        "12": [
+            "hiding"
+        ],
+        "13": [
+            "riding"
+        ],
+        "14": [
+            "drinking"
+        ],
+        "15": [
+            "swimming"
+        ],
+        "16": [
+            "smiling"
+        ],
+        "17": [
+            "jumping"
+        ],
+        "18": [
+            "flying"
+        ],
+        "19": [
+            "traveling"
+        ],
+        "20": [
+            "enjoying"
+        ],
+        "21": [
+            "thinking"
+        ],
+        "22": [
+            "loving"
+        ],
+        "23": [
+            "holding"
+        ],
+        "24": [
+            "feeding"
+        ],
+        "25": [
+            "talking"
+        ],
+        "26": [
+            "floating"
+        ],
+        "27": [
+            "skiing"
+        ],
+        "28": [
+            "hunting"
+        ],
+        "29": [
+            "listening"
+        ],
+        "30": [
+            "hanging"
+        ],
+        "31": [
+            "grazing"
+        ],
+        "32": [
+            "skating"
+        ],
+        "33": [
+            "leaning"
+        ],
+        "34": [
+            "smelling",
+            "sniffing"
+        ],
+        "35": [
+            "socializing"
+        ],
+        "36": [
+            "stretching"
+        ],
+        "37": [
+            "driving"
+        ],
+        "38": [
+            "cooking"
+        ],
+        "39": [
+            "learning"
+        ],
+        "40": [
+            "following"
+        ],
+        "41": [
+            "surfing"
+        ],
+        "42": [
+            "reading"
+        ],
+        "43": [
+            "climbing"
+        ],
+        "44": [
+            "bending"
+        ],
+        "45": [
+            "fishing"
+        ],
+        "46": [
+            "cuddling"
+        ],
+        "47": [
+            "smelling"
+        ],
+        "48": [
+            "panting"
+        ],
+        "49": [
+            "participating"
+        ],
+        "50": [
+            "racing"
+        ],
+        "51": [
+            "serving"
+        ],
+        "52": [
+            "crouching"
+        ],
+        "53": [
+            "reaching"
+        ],
+        "54": [
+            "landing"
+        ],
+        "55": [
+            "hiking"
+        ],
+        "56": [
+            "waving"
+        ],
+        "57": [
+            "spectating"
+        ],
+        "58": [
+            "exercising"
+        ],
+        "59": [
+            "carrying"
+        ],
+        "60": [
+            "snowboarding"
+        ],
+        "61": [
+            "vacationing"
+        ],
+        "62": [
+            "shopping"
+        ],
+        "63": [
+            "catching"
+        ],
+        "64": [
+            "laughing"
+        ],
+        "65": [
+            "celebrating"
+        ],
+        "66": [
+            "angry"
+        ],
+        "67": [
+            "happy"
+        ],
+        "68": [
+            "unhappy"
+        ],
+        "69": [
+            "hungry"
+        ],
+        "70": [
+            "friendly"
+        ],
+        "71": [
+            "sleepy"
+        ],
+        "72": [
+            "lazy"
+        ],
+        "73": [
+            "dry"
+        ],
+        "74": [
+            "alone",
+            "lonely"
+        ],
+        "75": [
+            "dirty"
+        ],
+        "76": [
+            "urban"
+        ],
+        "77": [
+            "busy"
+        ],
+        "78": [
+            "healthy"
+        ],
+        "79": [
+            "shiny"
+        ],
+        "80": [
+            "thirsty"
+        ],
+        "81": [
+            "comfortable",
+            "cozy"
+        ],
+        "82": [
+            "sporty"
+        ],
+        "83": [
+            "fancy"
+        ],
+        "84": [
+            "empty"
+        ],
+        "85": [
+            "furry"
+        ],
+        "86": [
+            "toy"
+        ],
+        "87": [
+            "messy",
+            "cluttered"
+        ],
+        "88": [
+            "sneaky"
+        ],
+        "89": [
+            "hairy"
+        ],
+        "90": [
+            "tasty",
+            "delicious"
+        ],
+        "91": [
+            "bulky"
+        ],
+        "92": [
+            "frisky"
+        ],
+        "93": [
+            "fluffy"
+        ],
+        "94": [
+            "fuzzy"
+        ],
+        "95": [
+            "whole"
+        ],
+        "96": [
+            "full"
+        ],
+        "97": [
+            "closed"
+        ],
+        "98": [
+            "open"
+        ],
+        "99": [
+            "on"
+        ],
+        "100": [
+            "off"
+        ],
+        "101": [
+            "small"
+        ],
+        "102": [
+            "large"
+        ],
+        "103": [
+            "long"
+        ],
+        "104": [
+            "short"
+        ],
+        "105": [
+            "appetizing"
+        ],
+        "106": [
+            "filling"
+        ],
+        "107": [
+            "curious"
+        ],
+        "108": [
+            "old"
+        ],
+        "109": [
+            "young"
+        ],
+        "110": [
+            "adult"
+        ],
+        "111": [
+            "calm"
+        ],
+        "112": [
+            "cold"
+        ],
+        "113": [
+            "cool"
+        ],
+        "114": [
+            "warm"
+        ],
+        "115": [
+            "hot"
+        ],
+        "116": [
+            "clean"
+        ],
+        "117": [
+            "wet"
+        ],
+        "118": [
+            "tired"
+        ],
+        "119": [
+            "playful"
+        ],
+        "120": [
+            "peaceful"
+        ],
+        "121": [
+            "useful"
+        ],
+        "122": [
+            "joyful"
+        ],
+        "123": [
+            "sad"
+        ],
+        "124": [
+            "scared"
+        ],
+        "125": [
+            "bored"
+        ],
+        "126": [
+            "excited"
+        ],
+        "127": [
+            "anxious"
+        ],
+        "128": [
+            "annoyed"
+        ],
+        "129": [
+            "confused"
+        ],
+        "130": [
+            "modern"
+        ],
+        "131": [
+            "cute",
+            "adorable"
+        ],
+        "132": [
+            "new"
+        ],
+        "133": [
+            "fake"
+        ],
+        "134": [
+            "wild"
+        ],
+        "135": [
+            "natural"
+        ],
+        "136": [
+            "plastic"
+        ],
+        "137": [
+            "soft"
+        ],
+        "138": [
+            "hard"
+        ],
+        "139": [
+            "athletic"
+        ],
+        "140": [
+            "perched"
+        ],
+        "141": [
+            "professional"
+        ],
+        "142": [
+            "spotted"
+        ],
+        "143": [
+            "male"
+        ],
+        "144": [
+            "female"
+        ],
+        "145": [
+            "curled"
+        ],
+        "146": [
+            "flat"
+        ],
+        "147": [
+            "striped"
+        ],
+        "148": [
+            "fresh"
+        ],
+        "149": [
+            "metal",
+            "metallic"
+        ],
+        "150": [
+            "sleek"
+        ],
+        "151": [
+            "fast"
+        ],
+        "152": [
+            "round"
+        ],
+        "153": [
+            "simple"
+        ],
+        "154": [
+            "unused",
+            "inactive"
+        ],
+        "155": [
+            "safe"
+        ],
+        "156": [
+            "covered"
+        ],
+        "157": [
+            "leashed"
+        ],
+        "158": [
+            "compact"
+        ],
+        "159": [
+            "adventurous"
+        ],
+        "160": [
+            "smooth"
+        ],
+        "161": [
+            "rural"
+        ],
+        "162": [
+            "domestic"
+        ],
+        "163": [
+            "dull"
+        ],
+        "164": [
+            "decorative"
+        ],
+        "165": [
+            "antique",
+            "vintage"
+        ],
+        "166": [
+            "captive"
+        ],
+        "167": [
+            "strong"
+        ],
+        "168": [
+            "vertical"
+        ],
+        "169": [
+            "horizontal"
+        ],
+        "170": [
+            "solid"
+        ],
+        "171": [
+            "cheap"
+        ],
+        "172": [
+            "casual"
+        ],
+        "173": [
+            "expensive"
+        ],
+        "174": [
+            "functional"
+        ],
+        "175": [
+            "wood",
+            "wooden"
+        ],
+        "176": [
+            "cloth"
+        ],
+        "177": [
+            "ceramic"
+        ],
+        "178": [
+            "leather"
+        ],
+        "179": [
+            "stuffed"
+        ],
+        "180": [
+            "elegant"
+        ],
+        "181": [
+            "tame"
+        ],
+        "182": [
+            "parked"
+        ],
+        "183": [
+            "cooked"
+        ],
+        "184": [
+            "curved"
+        ],
+        "185": [
+            "public"
+        ],
+        "186": [
+            "serious"
+        ],
+        "187": [
+            "commercial"
+        ],
+        "188": [
+            "worn"
+        ],
+        "189": [
+            "portable"
+        ],
+        "190": [
+            "competitive"
+        ],
+        "191": [
+            "organized"
+        ],
+        "192": [
+            "dangerous"
+        ],
+        "193": [
+            "digital"
+        ],
+        "194": [
+            "electric",
+            "electrical"
+        ],
+        "195": [
+            "plain"
+        ],
+        "196": [
+            "trendy"
+        ],
+        "197": [
+            "saucy"
+        ],
+        "198": [
+            "glazed"
+        ],
+        "199": [
+            "heavy"
+        ],
+        "200": [
+            "crumpled",
+            "wrinkled"
+        ],
+        "201": [
+            "thin"
+        ],
+        "202": [
+            "exotic"
+        ],
+        "203": [
+            "family-friendly"
+        ]
+    },
+    "attribute2id": {
+        "standing": 0,
+        "sitting": 1,
+        "laying": 2,
+        "walking": 3,
+        "watching": 4,
+        "looking": 4,
+        "eating": 5,
+        "waiting": 6,
+        "moving": 7,
+        "playing": 8,
+        "sleeping": 9,
+        "working": 10,
+        "running": 11,
+        "hiding": 12,
+        "riding": 13,
+        "drinking": 14,
+        "swimming": 15,
+        "smiling": 16,
+        "jumping": 17,
+        "flying": 18,
+        "traveling": 19,
+        "enjoying": 20,
+        "thinking": 21,
+        "loving": 22,
+        "holding": 23,
+        "feeding": 24,
+        "talking": 25,
+        "floating": 26,
+        "skiing": 27,
+        "hunting": 28,
+        "listening": 29,
+        "hanging": 30,
+        "grazing": 31,
+        "skating": 32,
+        "leaning": 33,
+        "smelling": 47,
+        "sniffing": 34,
+        "socializing": 35,
+        "stretching": 36,
+        "driving": 37,
+        "cooking": 38,
+        "learning": 39,
+        "following": 40,
+        "surfing": 41,
+        "reading": 42,
+        "climbing": 43,
+        "bending": 44,
+        "fishing": 45,
+        "cuddling": 46,
+        "panting": 48,
+        "participating": 49,
+        "racing": 50,
+        "serving": 51,
+        "crouching": 52,
+        "reaching": 53,
+        "landing": 54,
+        "hiking": 55,
+        "waving": 56,
+        "spectating": 57,
+        "exercising": 58,
+        "carrying": 59,
+        "snowboarding": 60,
+        "vacationing": 61,
+        "shopping": 62,
+        "catching": 63,
+        "laughing": 64,
+        "celebrating": 65,
+        "angry": 66,
+        "happy": 67,
+        "unhappy": 68,
+        "hungry": 69,
+        "friendly": 70,
+        "sleepy": 71,
+        "lazy": 72,
+        "dry": 73,
+        "alone": 74,
+        "lonely": 74,
+        "dirty": 75,
+        "urban": 76,
+        "busy": 77,
+        "healthy": 78,
+        "shiny": 79,
+        "thirsty": 80,
+        "comfortable": 81,
+        "cozy": 81,
+        "sporty": 82,
+        "fancy": 83,
+        "empty": 84,
+        "furry": 85,
+        "toy": 86,
+        "messy": 87,
+        "cluttered": 87,
+        "sneaky": 88,
+        "hairy": 89,
+        "tasty": 90,
+        "delicious": 90,
+        "bulky": 91,
+        "frisky": 92,
+        "fluffy": 93,
+        "fuzzy": 94,
+        "whole": 95,
+        "full": 96,
+        "closed": 97,
+        "open": 98,
+        "on": 99,
+        "off": 100,
+        "small": 101,
+        "large": 102,
+        "long": 103,
+        "short": 104,
+        "appetizing": 105,
+        "filling": 106,
+        "curious": 107,
+        "old": 108,
+        "young": 109,
+        "adult": 110,
+        "calm": 111,
+        "cold": 112,
+        "cool": 113,
+        "warm": 114,
+        "hot": 115,
+        "clean": 116,
+        "wet": 117,
+        "tired": 118,
+        "playful": 119,
+        "peaceful": 120,
+        "useful": 121,
+        "joyful": 122,
+        "sad": 123,
+        "scared": 124,
+        "bored": 125,
+        "excited": 126,
+        "anxious": 127,
+        "annoyed": 128,
+        "confused": 129,
+        "modern": 130,
+        "cute": 131,
+        "adorable": 131,
+        "new": 132,
+        "fake": 133,
+        "wild": 134,
+        "natural": 135,
+        "plastic": 136,
+        "soft": 137,
+        "hard": 138,
+        "athletic": 139,
+        "perched": 140,
+        "professional": 141,
+        "spotted": 142,
+        "male": 143,
+        "female": 144,
+        "curled": 145,
+        "flat": 146,
+        "striped": 147,
+        "fresh": 148,
+        "metal": 149,
+        "metallic": 149,
+        "sleek": 150,
+        "fast": 151,
+        "round": 152,
+        "simple": 153,
+        "unused": 154,
+        "inactive": 154,
+        "safe": 155,
+        "covered": 156,
+        "leashed": 157,
+        "compact": 158,
+        "adventurous": 159,
+        "smooth": 160,
+        "rural": 161,
+        "domestic": 162,
+        "dull": 163,
+        "decorative": 164,
+        "antique": 165,
+        "vintage": 165,
+        "captive": 166,
+        "strong": 167,
+        "vertical": 168,
+        "horizontal": 169,
+        "solid": 170,
+        "cheap": 171,
+        "casual": 172,
+        "expensive": 173,
+        "functional": 174,
+        "wood": 175,
+        "wooden": 175,
+        "cloth": 176,
+        "ceramic": 177,
+        "leather": 178,
+        "stuffed": 179,
+        "elegant": 180,
+        "tame": 181,
+        "parked": 182,
+        "cooked": 183,
+        "curved": 184,
+        "public": 185,
+        "serious": 186,
+        "commercial": 187,
+        "worn": 188,
+        "portable": 189,
+        "competitive": 190,
+        "organized": 191,
+        "dangerous": 192,
+        "digital": 193,
+        "electric": 194,
+        "electrical": 194,
+        "plain": 195,
+        "trendy": 196,
+        "saucy": 197,
+        "glazed": 198,
+        "heavy": 199,
+        "crumpled": 200,
+        "wrinkled": 200,
+        "thin": 201,
+        "exotic": 202,
+        "family-friendly": 203
+    }
+}

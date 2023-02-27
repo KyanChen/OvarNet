@@ -1,0 +1,111 @@
+{
+    "l1_attributes": [
+        "anticipation",
+        "fear",
+        "sympathy",
+        "confidence",
+        "disquietment",
+        "pleasure",
+        "peace",
+        "disconnection",
+        "disapproval",
+        "surprise",
+        "anger",
+        "suffering",
+        "affection",
+        "esteem",
+        "happiness",
+        "engagement",
+        "excitement",
+        "aversion",
+        "sadness",
+        "annoyance",
+        "fatigue",
+        "sensitivity",
+        "embarrassment",
+        "pain",
+        "yearning",
+        "doubt/confusion"
+    ],
+    "levels": 1,
+    "attribute_tree": [
+        {
+            "anticipation,预期": null
+        },
+        {
+            "fear,恐惧": null
+        },
+        {
+            "sympathy,同情": null
+        },
+        {
+            "confidence,信心": null
+        },
+        {
+            "disquietment,不安": null
+        },
+        {
+            "pleasure,乐趣": null
+        },
+        {
+            "peace,和平": null
+        },
+        {
+            "disconnection,断开": null
+        },
+        {
+            "disapproval,不赞成": null
+        },
+        {
+            "surprise,惊喜": null
+        },
+        {
+            "anger,愤怒": null
+        },
+        {
+            "suffering,痛苦": null
+        },
+        {
+            "affection,感情": null
+        },
+        {
+            "esteem,尊重": null
+        },
+        {
+            "happiness,幸福": null
+        },
+        {
+            "engagement,订婚": null
+        },
+        {
+            "excitement,激动": null
+        },
+        {
+            "aversion,厌恶": null
+        },
+        {
+            "sadness,悲伤": null
+        },
+        {
+            "annoyance,烦恼": null
+        },
+        {
+            "fatigue,疲劳": null
+        },
+        {
+            "sensitivity,灵敏度": null
+        },
+        {
+            "embarrassment,尴尬": null
+        },
+        {
+            "pain,疼痛": null
+        },
+        {
+            "yearning,向往": null
+        },
+        {
+            "doubt/confusion,怀疑/混乱": null
+        }
+    ]
+}

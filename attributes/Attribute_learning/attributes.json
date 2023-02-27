@@ -1,0 +1,47 @@
+{
+    "l1_attributes": [
+        "color",
+        "texture",
+        "shape",
+        "pattern"
+    ],
+    "levels": 2,
+    "attribute_tree": [
+        {
+            "color,颜色": [
+                "black,黑色的",
+                "brown,棕色的",
+                "gray,灰色的",
+                "green,绿色",
+                "orange,橙",
+                "red,红色的",
+                "white,白色的",
+                "yellow,黄色"
+            ]
+        },
+        {
+            "texture,质地": [
+                "furry,毛茸茸",
+                "metallic,金属",
+                "rough,粗糙的",
+                "shiny,闪亮的",
+                "smooth,光滑的",
+                "wet,弄湿",
+                "wooden,木制的"
+            ]
+        },
+        {
+            "shape,形状": [
+                "long,长",
+                "rectangular,长方形",
+                "round,圆形的"
+            ]
+        },
+        {
+            "pattern,图案": [
+                "spotted,斑",
+                "striped,有条纹的"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+n02119789: kit fox, Vulpes macrotis
+n02100735: English setter
+n02390258: hinny
+n02129991: liger
+n02096294: Australian terrier
+n02073831: manatee, Trichechus manatus
+n02390101: mule
+n02496913: lemur
+n02509815: lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
+n02131653: bear
+n02090475: wolfhound
+n02357585: chickeree, Douglas squirrel, Tamiasciurus douglasi
+n02124075: Egyptian cat
+n02499808: galago, bushbaby, bush baby
+n02123394: Persian cat
+n02125311: cougar, puma, catamount, mountain lion, painter, panther, Felis concolor
+n02423022: gazelle
+n02447366: badger
+n02109047: Great Dane
+n02091134: whippet
+n02147947: pipistrelle, pipistrel, Pipistrellus pipistrellus
+n02092002: Scottish deerhound, deerhound
+n02088839: coonhound
+n02071294: killer whale, killer, orca, grampus, sea wolf, Orcinus orca
+n02089555: foxhound
+n02442845: mink
+n02429456: pronghorn, prongbuck, pronghorn antelope, American antelope, Antilocapra americana
+n02351870: jerboa
+n02486657: chacma, chacma baboon, Papio ursinus
+n02095412: wirehair, wirehaired terrier, wire-haired terrier
+n02128925: jaguar, panther, Panthera onca, Felis onca
+n02091635: otterhound, otter hound
+n02088466: bloodhound, sleuthhound
+n02421449: gnu, wildebeest
+n02401031: bovid
+n02427576: lechwe, Kobus leche
+n02443484: black-footed ferret, ferret, Mustela nigripes
+n02470238: simian
+n02084861: cur, mongrel, mutt
+n02445715: skunk, polecat, wood pussy
+n02450034: marten, marten cat
+n02364520: cavy
+n02112826: corgi, Welsh corgi
+n02441942: weasel
+n02425228: bushbuck, guib, Tragelaphus scriptus
+n02508742: bassarisk, cacomistle, cacomixle, coon cat, raccoon fox, ringtail, ring-tailed cat, civet cat, miner's cat, Bassariscus astutus
+n02105162: malinois
+n02488702: colobus, colobus monkey
+n02064000: bowhead, bowhead whale, Greenland whale, Balaena mysticetus
+n02481500: silverback
+n02368116: viscacha, chinchillon, Lagostomus maximus
+n02126787: manul, Pallas's cat, Felis manul
+n02389261: pinto
+n02422699: impala, Aepyceros melampus
+n02488894: guereza, Colobus guereza
+n02422106: hartebeest
+n02104365: schipperke
+n02448318: ratel, honey badger, Mellivora capensis
+n02414763: argali, argal, Ovis ammon
+n02484975: guenon, guenon monkey
+n02500267: indri, indris, Indri indri, Indri brevicaudatus
+n02411705: sheep
+n02380335: pony
+n02082791: aardvark, ant bear, anteater, Orycteropus afer
+n02106966: pinscher
+n02096756: schnauzer
+n02093056: bullterrier, bull terrier
+n02431337: hart, stag
+n02113335: poodle, poodle dog
+n02344528: lemming
+n02412210: wether
+n02391049: zebra
+n02378415: warhorse
+n02430045: deer, cervid
+n02480495: orangutan, orang, orangutang, Pongo pygmaeus
+n02110806: basenji
+n02419796: antelope
+n02100583: vizsla, Hungarian pointer
+n02101108: spaniel
+n02386310: workhorse
+n02105056: groenendael
+n02101556: clumber, clumber spaniel
+n02411999: ewe
+n02136794: fanaloka, Fossa fossa
+n02481823: chimpanzee, chimp, Pan troglodytes
+n02105505: komondor
+n02416104: aoudad, arui, audad, Barbary sheep, maned sheep, Ammotragus lervia
+n02414209: longwool
+n02498153: aye-aye, Daubentonia madagascariensis
+n02092173: staghound
+n02075296: carnivore
+n02480855: gorilla, Gorilla gorilla
+n02421136: addax, Addax nasomaculatus
+n02421792: dik-dik
+n02375302: roan
+n02427724: waterbuck
+n02136103: binturong, bearcat, Arctictis bintourong
+n02330245: mouse
+n02414290: merino, merino sheep
+n02442336: stoat
+n02509515: coati, coati-mondi, coati-mundi, coon cat, Nasua narica
+n02428349: oryx, pasang
+n02089232: dachshund, dachsie, badger dog
+n02376918: male horse
+n02426813: eland
+n02483708: siamang, Hylobates syndactylus, Symphalangus syndactylus
+n02106030: collie
+n02471762: hominid
+n02118176: aardwolf, Proteles cristata
+n02428508: gemsbok, gemsbuck, Oryx gazella
+n02090827: greyhound
+n02326432: hare
+n02088364: beagle
+n02381004: buckskin
+n02486261: patas, hussar monkey, Erythrocebus patas
+n02115913: dhole, Cuon alpinus
+n02424305: kudu, koodoo, koudou
+n02451415: tayra, taira, Eira barbara
+n02486410: baboon
+n02487347: macaque
+n02420828: gerenuk, Litocranius walleri
+n02501583: tarsier
+n02147328: serotine, European brown bat, Eptesicus serotinus
+n02422391: sassaby, topi, Damaliscus lunatus
+n02104029: kuvasz
+n02110958: pug, pug-dog
+n02366959: coypu, nutria, Myocastor coypus
+n02407763: cattalo, beefalo
+n02092468: terrier
+n02087314: courser
+n02485371: grivet, Cercopithecus aethiops
+n02404906: zebu
+n02416519: goat, caprine animal
+n02112350: keeshond
+n02111626: spitz
+n02428089: puku, Adenota vardoni
+n02433925: caribou, reindeer, Greenland caribou, Rangifer tarandus
+n02377480: mare, female horse
+n02087551: hound, hound dog
+n02496052: prosimian
+n02427470: kob, Kobus kob
+n02374451: horse, Equus caballus
+n02132580: grizzly, grizzly bear, silvertip, silver-tip, Ursus horribilis, Ursus arctos horribilis
+n02431628: sambar, sambur, Cervus unicolor
+n02389128: palomino
+n02125689: jaguarundi, jaguarundi cat, jaguarondi, eyra, Felis yagouaroundi
+n02342885: hamster
+n02426176: saiga, Saiga tatarica
+n02415130: urial, Ovis vignei
+n02064338: rorqual, razorback
+n02088238: basset, basset hound
+n02435853: chevrotain, mouse deer
+n02366002: agouti, Dasyprocta aguti
+n02355227: squirrel
+n02410509: bison
+n02361587: groundhog, woodchuck, Marmota monax
+n02491107: tamarin, lion monkey, lion marmoset, leoncita
+n02331046: rat
+n02439033: giraffe, camelopard, Giraffa camelopardalis
+n02324045: rabbit, coney, cony
+n02485536: vervet, vervet monkey, Cercopithecus aethiops pygerythrus
+n02404432: longhorn, Texas longhorn
+n02123045: tabby, tabby cat
+n02126640: margay, margay cat, Felis wiedi
+n02072493: narwhal, narwal, narwhale, Monodon monoceros
+n02120997: feline, felid
+n02402010: bovine
+n02109525: Saint Bernard, St Bernard
+n02470325: ape
+n02432983: elk, European elk, moose, Alces alces
+n02508021: raccoon, racoon
+n02370806: ungulate, hoofed mammal
+n02088632: bluetick
+n02090379: redbone
+n02368399: abrocome, chinchilla rat, rat chinchilla
+n02443114: polecat, fitch, foulmart, foumart, Mustela putorius
+n02361337: marmot
+n02129165: lion, king of beasts, Panthera leo
+n02139199: bat, chiropteran
+n02420509: blackbuck, black buck, Antilope cervicapra
+n02486908: mandrill, Mandrillus sphinx
+n02388735: chestnut
+n02074367: dugong, Dugong dugon
+n02149420: freetail, free-tailed bat, freetailed bat
+n02381261: dun
+n02108254: mastiff
+n02453108: pachyderm
+n02102480: Sussex spaniel
+n02130086: tiglon, tigon
+n02352591: dormouse
+n02509197: kinkajou, honey bear, potto, Potos flavus, Potos caudivolvulus
+n02484322: monkey
+n02426481: steenbok, steinbok, Raphicerus campestris
+n02070430: porpoise
+n02461830: pangolin, scaly anteater, anteater
+n02099029: retriever
+n02375438: stablemate, stable companion
+n02372584: hyrax, coney, cony, dassie, das
+n02384741: steeplechaser
+n02122430: mouser
+n02431785: wapiti, elk, American elk, Cervus elaphus canadensis
+n02434954: muntjac, barking deer
+n02343772: gerbil, gerbille
+n02488291: langur
+n02130308: cheetah, chetah, Acinonyx jubatus
+n02105251: briard
+n02444819: otter
+n02108672: bulldog, English bulldog
+n02126139: serval, Felis serval
+n02425532: nilgai, nylghai, nylghau, blue bull, Boselaphus tragocamelus
+n02431441: hind
+n02329401: rodent, gnawer
+n01881171: phalanger, opossum, possum
+n01887787: cow
+n01882714: koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus
+n01885498: numbat, banded anteater, anteater, Myrmecobius fasciatus
+n01872401: echidna, spiny anteater, anteater
+n01877134: kangaroo
+n01884476: thylacine, Tasmanian wolf, Tasmanian tiger, Thylacinus cynocephalus
+n01873310: platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus
+n01876326: bandicoot
+n01889074: insectivore
+n01881564: cuscus
+n01883070: wombat
+n01879217: pademelon, paddymelon
+n01322604: puppy
+n01887474: livestock, stock, farm animal
+n01639765: frog, toad, toad frog, anuran, batrachian, salientian
+n11978233: sunflower, helianthus
+n13111881: bonsai
+n07745940: strawberry
+n04474035: transporter, car transporter
+n03977966: police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria
+n02933112: cabinet
+n03636649: lamp
+n02828884: bench
+n03001627: chair
+n04256520: sofa, couch, lounge
+n04447861: toilet seat
+n03982430: pool table, billiard table, snooker table
+n04379243: table
+n12267677: acorn
+n03249569: drum, membranophone, tympan
+n03721384: marimba, xylophone
+n11939491: daisy
+n12102133: grass
+n03075097: comb
+n03384167: fork
+n01796340: ptarmigan
+n02536864: coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch
+n01693334: green lizard, Lacerta viridis
+n03339643: filter
+n04118776: rule, ruler
+n03613294: key
+n03614007: keyboard
+n04574999: wheel
+n03329302: Ferris wheel
+n04102406: roller coaster, big dipper, chute-the-chute
+n02910353: buckle
+n02928608: button
+n04228054: ski
+n01773549: barn spider, Araneus cavaticus
+n01773797: garden spider, Aranea diademata
+n02270623: silverfish, Lepisma saccharina
+n03990474: pot
+n03233905: drawer
+n02898711: bridge, span
+n02913152: building, edifice
+n03135532: cross
+n04128413: sail
+n04038727: rack
+n04587648: window
+n04460130: tower
+n07568818: roughage, fiber
+n07864934: chili, chili con carne
+n07900225: varietal, varietal wine
+n07611991: mousse
+n07916041: martini
+n07899976: generic, generic wine
+n07564971: vegetarianism
+n02773037: bag
+n07567139: coloring, colouring, food coloring, food colouring, food color, food colour
+n07917392: sidecar
+n07617188: pudding
+n07904293: slivovitz
+n02768226: backboard, basketball backboard
+n07859583: syrup, sirup
+n07593107: slumgullion
+n07859284: sugar, refined sugar
+n07880458: schnitzel, Wiener schnitzel
+n07580359: casserole
+n04188179: sheet, bed sheet
+n07683490: chapatti, chapati
+n07854614: ricotta
+n07908647: anisette, anisette de Bordeaux
+n07903962: grappa
+n07926346: limeade
+n07852045: bleu, blue cheese
+n03145522: cue, cue stick, pool cue, pool stick
+n03325584: feather boa, boa
+n07694659: shortcake
+n07866015: croquette
+n07880213: terrine
+n07683360: bannock
+n07823105: chutney, Indian relish
+n07867421: fondue, fondu
+n07937621: ramekin, ramequin
+n03354903: flag
+n07872593: moussaka
+n02802215: basket, basketball hoop, hoop
+n07908411: absinth, absinthe
+n07625061: samosa
+n07910245: kummel
+n07611267: flan
+n07832416: pesto
+n07835823: bordelaise
+n07686202: limpa
+n07897116: retsina
+n07879174: sukiyaki
+n07926250: lemonade
+n07863374: pasta
+n07590320: goulash, Hungarian goulash, gulyas
+n07879072: succotash
+n07854184: mozzarella
+n02876657: bottle
+n07875152: potpie
+n07869937: kedgeree
+n07880080: teriyaki
+n07910379: maraschino, maraschino liqueur
+n07914413: daiquiri, rum cocktail
+n07904072: kirsch
+n07935288: hyson
+n07613266: tiramisu
+n07621497: zabaglione, sabayon
+n08598301: grassland
+n07892418: vintage
+n07832592: ravigote, ravigotte
+n07913644: bullshot
+n07852376: gorgonzola
+n07893642: champagne, bubbly
+n07911249: sambuca
+n07857170: miso
+n07838073: gravy
+n07881404: tostada
+n07840027: veloute
+n07858978: honey
+n07874780: porridge
+n07823951: curry
+n07823460: salsa
+n07822197: catsup, ketchup, cetchup, tomato ketchup
+n07899108: vermouth
+n07876189: sauerkraut
+n07672914: margarine, margarin, oleo, oleomargarine, marge
+n02808440: bathtub, bathing tub, bath, tub
+n07843464: souffle
+n07857731: hummus, humus, hommos, hoummos, humous
+n02778669: ball
+n07837755: demiglace, demi-glaze
+n07806221: salad
+n07683617: pita, pocket bread
+n07842753: omelet, omelette
+n07880968: burrito
+n04459362: towel
+n02802426: basketball
+n04318131: stick
+n04292414: squash racket, squash racquet, bat
+n07926442: orangeade
+n07871335: macedoine
+n07869611: jambalaya
+n09393605: plain, field, champaign
+n07917272: screwdriver
+n02883344: box
+n03715892: mallet
+n07873807: pizza, pizza pie
+n02846511: blackboard, chalkboard
+n07579917: adobo
+n07593004: pot-au-feu
+n07655263: saute
+n07615774: ice lolly, lolly, lollipop, popsicle
+n07616386: parfait
+n07841345: egg yolk, yolk
+n07592656: ragout
+n07935043: souchong, soochong
+n07857959: pate

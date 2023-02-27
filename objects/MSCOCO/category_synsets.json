@@ -1,0 +1,471 @@
+{
+    "person": [
+        "somebody",
+        "person",
+        "mortal",
+        "individual",
+        "someone",
+        "soul"
+    ],
+    "bicycle": [
+        "wheel",
+        "bike",
+        "bicycle",
+        "cycle"
+    ],
+    "car": [
+        "auto",
+        "car",
+        "railway_car",
+        "cable_car",
+        "railroad_car",
+        "automobile",
+        "elevator_car",
+        "machine",
+        "motorcar",
+        "gondola",
+        "railcar"
+    ],
+    "motorcycle": [
+        "motorcycle",
+        "bike"
+    ],
+    "airplane": [
+        "plane",
+        "aeroplane",
+        "airplane"
+    ],
+    "bus": [
+        "jalopy",
+        "motorbus",
+        "motorcoach",
+        "charabanc",
+        "jitney",
+        "heap",
+        "coach",
+        "bus_topology",
+        "autobus",
+        "passenger_vehicle",
+        "omnibus",
+        "double-decker",
+        "bus",
+        "busbar"
+    ],
+    "train": [
+        "train",
+        "geartrain",
+        "caravan",
+        "railroad_train",
+        "string",
+        "gear",
+        "gearing",
+        "power_train",
+        "wagon_train"
+    ],
+    "truck": [
+        "hand_truck",
+        "truck",
+        "motortruck"
+    ],
+    "boat": [
+        "sauceboat",
+        "gravy_holder",
+        "gravy_boat",
+        "boat"
+    ],
+    "traffic light": [],
+    "fire hydrant": [],
+    "stop sign": [],
+    "parking meter": [],
+    "bench": [
+        "workbench",
+        "bench",
+        "judiciary",
+        "terrace",
+        "Bench",
+        "work_bench"
+    ],
+    "bird": [
+        "shuttle",
+        "fowl",
+        "doll",
+        "chick",
+        "boo",
+        "hoot",
+        "razz",
+        "shuttlecock",
+        "dame",
+        "birdie",
+        "skirt",
+        "hiss",
+        "razzing",
+        "raspberry",
+        "wench",
+        "snort",
+        "Bronx_cheer",
+        "bird"
+    ],
+    "cat": [
+        "cat-o'-nine-tails",
+        "cat",
+        "bozo",
+        "computed_tomography",
+        "CAT",
+        "computerized_axial_tomography",
+        "African_tea",
+        "computerized_tomography",
+        "quat",
+        "CT",
+        "kat",
+        "guy",
+        "big_cat",
+        "Arabian_tea",
+        "khat",
+        "hombre",
+        "qat",
+        "computed_axial_tomography",
+        "Caterpillar",
+        "true_cat"
+    ],
+    "dog": [
+        "click",
+        "firedog",
+        "frankfurter",
+        "andiron",
+        "wienerwurst",
+        "detent",
+        "frank",
+        "weenie",
+        "cad",
+        "Canis_familiaris",
+        "wiener",
+        "heel",
+        "hound",
+        "blackguard",
+        "dog",
+        "dog-iron",
+        "pawl",
+        "frump",
+        "domestic_dog",
+        "hotdog",
+        "hot_dog",
+        "bounder"
+    ],
+    "horse": [
+        "horse",
+        "cavalry",
+        "sawbuck",
+        "horse_cavalry",
+        "knight",
+        "gymnastic_horse",
+        "sawhorse",
+        "buck",
+        "Equus_caballus"
+    ],
+    "sheep": [
+        "sheep"
+    ],
+    "cow": [
+        "cow",
+        "moo-cow"
+    ],
+    "elephant": [
+        "elephant"
+    ],
+    "bear": [
+        "bear"
+    ],
+    "zebra": [
+        "zebra"
+    ],
+    "giraffe": [
+        "giraffe",
+        "camelopard",
+        "Giraffa_camelopardalis"
+    ],
+    "backpack": [
+        "haversack",
+        "back_pack",
+        "knapsack",
+        "rucksack",
+        "backpack",
+        "packsack"
+    ],
+    "umbrella": [
+        "umbrella"
+    ],
+    "handbag": [
+        "pocketbook",
+        "bag",
+        "purse",
+        "handbag"
+    ],
+    "tie": [
+        "tie-up",
+        "tie",
+        "affiliation",
+        "link",
+        "railroad_tie",
+        "standoff",
+        "linkup",
+        "tie-in",
+        "sleeper",
+        "association",
+        "crosstie",
+        "draw",
+        "tie_beam",
+        "necktie"
+    ],
+    "suitcase": [
+        "bag",
+        "travelling_bag",
+        "suitcase",
+        "grip",
+        "traveling_bag"
+    ],
+    "frisbee": [
+        "Frisbee"
+    ],
+    "skis": [
+        "ski"
+    ],
+    "snowboard": [
+        "snowboard"
+    ],
+    "sports ball": [],
+    "kite": [
+        "kite"
+    ],
+    "baseball bat": [],
+    "baseball glove": [],
+    "skateboard": [
+        "skateboard"
+    ],
+    "surfboard": [
+        "surfboard"
+    ],
+    "tennis racket": [],
+    "bottle": [
+        "nursing_bottle",
+        "bottle",
+        "feeding_bottle",
+        "bottleful"
+    ],
+    "wine glass": [],
+    "cup": [
+        "cupful",
+        "loving_cup",
+        "cup"
+    ],
+    "fork": [
+        "fork",
+        "branching",
+        "crotch",
+        "forking",
+        "ramification"
+    ],
+    "knife": [
+        "knife",
+        "tongue"
+    ],
+    "spoon": [
+        "spoon",
+        "spoonful"
+    ],
+    "bowl": [
+        "bowl",
+        "bowling_ball",
+        "trough",
+        "arena",
+        "pipe_bowl",
+        "roll",
+        "sports_stadium",
+        "stadium",
+        "bowlful"
+    ],
+    "banana": [
+        "banana_tree",
+        "banana"
+    ],
+    "apple": [
+        "apple",
+        "Malus_pumila",
+        "orchard_apple_tree"
+    ],
+    "sandwich": [
+        "sandwich"
+    ],
+    "orange": [
+        "orange",
+        "orangeness",
+        "Orange_River",
+        "orange_tree",
+        "Orange"
+    ],
+    "broccoli": [
+        "broccoli",
+        "Brassica_oleracea_italica"
+    ],
+    "carrot": [
+        "cultivated_carrot",
+        "Daucus_carota_sativa",
+        "carrot"
+    ],
+    "hot dog": [],
+    "pizza": [
+        "pizza",
+        "pizza_pie"
+    ],
+    "donut": [
+        "donut",
+        "sinker",
+        "doughnut"
+    ],
+    "cake": [
+        "patty",
+        "cake",
+        "bar"
+    ],
+    "chair": [
+        "professorship",
+        "electric_chair",
+        "chairperson",
+        "death_chair",
+        "chairwoman",
+        "chair",
+        "hot_seat",
+        "president",
+        "chairman"
+    ],
+    "couch": [
+        "lounge",
+        "couch",
+        "sofa"
+    ],
+    "potted plant": [],
+    "bed": [
+        "bottom",
+        "layer",
+        "seam",
+        "bed"
+    ],
+    "dining table": [],
+    "toilet": [
+        "pot",
+        "throne",
+        "commode",
+        "crapper",
+        "can",
+        "privy",
+        "gutter",
+        "sewer",
+        "toilet",
+        "john",
+        "bathroom",
+        "lav",
+        "lavatory",
+        "potty",
+        "stool",
+        "toilette"
+    ],
+    "tv": [
+        "video",
+        "television_set",
+        "tv_set",
+        "goggle_box",
+        "boob_tube",
+        "television",
+        "television_receiver",
+        "tv",
+        "TV",
+        "idiot_box",
+        "telly",
+        "telecasting"
+    ],
+    "laptop": [
+        "laptop",
+        "laptop_computer"
+    ],
+    "mouse": [
+        "shiner",
+        "computer_mouse",
+        "black_eye",
+        "mouse"
+    ],
+    "remote": [
+        "remote",
+        "remote_control"
+    ],
+    "keyboard": [
+        "keyboard"
+    ],
+    "cell phone": [],
+    "microwave": [
+        "microwave",
+        "microwave_oven"
+    ],
+    "oven": [
+        "oven"
+    ],
+    "toaster": [
+        "wassailer",
+        "toaster"
+    ],
+    "sink": [
+        "sinkhole",
+        "cesspit",
+        "sink",
+        "sump",
+        "swallow_hole",
+        "cesspool"
+    ],
+    "refrigerator": [
+        "icebox",
+        "refrigerator"
+    ],
+    "book": [
+        "Koran",
+        "script",
+        "book_of_account",
+        "Christian_Bible",
+        "Holy_Scripture",
+        "Bible",
+        "Holy_Writ",
+        "ledger",
+        "record_book",
+        "rule_book",
+        "Book",
+        "Word",
+        "Scripture",
+        "record",
+        "volume",
+        "book",
+        "leger",
+        "playscript",
+        "Quran",
+        "al-Qur'an",
+        "Good_Book",
+        "Word_of_God",
+        "account_book"
+    ],
+    "clock": [
+        "clock"
+    ],
+    "vase": [
+        "vase"
+    ],
+    "scissors": [
+        "scissors_grip",
+        "scissor_hold",
+        "scissors_hold",
+        "scissors",
+        "scissor_grip",
+        "pair_of_scissors"
+    ],
+    "teddy bear": [],
+    "hair drier": [],
+    "toothbrush": [
+        "toothbrush",
+        "soup-strainer"
+    ]
+}

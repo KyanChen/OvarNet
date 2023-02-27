@@ -1,0 +1,823 @@
+{
+    "l1_attributes": [
+        "tame",
+        "leather",
+        "spotted",
+        "family-friendly",
+        "appetizing",
+        "riding",
+        "young",
+        "glazed",
+        "grazing",
+        "eating",
+        "loving",
+        "off",
+        "stuffed",
+        "jumping",
+        "snowboarding",
+        "cold",
+        "small",
+        "playful",
+        "unhappy",
+        "spectating",
+        "parked",
+        "simple ",
+        "fuzzy",
+        "sitting",
+        "adult",
+        "watching / looking",
+        "lazy",
+        "waiting",
+        "heavy",
+        "crumpled / wrinkled",
+        "trendy",
+        "hiking ",
+        "fishing",
+        "cool",
+        "swimming",
+        "enjoying",
+        "wood / wooden",
+        "participating",
+        "plastic",
+        "strong",
+        "thin",
+        "professional",
+        "driving",
+        "urban",
+        "bulky",
+        "saucy",
+        "floating",
+        "covered",
+        "messy / cluttered",
+        "toy",
+        "calm",
+        "traveling",
+        "perched",
+        "functional",
+        "round",
+        "running",
+        "striped",
+        "curled",
+        "portable",
+        "shiny",
+        "hard",
+        "cheap",
+        "commercial",
+        "serious",
+        "reading",
+        "joyful",
+        "laying",
+        "vacationing ",
+        "playing",
+        "sneaky",
+        "closed",
+        "comfortable / cozy",
+        "cute / adorable",
+        "hanging",
+        "panting",
+        "wet",
+        "anxious",
+        "new",
+        "soft",
+        "dull",
+        "working",
+        "skiing",
+        "on ",
+        "furry",
+        "elegant",
+        "leaning",
+        "confused",
+        "athletic",
+        "hungry",
+        "standing",
+        "large",
+        "safe",
+        "alone / lonely",
+        "curious",
+        "skating",
+        "waving",
+        "feeding",
+        "bored",
+        "following",
+        "flat",
+        "empty",
+        "fake",
+        "male",
+        "compact",
+        "sporty",
+        "cloth",
+        "casual",
+        "carrying",
+        "exotic",
+        "clean",
+        "female",
+        "full",
+        "smiling",
+        "fresh",
+        "listening",
+        "landing",
+        "dirty",
+        "hiding",
+        "walking",
+        "fluffy",
+        "modern",
+        "rural",
+        "cooking",
+        "organized",
+        "laughing",
+        "old",
+        "smelling",
+        "smooth",
+        "filling ",
+        "curved",
+        "shopping",
+        "learning",
+        "holding",
+        "moving",
+        "long",
+        "excited",
+        "thinking",
+        "sad",
+        "warm",
+        "annoyed",
+        "flying",
+        "smelling / sniffing",
+        "sleek",
+        "crouching",
+        "talking",
+        "exercising ",
+        "hairy",
+        "celebrating",
+        "hunting",
+        "metal / metallic",
+        "ceramic",
+        "competitive",
+        "thirsty",
+        "electric / electrical",
+        "surfing",
+        "vertical",
+        "wild",
+        "plain",
+        "domestic",
+        "dangerous",
+        "catching",
+        "public",
+        "cuddling",
+        "peaceful",
+        "reaching",
+        "sleeping",
+        "antique / vintage",
+        "bending",
+        "natural",
+        "solid",
+        "sleepy",
+        "digital",
+        "tired",
+        "hot",
+        "worn",
+        "busy",
+        "dry",
+        "useful",
+        "scared",
+        "climbing",
+        "friendly",
+        "adventurous",
+        "frisky",
+        "fancy",
+        "open",
+        "decorative",
+        "cooked",
+        "racing",
+        "whole",
+        "drinking",
+        "short",
+        "serving",
+        "expensive",
+        "socializing",
+        "stretching",
+        "horizontal",
+        "angry",
+        "captive",
+        "fast",
+        "leashed",
+        "tasty / delicious",
+        "happy",
+        "unused / inactive",
+        "healthy"
+    ],
+    "levels": 1,
+    "attribute_tree": [
+        {
+            "tame,驯服": null
+        },
+        {
+            "leather,皮革": null
+        },
+        {
+            "spotted,斑": null
+        },
+        {
+            "family-friendly,家庭友善": null
+        },
+        {
+            "appetizing,开胃": null
+        },
+        {
+            "riding,骑术": null
+        },
+        {
+            "young,年轻的": null
+        },
+        {
+            "glazed,釉面": null
+        },
+        {
+            "grazing,放牧": null
+        },
+        {
+            "eating,吃": null
+        },
+        {
+            "loving,爱": null
+        },
+        {
+            "off,离开": null
+        },
+        {
+            "stuffed,塞满": null
+        },
+        {
+            "jumping,跳跃": null
+        },
+        {
+            "snowboarding,滑雪": null
+        },
+        {
+            "cold,寒冷的": null
+        },
+        {
+            "small,小的": null
+        },
+        {
+            "playful,嬉戏": null
+        },
+        {
+            "unhappy,不开心": null
+        },
+        {
+            "spectating,镜头": null
+        },
+        {
+            "parked,停放": null
+        },
+        {
+            "simple ,简单的": null
+        },
+        {
+            "fuzzy,模糊": null
+        },
+        {
+            "sitting,坐着": null
+        },
+        {
+            "adult,成人": null
+        },
+        {
+            "watching / looking,看 /看": null
+        },
+        {
+            "lazy,懒惰的": null
+        },
+        {
+            "waiting,等待": null
+        },
+        {
+            "heavy,重的": null
+        },
+        {
+            "crumpled / wrinkled,皱巴巴 /皱纹": null
+        },
+        {
+            "trendy,时髦的": null
+        },
+        {
+            "hiking ,远足": null
+        },
+        {
+            "fishing,钓鱼": null
+        },
+        {
+            "cool,凉爽的": null
+        },
+        {
+            "swimming,游泳": null
+        },
+        {
+            "enjoying,享受": null
+        },
+        {
+            "wood / wooden,木制 /木制": null
+        },
+        {
+            "participating,参与": null
+        },
+        {
+            "plastic,塑料": null
+        },
+        {
+            "strong,强的": null
+        },
+        {
+            "thin,薄的": null
+        },
+        {
+            "professional,专业的": null
+        },
+        {
+            "driving,驾驶": null
+        },
+        {
+            "urban,城市的": null
+        },
+        {
+            "bulky,笨重": null
+        },
+        {
+            "saucy,狡猾": null
+        },
+        {
+            "floating,漂浮的": null
+        },
+        {
+            "covered,覆盖": null
+        },
+        {
+            "messy / cluttered,混乱 /混乱": null
+        },
+        {
+            "toy,玩具": null
+        },
+        {
+            "calm,冷静的": null
+        },
+        {
+            "traveling,旅行": null
+        },
+        {
+            "perched,栖息": null
+        },
+        {
+            "functional,功能": null
+        },
+        {
+            "round,圆形的": null
+        },
+        {
+            "running,跑步": null
+        },
+        {
+            "striped,有条纹的": null
+        },
+        {
+            "curled,卷曲": null
+        },
+        {
+            "portable,便携的": null
+        },
+        {
+            "shiny,闪亮的": null
+        },
+        {
+            "hard,难的": null
+        },
+        {
+            "cheap,便宜的": null
+        },
+        {
+            "commercial,商业的": null
+        },
+        {
+            "serious,严肃的": null
+        },
+        {
+            "reading,阅读": null
+        },
+        {
+            "joyful,快乐": null
+        },
+        {
+            "laying,铺设": null
+        },
+        {
+            "vacationing ,度假": null
+        },
+        {
+            "playing,玩": null
+        },
+        {
+            "sneaky,偷偷摸摸": null
+        },
+        {
+            "closed,关闭": null
+        },
+        {
+            "comfortable / cozy,舒适 /舒适": null
+        },
+        {
+            "cute / adorable,可爱 /可爱": null
+        },
+        {
+            "hanging,绞刑": null
+        },
+        {
+            "panting,气喘吁吁": null
+        },
+        {
+            "wet,弄湿": null
+        },
+        {
+            "anxious,焦虑的": null
+        },
+        {
+            "new,新的": null
+        },
+        {
+            "soft,柔软的": null
+        },
+        {
+            "dull,乏味的": null
+        },
+        {
+            "working,在职的": null
+        },
+        {
+            "skiing,滑雪": null
+        },
+        {
+            "on ,上": null
+        },
+        {
+            "furry,毛茸茸": null
+        },
+        {
+            "elegant,优雅的": null
+        },
+        {
+            "leaning,倾斜": null
+        },
+        {
+            "confused,使困惑": null
+        },
+        {
+            "athletic,运动": null
+        },
+        {
+            "hungry,饥饿的": null
+        },
+        {
+            "standing,常设": null
+        },
+        {
+            "large,大的": null
+        },
+        {
+            "safe,安全的": null
+        },
+        {
+            "alone / lonely,孤独寂寞": null
+        },
+        {
+            "curious,好奇的": null
+        },
+        {
+            "skating,溜冰": null
+        },
+        {
+            "waving,挥舞着": null
+        },
+        {
+            "feeding,喂养": null
+        },
+        {
+            "bored,无聊的": null
+        },
+        {
+            "following,下列的": null
+        },
+        {
+            "flat,平坦的": null
+        },
+        {
+            "empty,空的": null
+        },
+        {
+            "fake,伪造的": null
+        },
+        {
+            "male,男性": null
+        },
+        {
+            "compact,袖珍的": null
+        },
+        {
+            "sporty,运动": null
+        },
+        {
+            "cloth,布": null
+        },
+        {
+            "casual,随意的": null
+        },
+        {
+            "carrying,携带": null
+        },
+        {
+            "exotic,异国情调": null
+        },
+        {
+            "clean,干净的": null
+        },
+        {
+            "female,女性": null
+        },
+        {
+            "full,满的": null
+        },
+        {
+            "smiling,微笑": null
+        },
+        {
+            "fresh,新鲜的": null
+        },
+        {
+            "listening,听": null
+        },
+        {
+            "landing,降落": null
+        },
+        {
+            "dirty,肮脏的": null
+        },
+        {
+            "hiding,隐藏": null
+        },
+        {
+            "walking,步行": null
+        },
+        {
+            "fluffy,蓬松的": null
+        },
+        {
+            "modern,现代的": null
+        },
+        {
+            "rural,乡村的": null
+        },
+        {
+            "cooking,烹饪": null
+        },
+        {
+            "organized,有组织": null
+        },
+        {
+            "laughing,笑": null
+        },
+        {
+            "old,老的": null
+        },
+        {
+            "smelling,闻起来": null
+        },
+        {
+            "smooth,光滑的": null
+        },
+        {
+            "filling ,填充": null
+        },
+        {
+            "curved,弯曲": null
+        },
+        {
+            "shopping,购物": null
+        },
+        {
+            "learning,学习": null
+        },
+        {
+            "holding,保持": null
+        },
+        {
+            "moving,移动": null
+        },
+        {
+            "long,长": null
+        },
+        {
+            "excited,兴奋的": null
+        },
+        {
+            "thinking,思维": null
+        },
+        {
+            "sad,伤心": null
+        },
+        {
+            "warm,温暖的": null
+        },
+        {
+            "annoyed,恼火": null
+        },
+        {
+            "flying,飞行": null
+        },
+        {
+            "smelling / sniffing,闻到 /嗅探": null
+        },
+        {
+            "sleek,光滑": null
+        },
+        {
+            "crouching,蹲下": null
+        },
+        {
+            "talking,说": null
+        },
+        {
+            "exercising ,锻炼": null
+        },
+        {
+            "hairy,毛茸茸": null
+        },
+        {
+            "celebrating,庆祝": null
+        },
+        {
+            "hunting,打猎": null
+        },
+        {
+            "metal / metallic,金属 /金属": null
+        },
+        {
+            "ceramic,陶瓷制品": null
+        },
+        {
+            "competitive,竞争的": null
+        },
+        {
+            "thirsty,渴": null
+        },
+        {
+            "electric / electrical,电气 /电气": null
+        },
+        {
+            "surfing,冲浪": null
+        },
+        {
+            "vertical,垂直的": null
+        },
+        {
+            "wild,荒野": null
+        },
+        {
+            "plain,清楚的": null
+        },
+        {
+            "domestic,国内的": null
+        },
+        {
+            "dangerous,危险的": null
+        },
+        {
+            "catching,捕捉": null
+        },
+        {
+            "public,上市": null
+        },
+        {
+            "cuddling,拥抱": null
+        },
+        {
+            "peaceful,平静的": null
+        },
+        {
+            "reaching,到达": null
+        },
+        {
+            "sleeping,睡眠": null
+        },
+        {
+            "antique / vintage,古董 /复古": null
+        },
+        {
+            "bending,弯曲": null
+        },
+        {
+            "natural,自然": null
+        },
+        {
+            "solid,坚硬的": null
+        },
+        {
+            "sleepy,困": null
+        },
+        {
+            "digital,数字的": null
+        },
+        {
+            "tired,疲劳的": null
+        },
+        {
+            "hot,热的": null
+        },
+        {
+            "worn,磨损": null
+        },
+        {
+            "busy,忙碌的": null
+        },
+        {
+            "dry,干燥": null
+        },
+        {
+            "useful,有用": null
+        },
+        {
+            "scared,害怕的": null
+        },
+        {
+            "climbing,攀登": null
+        },
+        {
+            "friendly,友谊赛": null
+        },
+        {
+            "adventurous,冒险": null
+        },
+        {
+            "frisky,狂热": null
+        },
+        {
+            "fancy,想要": null
+        },
+        {
+            "open,打开": null
+        },
+        {
+            "decorative,装饰性的": null
+        },
+        {
+            "cooked,煮熟": null
+        },
+        {
+            "racing,赛车": null
+        },
+        {
+            "whole,所有的": null
+        },
+        {
+            "drinking,喝": null
+        },
+        {
+            "short,短的": null
+        },
+        {
+            "serving,服务": null
+        },
+        {
+            "expensive,昂贵的": null
+        },
+        {
+            "socializing,社交": null
+        },
+        {
+            "stretching,拉伸": null
+        },
+        {
+            "horizontal,水平的": null
+        },
+        {
+            "angry,生气的": null
+        },
+        {
+            "captive,俘虏": null
+        },
+        {
+            "fast,快速地": null
+        },
+        {
+            "leashed,牵引": null
+        },
+        {
+            "tasty / delicious,美味 /美味": null
+        },
+        {
+            "happy,快乐的": null
+        },
+        {
+            "unused / inactive,未使用 /无活性": null
+        },
+        {
+            "healthy,健康": null
+        }
+    ]
+}

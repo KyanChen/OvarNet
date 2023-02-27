@@ -1,0 +1,207 @@
+{
+    "l1_attributes": [
+        "antelope",
+        "grizzly bear",
+        "killer whale",
+        "beaver",
+        "dalmatian",
+        "persian cat",
+        "horse",
+        "german shepherd",
+        "blue whale",
+        "siamese cat",
+        "skunk",
+        "mole",
+        "tiger",
+        "hippopotamus",
+        "leopard",
+        "moose",
+        "spider monkey",
+        "humpback whale",
+        "elephant",
+        "gorilla",
+        "ox",
+        "fox",
+        "sheep",
+        "seal",
+        "chimpanzee",
+        "hamster",
+        "squirrel",
+        "rhinoceros",
+        "rabbit",
+        "bat",
+        "giraffe",
+        "wolf",
+        "chihuahua",
+        "rat",
+        "weasel",
+        "otter",
+        "buffalo",
+        "zebra",
+        "giant panda",
+        "deer",
+        "bobcat",
+        "pig",
+        "lion",
+        "mouse",
+        "polar bear",
+        "collie",
+        "walrus",
+        "raccoon",
+        "cow",
+        "dolphin"
+    ],
+    "levels": 1,
+    "attribute_tree": [
+        {
+            "antelope,羚羊": null
+        },
+        {
+            "grizzly bear,大灰熊": null
+        },
+        {
+            "killer whale,逆戟鲸": null
+        },
+        {
+            "beaver,海狸": null
+        },
+        {
+            "dalmatian,达尔马提亚人": null
+        },
+        {
+            "persian cat,波斯猫": null
+        },
+        {
+            "horse,马": null
+        },
+        {
+            "german shepherd,德国牧羊犬": null
+        },
+        {
+            "blue whale,蓝鲸": null
+        },
+        {
+            "siamese cat,暹罗猫": null
+        },
+        {
+            "skunk,臭鼬": null
+        },
+        {
+            "mole,痣": null
+        },
+        {
+            "tiger,老虎": null
+        },
+        {
+            "hippopotamus,河马": null
+        },
+        {
+            "leopard,豹": null
+        },
+        {
+            "moose,驼鹿": null
+        },
+        {
+            "spider monkey,蜘蛛猴": null
+        },
+        {
+            "humpback whale,座头鲸": null
+        },
+        {
+            "elephant,大象": null
+        },
+        {
+            "gorilla,大猩猩": null
+        },
+        {
+            "ox,牛": null
+        },
+        {
+            "fox,狐狸": null
+        },
+        {
+            "sheep,羊": null
+        },
+        {
+            "seal,海豹": null
+        },
+        {
+            "chimpanzee,黑猩猩": null
+        },
+        {
+            "hamster,仓鼠": null
+        },
+        {
+            "squirrel,松鼠": null
+        },
+        {
+            "rhinoceros,犀牛": null
+        },
+        {
+            "rabbit,兔子": null
+        },
+        {
+            "bat,蝙蝠": null
+        },
+        {
+            "giraffe,长颈鹿": null
+        },
+        {
+            "wolf,狼": null
+        },
+        {
+            "chihuahua,奇瓦瓦": null
+        },
+        {
+            "rat,鼠": null
+        },
+        {
+            "weasel,黄鼠狼": null
+        },
+        {
+            "otter,獭": null
+        },
+        {
+            "buffalo,水牛": null
+        },
+        {
+            "zebra,斑马": null
+        },
+        {
+            "giant panda,大熊猫": null
+        },
+        {
+            "deer,鹿": null
+        },
+        {
+            "bobcat,山猫": null
+        },
+        {
+            "pig,猪": null
+        },
+        {
+            "lion,狮子": null
+        },
+        {
+            "mouse,鼠": null
+        },
+        {
+            "polar bear,北极熊": null
+        },
+        {
+            "collie,牧羊犬": null
+        },
+        {
+            "walrus,海象": null
+        },
+        {
+            "raccoon,狸": null
+        },
+        {
+            "cow,奶牛": null
+        },
+        {
+            "dolphin,海豚": null
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "l1_attributes": [
+        "5 o clock shadow",
+        "arched eyebrows",
+        "attractive",
+        "bags under eyes",
+        "bald",
+        "bangs",
+        "big lips",
+        "big nose",
+        "black hair",
+        "blond hair",
+        "blurry",
+        "brown hair",
+        "bushy eyebrows",
+        "chubby",
+        "double chin",
+        "eyeglasses",
+        "goatee",
+        "gray hair",
+        "heavy makeup",
+        "high cheekbones",
+        "male",
+        "mouth slightly open",
+        "mustache",
+        "narrow eyes",
+        "no beard",
+        "oval face",
+        "pale skin",
+        "pointy nose",
+        "receding hairline",
+        "rosy cheeks",
+        "sideburns",
+        "smiling",
+        "straight hair",
+        "wavy hair",
+        "wearing earrings",
+        "wearing hat",
+        "wearing lipstick",
+        "wearing necklace",
+        "wearing necktie",
+        "young"
+    ],
+    "levels": 1,
+    "attribute_tree": [
+        {
+            "5 o clock shadow,5 o时钟阴影": null
+        },
+        {
+            "arched eyebrows,拱形眉毛": null
+        },
+        {
+            "attractive,吸引人的": null
+        },
+        {
+            "bags under eyes,眼睛下面的袋子": null
+        },
+        {
+            "bald,秃": null
+        },
+        {
+            "bangs,刘海": null
+        },
+        {
+            "big lips,厚嘴唇": null
+        },
+        {
+            "big nose,大鼻子": null
+        },
+        {
+            "black hair,黑发": null
+        },
+        {
+            "blond hair,金发": null
+        },
+        {
+            "blurry,模糊": null
+        },
+        {
+            "brown hair,棕色的头发": null
+        },
+        {
+            "bushy eyebrows,浓密的眉毛": null
+        },
+        {
+            "chubby,胖": null
+        },
+        {
+            "double chin,双下巴": null
+        },
+        {
+            "eyeglasses,眼镜": null
+        },
+        {
+            "goatee,山羊胡子": null
+        },
+        {
+            "gray hair,花白头发": null
+        },
+        {
+            "heavy makeup,厚实的化妆": null
+        },
+        {
+            "high cheekbones,高che骨": null
+        },
+        {
+            "male,男性": null
+        },
+        {
+            "mouth slightly open,嘴略微打开": null
+        },
+        {
+            "mustache,胡子": null
+        },
+        {
+            "narrow eyes,狭窄的眼睛": null
+        },
+        {
+            "no beard,没有胡须": null
+        },
+        {
+            "oval face,鹅蛋脸": null
+        },
+        {
+            "pale skin,苍白的肤色": null
+        },
+        {
+            "pointy nose,尖头的鼻子": null
+        },
+        {
+            "receding hairline,后退的发际线": null
+        },
+        {
+            "rosy cheeks,红润的脸颊": null
+        },
+        {
+            "sideburns,散田": null
+        },
+        {
+            "smiling,微笑": null
+        },
+        {
+            "straight hair,直发": null
+        },
+        {
+            "wavy hair,卷发": null
+        },
+        {
+            "wearing earrings,戴耳环": null
+        },
+        {
+            "wearing hat,戴帽子": null
+        },
+        {
+            "wearing lipstick,戴口红": null
+        },
+        {
+            "wearing necklace,戴项链": null
+        },
+        {
+            "wearing necktie,穿领带": null
+        },
+        {
+            "young,年轻的": null
+        }
+    ]
+}

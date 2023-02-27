@@ -1,0 +1,263 @@
+{
+    "l1_attributes": [
+        "2d boxy",
+        "3d boxy",
+        "round",
+        "vertical cycling",
+        "horizontal cycling",
+        "occluded",
+        "tail",
+        "beak",
+        "head",
+        "ear",
+        "snout",
+        "nose",
+        "mouth",
+        "hair",
+        "face",
+        "eye",
+        "torso",
+        "hand",
+        "arm",
+        "leg",
+        "foot/shoe",
+        "wing",
+        "propeller",
+        "jet engine",
+        "window",
+        "row wind",
+        "wheel",
+        "door",
+        "headlight",
+        "taillight",
+        "side mirror",
+        "exhaust",
+        "pedal",
+        "handlebars",
+        "engine",
+        "sail",
+        "mast",
+        "text",
+        "label",
+        "furniture leg",
+        "furniture back",
+        "furniture seat",
+        "furniture arm",
+        "horn",
+        "rein",
+        "saddle",
+        "leaf",
+        "flower",
+        "stem/trunk",
+        "pot",
+        "screen",
+        "skin",
+        "metal",
+        "plastic",
+        "wood",
+        "cloth",
+        "furry",
+        "glass",
+        "feather",
+        "wool",
+        "clear",
+        "shiny",
+        "vegetation",
+        "leather"
+    ],
+    "levels": 1,
+    "attribute_tree": [
+        {
+            "2d boxy,2d boxy": null
+        },
+        {
+            "3d boxy,3D方形": null
+        },
+        {
+            "round,圆形的": null
+        },
+        {
+            "vertical cycling,垂直循环": null
+        },
+        {
+            "horizontal cycling,水平骑自行车": null
+        },
+        {
+            "occluded,塞满了": null
+        },
+        {
+            "tail,尾巴": null
+        },
+        {
+            "beak,喙": null
+        },
+        {
+            "head,头": null
+        },
+        {
+            "ear,耳朵": null
+        },
+        {
+            "snout,鼻子": null
+        },
+        {
+            "nose,鼻子": null
+        },
+        {
+            "mouth,嘴": null
+        },
+        {
+            "hair,头发": null
+        },
+        {
+            "face,脸": null
+        },
+        {
+            "eye,眼睛": null
+        },
+        {
+            "torso,躯干": null
+        },
+        {
+            "hand,手": null
+        },
+        {
+            "arm,手臂": null
+        },
+        {
+            "leg,腿": null
+        },
+        {
+            "foot/shoe,脚/鞋子": null
+        },
+        {
+            "wing,翅膀": null
+        },
+        {
+            "propeller,螺旋桨": null
+        },
+        {
+            "jet engine,喷气发动机": null
+        },
+        {
+            "window,窗户": null
+        },
+        {
+            "row wind,行风": null
+        },
+        {
+            "wheel,车轮": null
+        },
+        {
+            "door,门": null
+        },
+        {
+            "headlight,大灯": null
+        },
+        {
+            "taillight,尾灯": null
+        },
+        {
+            "side mirror,后视镜": null
+        },
+        {
+            "exhaust,排气": null
+        },
+        {
+            "pedal,踏板": null
+        },
+        {
+            "handlebars,车把": null
+        },
+        {
+            "engine,引擎": null
+        },
+        {
+            "sail,帆": null
+        },
+        {
+            "mast,桅杆": null
+        },
+        {
+            "text,文本": null
+        },
+        {
+            "label,标签": null
+        },
+        {
+            "furniture leg,家具腿": null
+        },
+        {
+            "furniture back,家具返回": null
+        },
+        {
+            "furniture seat,家具座椅": null
+        },
+        {
+            "furniture arm,家具臂": null
+        },
+        {
+            "horn,喇叭": null
+        },
+        {
+            "rein,rein": null
+        },
+        {
+            "saddle,鞍": null
+        },
+        {
+            "leaf,叶子": null
+        },
+        {
+            "flower,花": null
+        },
+        {
+            "stem/trunk,茎/躯干": null
+        },
+        {
+            "pot,锅": null
+        },
+        {
+            "screen,屏幕": null
+        },
+        {
+            "skin,皮肤": null
+        },
+        {
+            "metal,金属": null
+        },
+        {
+            "plastic,塑料": null
+        },
+        {
+            "wood,木头": null
+        },
+        {
+            "cloth,布": null
+        },
+        {
+            "furry,毛茸茸": null
+        },
+        {
+            "glass,玻璃": null
+        },
+        {
+            "feather,羽毛": null
+        },
+        {
+            "wool,羊毛": null
+        },
+        {
+            "clear,清除": null
+        },
+        {
+            "shiny,闪亮的": null
+        },
+        {
+            "vegetation,植被": null
+        },
+        {
+            "leather,皮革": null
+        }
+    ]
+}

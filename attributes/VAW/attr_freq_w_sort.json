@@ -1,0 +1,4962 @@
+[
+    [
+        "white",
+        {
+            "pos": 33692,
+            "neg": 7202,
+            "total": 40894
+        }
+    ],
+    [
+        "large",
+        {
+            "pos": 12315,
+            "neg": 12768,
+            "total": 25083
+        }
+    ],
+    [
+        "black",
+        {
+            "pos": 18842,
+            "neg": 2165,
+            "total": 21007
+        }
+    ],
+    [
+        "green",
+        {
+            "pos": 14797,
+            "neg": 3514,
+            "total": 18311
+        }
+    ],
+    [
+        "blue",
+        {
+            "pos": 13572,
+            "neg": 1136,
+            "total": 14708
+        }
+    ],
+    [
+        "small",
+        {
+            "pos": 6676,
+            "neg": 7645,
+            "total": 14321
+        }
+    ],
+    [
+        "brown",
+        {
+            "pos": 12163,
+            "neg": 1917,
+            "total": 14080
+        }
+    ],
+    [
+        "red",
+        {
+            "pos": 8972,
+            "neg": 3646,
+            "total": 12618
+        }
+    ],
+    [
+        "wooden",
+        {
+            "pos": 7783,
+            "neg": 4345,
+            "total": 12128
+        }
+    ],
+    [
+        "long",
+        {
+            "pos": 4474,
+            "neg": 5243,
+            "total": 9717
+        }
+    ],
+    [
+        "metal",
+        {
+            "pos": 5266,
+            "neg": 4416,
+            "total": 9682
+        }
+    ],
+    [
+        "gray",
+        {
+            "pos": 8451,
+            "neg": 907,
+            "total": 9358
+        }
+    ],
+    [
+        "silver",
+        {
+            "pos": 3392,
+            "neg": 5801,
+            "total": 9193
+        }
+    ],
+    [
+        "tall",
+        {
+            "pos": 4560,
+            "neg": 3314,
+            "total": 7874
+        }
+    ],
+    [
+        "yellow",
+        {
+            "pos": 5360,
+            "neg": 2339,
+            "total": 7699
+        }
+    ],
+    [
+        "round",
+        {
+            "pos": 2753,
+            "neg": 4204,
+            "total": 6957
+        }
+    ],
+    [
+        "dark",
+        {
+            "pos": 3316,
+            "neg": 3573,
+            "total": 6889
+        }
+    ],
+    [
+        "striped",
+        {
+            "pos": 1118,
+            "neg": 4975,
+            "total": 6093
+        }
+    ],
+    [
+        "shiny",
+        {
+            "pos": 1973,
+            "neg": 4081,
+            "total": 6054
+        }
+    ],
+    [
+        "colorful",
+        {
+            "pos": 1374,
+            "neg": 4545,
+            "total": 5919
+        }
+    ],
+    [
+        "open",
+        {
+            "pos": 2151,
+            "neg": 3459,
+            "total": 5610
+        }
+    ],
+    [
+        "dirty",
+        {
+            "pos": 845,
+            "neg": 4659,
+            "total": 5504
+        }
+    ],
+    [
+        "hanging",
+        {
+            "pos": 1701,
+            "neg": 3626,
+            "total": 5327
+        }
+    ],
+    [
+        "clear",
+        {
+            "pos": 2511,
+            "neg": 2715,
+            "total": 5226
+        }
+    ],
+    [
+        "standing",
+        {
+            "pos": 3299,
+            "neg": 1746,
+            "total": 5045
+        }
+    ],
+    [
+        "orange",
+        {
+            "pos": 2546,
+            "neg": 2136,
+            "total": 4682
+        }
+    ],
+    [
+        "multicolored",
+        {
+            "pos": 636,
+            "neg": 3954,
+            "total": 4590
+        }
+    ],
+    [
+        "empty",
+        {
+            "pos": 1603,
+            "neg": 2974,
+            "total": 4577
+        }
+    ],
+    [
+        "rounded",
+        {
+            "pos": 3277,
+            "neg": 1005,
+            "total": 4282
+        }
+    ],
+    [
+        "painted",
+        {
+            "pos": 1288,
+            "neg": 2792,
+            "total": 4080
+        }
+    ],
+    [
+        "curved",
+        {
+            "pos": 1176,
+            "neg": 2869,
+            "total": 4045
+        }
+    ],
+    [
+        "rectangular",
+        {
+            "pos": 1544,
+            "neg": 2472,
+            "total": 4016
+        }
+    ],
+    [
+        "plastic",
+        {
+            "pos": 1636,
+            "neg": 2245,
+            "total": 3881
+        }
+    ],
+    [
+        "square",
+        {
+            "pos": 1185,
+            "neg": 2668,
+            "total": 3853
+        }
+    ],
+    [
+        "patterned",
+        {
+            "pos": 1961,
+            "neg": 1872,
+            "total": 3833
+        }
+    ],
+    [
+        "pink",
+        {
+            "pos": 1827,
+            "neg": 1971,
+            "total": 3798
+        }
+    ],
+    [
+        "wet",
+        {
+            "pos": 986,
+            "neg": 2758,
+            "total": 3744
+        }
+    ],
+    [
+        "thin",
+        {
+            "pos": 1734,
+            "neg": 1899,
+            "total": 3633
+        }
+    ],
+    [
+        "short",
+        {
+            "pos": 1721,
+            "neg": 1878,
+            "total": 3599
+        }
+    ],
+    [
+        "thick",
+        {
+            "pos": 1302,
+            "neg": 2229,
+            "total": 3531
+        }
+    ],
+    [
+        "blurry",
+        {
+            "pos": 509,
+            "neg": 3021,
+            "total": 3530
+        }
+    ],
+    [
+        "rusty",
+        {
+            "pos": 423,
+            "neg": 3028,
+            "total": 3451
+        }
+    ],
+    [
+        "flat",
+        {
+            "pos": 1121,
+            "neg": 2064,
+            "total": 3185
+        }
+    ],
+    [
+        "tan",
+        {
+            "pos": 1708,
+            "neg": 1460,
+            "total": 3168
+        }
+    ],
+    [
+        "wide",
+        {
+            "pos": 1104,
+            "neg": 2053,
+            "total": 3157
+        }
+    ],
+    [
+        "close",
+        {
+            "pos": 1099,
+            "neg": 2036,
+            "total": 3135
+        }
+    ],
+    [
+        "huge",
+        {
+            "pos": 953,
+            "neg": 2154,
+            "total": 3107
+        }
+    ],
+    [
+        "glass",
+        {
+            "pos": 1458,
+            "neg": 1612,
+            "total": 3070
+        }
+    ],
+    [
+        "circular",
+        {
+            "pos": 781,
+            "neg": 2255,
+            "total": 3036
+        }
+    ],
+    [
+        "concrete",
+        {
+            "pos": 1130,
+            "neg": 1844,
+            "total": 2974
+        }
+    ],
+    [
+        "cream colored",
+        {
+            "pos": 647,
+            "neg": 2257,
+            "total": 2904
+        }
+    ],
+    [
+        "lying",
+        {
+            "pos": 869,
+            "neg": 1944,
+            "total": 2813
+        }
+    ],
+    [
+        "brick",
+        {
+            "pos": 1298,
+            "neg": 1482,
+            "total": 2780
+        }
+    ],
+    [
+        "clean",
+        {
+            "pos": 1249,
+            "neg": 1512,
+            "total": 2761
+        }
+    ],
+    [
+        "parking",
+        {
+            "pos": 1925,
+            "neg": 812,
+            "total": 2737
+        }
+    ],
+    [
+        "snowy",
+        {
+            "pos": 563,
+            "neg": 1982,
+            "total": 2545
+        }
+    ],
+    [
+        "stone",
+        {
+            "pos": 941,
+            "neg": 1581,
+            "total": 2522
+        }
+    ],
+    [
+        "walking",
+        {
+            "pos": 1332,
+            "neg": 1065,
+            "total": 2397
+        }
+    ],
+    [
+        "grassy",
+        {
+            "pos": 824,
+            "neg": 1530,
+            "total": 2354
+        }
+    ],
+    [
+        "worn",
+        {
+            "pos": 520,
+            "neg": 1822,
+            "total": 2342
+        }
+    ],
+    [
+        "sitting",
+        {
+            "pos": 1452,
+            "neg": 720,
+            "total": 2172
+        }
+    ],
+    [
+        "floral",
+        {
+            "pos": 297,
+            "neg": 1870,
+            "total": 2167
+        }
+    ],
+    [
+        "stacked",
+        {
+            "pos": 506,
+            "neg": 1589,
+            "total": 2095
+        }
+    ],
+    [
+        "plaid",
+        {
+            "pos": 269,
+            "neg": 1804,
+            "total": 2073
+        }
+    ],
+    [
+        "light colored",
+        {
+            "pos": 1336,
+            "neg": 693,
+            "total": 2029
+        }
+    ],
+    [
+        "bright",
+        {
+            "pos": 1060,
+            "neg": 962,
+            "total": 2022
+        }
+    ],
+    [
+        "light brown",
+        {
+            "pos": 606,
+            "neg": 1413,
+            "total": 2019
+        }
+    ],
+    [
+        "closed",
+        {
+            "pos": 1062,
+            "neg": 929,
+            "total": 1991
+        }
+    ],
+    [
+        "full",
+        {
+            "pos": 963,
+            "neg": 990,
+            "total": 1953
+        }
+    ],
+    [
+        "checkered",
+        {
+            "pos": 171,
+            "neg": 1752,
+            "total": 1923
+        }
+    ],
+    [
+        "reflective",
+        {
+            "pos": 484,
+            "neg": 1434,
+            "total": 1918
+        }
+    ],
+    [
+        "pointy",
+        {
+            "pos": 697,
+            "neg": 1174,
+            "total": 1871
+        }
+    ],
+    [
+        "high",
+        {
+            "pos": 580,
+            "neg": 1257,
+            "total": 1837
+        }
+    ],
+    [
+        "leaning",
+        {
+            "pos": 486,
+            "neg": 1324,
+            "total": 1810
+        }
+    ],
+    [
+        "running",
+        {
+            "pos": 437,
+            "neg": 1367,
+            "total": 1804
+        }
+    ],
+    [
+        "smiling",
+        {
+            "pos": 766,
+            "neg": 1003,
+            "total": 1769
+        }
+    ],
+    [
+        "smooth",
+        {
+            "pos": 598,
+            "neg": 1163,
+            "total": 1761
+        }
+    ],
+    [
+        "folded",
+        {
+            "pos": 488,
+            "neg": 1273,
+            "total": 1761
+        }
+    ],
+    [
+        "little",
+        {
+            "pos": 823,
+            "neg": 935,
+            "total": 1758
+        }
+    ],
+    [
+        "steel",
+        {
+            "pos": 732,
+            "neg": 1010,
+            "total": 1742
+        }
+    ],
+    [
+        "cut",
+        {
+            "pos": 500,
+            "neg": 1237,
+            "total": 1737
+        }
+    ],
+    [
+        "purple",
+        {
+            "pos": 964,
+            "neg": 767,
+            "total": 1731
+        }
+    ],
+    [
+        "dirt",
+        {
+            "pos": 434,
+            "neg": 1272,
+            "total": 1706
+        }
+    ],
+    [
+        "eating",
+        {
+            "pos": 757,
+            "neg": 885,
+            "total": 1642
+        }
+    ],
+    [
+        "happy",
+        {
+            "pos": 1043,
+            "neg": 587,
+            "total": 1630
+        }
+    ],
+    [
+        "beige",
+        {
+            "pos": 696,
+            "neg": 926,
+            "total": 1622
+        }
+    ],
+    [
+        "faded",
+        {
+            "pos": 288,
+            "neg": 1319,
+            "total": 1607
+        }
+    ],
+    [
+        "piled",
+        {
+            "pos": 468,
+            "neg": 1095,
+            "total": 1563
+        }
+    ],
+    [
+        "upside down",
+        {
+            "pos": 174,
+            "neg": 1382,
+            "total": 1556
+        }
+    ],
+    [
+        "golden",
+        {
+            "pos": 601,
+            "neg": 953,
+            "total": 1554
+        }
+    ],
+    [
+        "printed",
+        {
+            "pos": 469,
+            "neg": 1074,
+            "total": 1543
+        }
+    ],
+    [
+        "moving",
+        {
+            "pos": 647,
+            "neg": 886,
+            "total": 1533
+        }
+    ],
+    [
+        "dry",
+        {
+            "pos": 736,
+            "neg": 789,
+            "total": 1525
+        }
+    ],
+    [
+        "tiled",
+        {
+            "pos": 814,
+            "neg": 664,
+            "total": 1478
+        }
+    ],
+    [
+        "dark colored",
+        {
+            "pos": 1073,
+            "neg": 397,
+            "total": 1470
+        }
+    ],
+    [
+        "leather",
+        {
+            "pos": 439,
+            "neg": 1020,
+            "total": 1459
+        }
+    ],
+    [
+        "lined",
+        {
+            "pos": 359,
+            "neg": 1093,
+            "total": 1452
+        }
+    ],
+    [
+        "wrinkled",
+        {
+            "pos": 450,
+            "neg": 1002,
+            "total": 1452
+        }
+    ],
+    [
+        "sliced",
+        {
+            "pos": 611,
+            "neg": 838,
+            "total": 1449
+        }
+    ],
+    [
+        "old",
+        {
+            "pos": 864,
+            "neg": 578,
+            "total": 1442
+        }
+    ],
+    [
+        "vertical",
+        {
+            "pos": 519,
+            "neg": 907,
+            "total": 1426
+        }
+    ],
+    [
+        "bent",
+        {
+            "pos": 351,
+            "neg": 1036,
+            "total": 1387
+        }
+    ],
+    [
+        "furry",
+        {
+            "pos": 569,
+            "neg": 781,
+            "total": 1350
+        }
+    ],
+    [
+        "blond",
+        {
+            "pos": 720,
+            "neg": 592,
+            "total": 1312
+        }
+    ],
+    [
+        "rocky",
+        {
+            "pos": 378,
+            "neg": 928,
+            "total": 1306
+        }
+    ],
+    [
+        "spotted",
+        {
+            "pos": 218,
+            "neg": 1081,
+            "total": 1299
+        }
+    ],
+    [
+        "illuminated",
+        {
+            "pos": 392,
+            "neg": 852,
+            "total": 1244
+        }
+    ],
+    [
+        "arch shaped",
+        {
+            "pos": 303,
+            "neg": 936,
+            "total": 1239
+        }
+    ],
+    [
+        "chrome",
+        {
+            "pos": 311,
+            "neg": 912,
+            "total": 1223
+        }
+    ],
+    [
+        "flying",
+        {
+            "pos": 507,
+            "neg": 706,
+            "total": 1213
+        }
+    ],
+    [
+        "rough",
+        {
+            "pos": 472,
+            "neg": 740,
+            "total": 1212
+        }
+    ],
+    [
+        "triangular",
+        {
+            "pos": 290,
+            "neg": 919,
+            "total": 1209
+        }
+    ],
+    [
+        "narrow",
+        {
+            "pos": 329,
+            "neg": 871,
+            "total": 1200
+        }
+    ],
+    [
+        "cloudy",
+        {
+            "pos": 965,
+            "neg": 230,
+            "total": 1195
+        }
+    ],
+    [
+        "fluffy",
+        {
+            "pos": 545,
+            "neg": 640,
+            "total": 1185
+        }
+    ],
+    [
+        "skinny",
+        {
+            "pos": 331,
+            "neg": 844,
+            "total": 1175
+        }
+    ],
+    [
+        "dusty",
+        {
+            "pos": 342,
+            "neg": 833,
+            "total": 1175
+        }
+    ],
+    [
+        "chocolate",
+        {
+            "pos": 272,
+            "neg": 895,
+            "total": 1167
+        }
+    ],
+    [
+        "paved",
+        {
+            "pos": 644,
+            "neg": 515,
+            "total": 1159
+        }
+    ],
+    [
+        "young",
+        {
+            "pos": 1037,
+            "neg": 118,
+            "total": 1155
+        }
+    ],
+    [
+        "horizontal",
+        {
+            "pos": 410,
+            "neg": 744,
+            "total": 1154
+        }
+    ],
+    [
+        "ceramic",
+        {
+            "pos": 423,
+            "neg": 690,
+            "total": 1113
+        }
+    ],
+    [
+        "wrapped",
+        {
+            "pos": 160,
+            "neg": 944,
+            "total": 1104
+        }
+    ],
+    [
+        "leafy",
+        {
+            "pos": 645,
+            "neg": 435,
+            "total": 1080
+        }
+    ],
+    [
+        "oval shaped",
+        {
+            "pos": 193,
+            "neg": 882,
+            "total": 1075
+        }
+    ],
+    [
+        "fuzzy",
+        {
+            "pos": 344,
+            "neg": 725,
+            "total": 1069
+        }
+    ],
+    [
+        "turned off",
+        {
+            "pos": 464,
+            "neg": 583,
+            "total": 1047
+        }
+    ],
+    [
+        "drinking",
+        {
+            "pos": 120,
+            "neg": 921,
+            "total": 1041
+        }
+    ],
+    [
+        "tiny",
+        {
+            "pos": 420,
+            "neg": 619,
+            "total": 1039
+        }
+    ],
+    [
+        "sandy",
+        {
+            "pos": 355,
+            "neg": 663,
+            "total": 1018
+        }
+    ],
+    [
+        "raised",
+        {
+            "pos": 340,
+            "neg": 665,
+            "total": 1005
+        }
+    ],
+    [
+        "waiting",
+        {
+            "pos": 379,
+            "neg": 615,
+            "total": 994
+        }
+    ],
+    [
+        "paper",
+        {
+            "pos": 414,
+            "neg": 570,
+            "total": 984
+        }
+    ],
+    [
+        "water",
+        {
+            "pos": 369,
+            "neg": 598,
+            "total": 967
+        }
+    ],
+    [
+        "skiing",
+        {
+            "pos": 300,
+            "neg": 639,
+            "total": 939
+        }
+    ],
+    [
+        "transparent",
+        {
+            "pos": 317,
+            "neg": 607,
+            "total": 924
+        }
+    ],
+    [
+        "dark brown",
+        {
+            "pos": 306,
+            "neg": 614,
+            "total": 920
+        }
+    ],
+    [
+        "fat",
+        {
+            "pos": 311,
+            "neg": 607,
+            "total": 918
+        }
+    ],
+    [
+        "dressed",
+        {
+            "pos": 575,
+            "neg": 339,
+            "total": 914
+        }
+    ],
+    [
+        "extended",
+        {
+            "pos": 403,
+            "neg": 504,
+            "total": 907
+        }
+    ],
+    [
+        "cracked",
+        {
+            "pos": 158,
+            "neg": 746,
+            "total": 904
+        }
+    ],
+    [
+        "talking",
+        {
+            "pos": 270,
+            "neg": 633,
+            "total": 903
+        }
+    ],
+    [
+        "shining",
+        {
+            "pos": 282,
+            "neg": 611,
+            "total": 893
+        }
+    ],
+    [
+        "muddy",
+        {
+            "pos": 130,
+            "neg": 748,
+            "total": 878
+        }
+    ],
+    [
+        "in rain",
+        {
+            "pos": 54,
+            "neg": 812,
+            "total": 866
+        }
+    ],
+    [
+        "chopped",
+        {
+            "pos": 299,
+            "neg": 553,
+            "total": 852
+        }
+    ],
+    [
+        "upright",
+        {
+            "pos": 303,
+            "neg": 545,
+            "total": 848
+        }
+    ],
+    [
+        "rolled up",
+        {
+            "pos": 49,
+            "neg": 788,
+            "total": 837
+        }
+    ],
+    [
+        "stainless steel",
+        {
+            "pos": 305,
+            "neg": 530,
+            "total": 835
+        }
+    ],
+    [
+        "straight",
+        {
+            "pos": 452,
+            "neg": 374,
+            "total": 826
+        }
+    ],
+    [
+        "jumping",
+        {
+            "pos": 258,
+            "neg": 562,
+            "total": 820
+        }
+    ],
+    [
+        "slanted",
+        {
+            "pos": 175,
+            "neg": 618,
+            "total": 793
+        }
+    ],
+    [
+        "bare",
+        {
+            "pos": 661,
+            "neg": 130,
+            "total": 791
+        }
+    ],
+    [
+        "wearing glasses",
+        {
+            "pos": 257,
+            "neg": 530,
+            "total": 787
+        }
+    ],
+    [
+        "maroon",
+        {
+            "pos": 229,
+            "neg": 530,
+            "total": 759
+        }
+    ],
+    [
+        "skateboarding",
+        {
+            "pos": 260,
+            "neg": 499,
+            "total": 759
+        }
+    ],
+    [
+        "female",
+        {
+            "pos": 225,
+            "neg": 528,
+            "total": 753
+        }
+    ],
+    [
+        "piece",
+        {
+            "pos": 322,
+            "neg": 431,
+            "total": 753
+        }
+    ],
+    [
+        "light skinned",
+        {
+            "pos": 623,
+            "neg": 123,
+            "total": 746
+        }
+    ],
+    [
+        "calm",
+        {
+            "pos": 555,
+            "neg": 184,
+            "total": 739
+        }
+    ],
+    [
+        "curly",
+        {
+            "pos": 148,
+            "neg": 584,
+            "total": 732
+        }
+    ],
+    [
+        "dark gray",
+        {
+            "pos": 266,
+            "neg": 464,
+            "total": 730
+        }
+    ],
+    [
+        "sleeping",
+        {
+            "pos": 163,
+            "neg": 564,
+            "total": 727
+        }
+    ],
+    [
+        "burnt",
+        {
+            "pos": 126,
+            "neg": 595,
+            "total": 721
+        }
+    ],
+    [
+        "tied",
+        {
+            "pos": 254,
+            "neg": 465,
+            "total": 719
+        }
+    ],
+    [
+        "tilted",
+        {
+            "pos": 177,
+            "neg": 533,
+            "total": 710
+        }
+    ],
+    [
+        "crouching",
+        {
+            "pos": 200,
+            "neg": 506,
+            "total": 706
+        }
+    ],
+    [
+        "resting",
+        {
+            "pos": 359,
+            "neg": 347,
+            "total": 706
+        }
+    ],
+    [
+        "floating",
+        {
+            "pos": 304,
+            "neg": 396,
+            "total": 700
+        }
+    ],
+    [
+        "pointing",
+        {
+            "pos": 144,
+            "neg": 550,
+            "total": 694
+        }
+    ],
+    [
+        "dried",
+        {
+            "pos": 213,
+            "neg": 479,
+            "total": 692
+        }
+    ],
+    [
+        "marble",
+        {
+            "pos": 169,
+            "neg": 522,
+            "total": 691
+        }
+    ],
+    [
+        "short-sleeved",
+        {
+            "pos": 404,
+            "neg": 287,
+            "total": 691
+        }
+    ],
+    [
+        "kneeling",
+        {
+            "pos": 67,
+            "neg": 623,
+            "total": 690
+        }
+    ],
+    [
+        "long-sleeved",
+        {
+            "pos": 391,
+            "neg": 283,
+            "total": 674
+        }
+    ],
+    [
+        "trimmed",
+        {
+            "pos": 227,
+            "neg": 445,
+            "total": 672
+        }
+    ],
+    [
+        "polka dotted",
+        {
+            "pos": 33,
+            "neg": 638,
+            "total": 671
+        }
+    ],
+    [
+        "denim",
+        {
+            "pos": 201,
+            "neg": 455,
+            "total": 656
+        }
+    ],
+    [
+        "grazing",
+        {
+            "pos": 338,
+            "neg": 318,
+            "total": 656
+        }
+    ],
+    [
+        "graffitied",
+        {
+            "pos": 42,
+            "neg": 612,
+            "total": 654
+        }
+    ],
+    [
+        "dark blue",
+        {
+            "pos": 293,
+            "neg": 358,
+            "total": 651
+        }
+    ],
+    [
+        "male",
+        {
+            "pos": 271,
+            "neg": 372,
+            "total": 643
+        }
+    ],
+    [
+        "baby",
+        {
+            "pos": 281,
+            "neg": 348,
+            "total": 629
+        }
+    ],
+    [
+        "turning",
+        {
+            "pos": 89,
+            "neg": 535,
+            "total": 624
+        }
+    ],
+    [
+        "dark skinned",
+        {
+            "pos": 150,
+            "neg": 471,
+            "total": 621
+        }
+    ],
+    [
+        "stopped",
+        {
+            "pos": 363,
+            "neg": 254,
+            "total": 617
+        }
+    ],
+    [
+        "iron",
+        {
+            "pos": 299,
+            "neg": 314,
+            "total": 613
+        }
+    ],
+    [
+        "sleeveless",
+        {
+            "pos": 163,
+            "neg": 446,
+            "total": 609
+        }
+    ],
+    [
+        "posing",
+        {
+            "pos": 216,
+            "neg": 386,
+            "total": 602
+        }
+    ],
+    [
+        "stuffed",
+        {
+            "pos": 273,
+            "neg": 326,
+            "total": 599
+        }
+    ],
+    [
+        "fried",
+        {
+            "pos": 153,
+            "neg": 444,
+            "total": 597
+        }
+    ],
+    [
+        "asphalt",
+        {
+            "pos": 273,
+            "neg": 323,
+            "total": 596
+        }
+    ],
+    [
+        "with umbrella",
+        {
+            "pos": 76,
+            "neg": 515,
+            "total": 591
+        }
+    ],
+    [
+        "backwards",
+        {
+            "pos": 177,
+            "neg": 412,
+            "total": 589
+        }
+    ],
+    [
+        "scattered",
+        {
+            "pos": 175,
+            "neg": 408,
+            "total": 583
+        }
+    ],
+    [
+        "white haired",
+        {
+            "pos": 68,
+            "neg": 508,
+            "total": 576
+        }
+    ],
+    [
+        "long haired",
+        {
+            "pos": 259,
+            "neg": 317,
+            "total": 576
+        }
+    ],
+    [
+        "rubber",
+        {
+            "pos": 199,
+            "neg": 376,
+            "total": 575
+        }
+    ],
+    [
+        "bending",
+        {
+            "pos": 199,
+            "neg": 373,
+            "total": 572
+        }
+    ],
+    [
+        "sharp",
+        {
+            "pos": 255,
+            "neg": 316,
+            "total": 571
+        }
+    ],
+    [
+        "wicker",
+        {
+            "pos": 108,
+            "neg": 456,
+            "total": 564
+        }
+    ],
+    [
+        "looking at camera",
+        {
+            "pos": 130,
+            "neg": 432,
+            "total": 562
+        }
+    ],
+    [
+        "cluttered",
+        {
+            "pos": 174,
+            "neg": 386,
+            "total": 560
+        }
+    ],
+    [
+        "in the air",
+        {
+            "pos": 219,
+            "neg": 338,
+            "total": 557
+        }
+    ],
+    [
+        "hard",
+        {
+            "pos": 343,
+            "neg": 213,
+            "total": 556
+        }
+    ],
+    [
+        "shirtless",
+        {
+            "pos": 133,
+            "neg": 423,
+            "total": 556
+        }
+    ],
+    [
+        "pinstriped",
+        {
+            "pos": 31,
+            "neg": 524,
+            "total": 555
+        }
+    ],
+    [
+        "asian",
+        {
+            "pos": 137,
+            "neg": 418,
+            "total": 555
+        }
+    ],
+    [
+        "bald",
+        {
+            "pos": 213,
+            "neg": 342,
+            "total": 555
+        }
+    ],
+    [
+        "far away",
+        {
+            "pos": 336,
+            "neg": 217,
+            "total": 553
+        }
+    ],
+    [
+        "soft",
+        {
+            "pos": 365,
+            "neg": 187,
+            "total": 552
+        }
+    ],
+    [
+        "light blue",
+        {
+            "pos": 271,
+            "neg": 280,
+            "total": 551
+        }
+    ],
+    [
+        "swinging",
+        {
+            "pos": 219,
+            "neg": 329,
+            "total": 548
+        }
+    ],
+    [
+        "chain-link",
+        {
+            "pos": 302,
+            "neg": 245,
+            "total": 547
+        }
+    ],
+    [
+        "crossed",
+        {
+            "pos": 63,
+            "neg": 480,
+            "total": 543
+        }
+    ],
+    [
+        "wallpapered",
+        {
+            "pos": 24,
+            "neg": 518,
+            "total": 542
+        }
+    ],
+    [
+        "porcelain",
+        {
+            "pos": 353,
+            "neg": 187,
+            "total": 540
+        }
+    ],
+    [
+        "hazy",
+        {
+            "pos": 229,
+            "neg": 306,
+            "total": 535
+        }
+    ],
+    [
+        "curled",
+        {
+            "pos": 196,
+            "neg": 338,
+            "total": 534
+        }
+    ],
+    [
+        "brushing teeth",
+        {
+            "pos": 37,
+            "neg": 486,
+            "total": 523
+        }
+    ],
+    [
+        "grinning",
+        {
+            "pos": 73,
+            "neg": 445,
+            "total": 518
+        }
+    ],
+    [
+        "clapping",
+        {
+            "pos": 16,
+            "neg": 497,
+            "total": 513
+        }
+    ],
+    [
+        "laughing",
+        {
+            "pos": 92,
+            "neg": 417,
+            "total": 509
+        }
+    ],
+    [
+        "frosted",
+        {
+            "pos": 185,
+            "neg": 324,
+            "total": 509
+        }
+    ],
+    [
+        "toy",
+        {
+            "pos": 146,
+            "neg": 360,
+            "total": 506
+        }
+    ],
+    [
+        "navy blue",
+        {
+            "pos": 177,
+            "neg": 325,
+            "total": 502
+        }
+    ],
+    [
+        "wearing hat",
+        {
+            "pos": 301,
+            "neg": 197,
+            "total": 498
+        }
+    ],
+    [
+        "playing tennis",
+        {
+            "pos": 220,
+            "neg": 277,
+            "total": 497
+        }
+    ],
+    [
+        "sunbathing",
+        {
+            "pos": 14,
+            "neg": 483,
+            "total": 497
+        }
+    ],
+    [
+        "blue striped",
+        {
+            "pos": 27,
+            "neg": 468,
+            "total": 495
+        }
+    ],
+    [
+        "tight",
+        {
+            "pos": 180,
+            "neg": 311,
+            "total": 491
+        }
+    ],
+    [
+        "driving",
+        {
+            "pos": 198,
+            "neg": 288,
+            "total": 486
+        }
+    ],
+    [
+        "skating",
+        {
+            "pos": 121,
+            "neg": 363,
+            "total": 484
+        }
+    ],
+    [
+        "ripe",
+        {
+            "pos": 367,
+            "neg": 116,
+            "total": 483
+        }
+    ],
+    [
+        "reading",
+        {
+            "pos": 69,
+            "neg": 412,
+            "total": 481
+        }
+    ],
+    [
+        "bearded",
+        {
+            "pos": 125,
+            "neg": 356,
+            "total": 481
+        }
+    ],
+    [
+        "on the wall",
+        {
+            "pos": 190,
+            "neg": 290,
+            "total": 480
+        }
+    ],
+    [
+        "modern",
+        {
+            "pos": 337,
+            "neg": 137,
+            "total": 474
+        }
+    ],
+    [
+        "in the background",
+        {
+            "pos": 375,
+            "neg": 97,
+            "total": 472
+        }
+    ],
+    [
+        "outdoors",
+        {
+            "pos": 346,
+            "neg": 124,
+            "total": 470
+        }
+    ],
+    [
+        "surfing",
+        {
+            "pos": 252,
+            "neg": 217,
+            "total": 469
+        }
+    ],
+    [
+        "paddling",
+        {
+            "pos": 56,
+            "neg": 410,
+            "total": 466
+        }
+    ],
+    [
+        "indoors",
+        {
+            "pos": 199,
+            "neg": 266,
+            "total": 465
+        }
+    ],
+    [
+        "clay",
+        {
+            "pos": 132,
+            "neg": 330,
+            "total": 462
+        }
+    ],
+    [
+        "short haired",
+        {
+            "pos": 353,
+            "neg": 109,
+            "total": 462
+        }
+    ],
+    [
+        "diamond shaped",
+        {
+            "pos": 49,
+            "neg": 411,
+            "total": 460
+        }
+    ],
+    [
+        "digital",
+        {
+            "pos": 169,
+            "neg": 291,
+            "total": 460
+        }
+    ],
+    [
+        "using computer",
+        {
+            "pos": 102,
+            "neg": 352,
+            "total": 454
+        }
+    ],
+    [
+        "dark green",
+        {
+            "pos": 207,
+            "neg": 245,
+            "total": 452
+        }
+    ],
+    [
+        "riding horse",
+        {
+            "pos": 49,
+            "neg": 400,
+            "total": 449
+        }
+    ],
+    [
+        "gravel",
+        {
+            "pos": 93,
+            "neg": 355,
+            "total": 448
+        }
+    ],
+    [
+        "angry",
+        {
+            "pos": 16,
+            "neg": 432,
+            "total": 448
+        }
+    ],
+    [
+        "sad",
+        {
+            "pos": 38,
+            "neg": 409,
+            "total": 447
+        }
+    ],
+    [
+        "silhouetted",
+        {
+            "pos": 41,
+            "neg": 406,
+            "total": 447
+        }
+    ],
+    [
+        "used",
+        {
+            "pos": 151,
+            "neg": 294,
+            "total": 445
+        }
+    ],
+    [
+        "riding bike",
+        {
+            "pos": 95,
+            "neg": 349,
+            "total": 444
+        }
+    ],
+    [
+        "waving",
+        {
+            "pos": 93,
+            "neg": 350,
+            "total": 443
+        }
+    ],
+    [
+        "playing frisbee",
+        {
+            "pos": 58,
+            "neg": 385,
+            "total": 443
+        }
+    ],
+    [
+        "decorative",
+        {
+            "pos": 340,
+            "neg": 101,
+            "total": 441
+        }
+    ],
+    [
+        "cooked",
+        {
+            "pos": 288,
+            "neg": 152,
+            "total": 440
+        }
+    ],
+    [
+        "still",
+        {
+            "pos": 256,
+            "neg": 183,
+            "total": 439
+        }
+    ],
+    [
+        "wearing green",
+        {
+            "pos": 119,
+            "neg": 319,
+            "total": 438
+        }
+    ],
+    [
+        "framed",
+        {
+            "pos": 349,
+            "neg": 86,
+            "total": 435
+        }
+    ],
+    [
+        "shallow",
+        {
+            "pos": 187,
+            "neg": 246,
+            "total": 433
+        }
+    ],
+    [
+        "spiky",
+        {
+            "pos": 95,
+            "neg": 338,
+            "total": 433
+        }
+    ],
+    [
+        "spotless",
+        {
+            "pos": 269,
+            "neg": 162,
+            "total": 431
+        }
+    ],
+    [
+        "crocheted",
+        {
+            "pos": 40,
+            "neg": 390,
+            "total": 430
+        }
+    ],
+    [
+        "tattooed",
+        {
+            "pos": 18,
+            "neg": 412,
+            "total": 430
+        }
+    ],
+    [
+        "cutting",
+        {
+            "pos": 54,
+            "neg": 375,
+            "total": 429
+        }
+    ],
+    [
+        "studying",
+        {
+            "pos": 20,
+            "neg": 409,
+            "total": 429
+        }
+    ],
+    [
+        "octagonal",
+        {
+            "pos": 83,
+            "neg": 342,
+            "total": 425
+        }
+    ],
+    [
+        "smoking",
+        {
+            "pos": 20,
+            "neg": 405,
+            "total": 425
+        }
+    ],
+    [
+        "fallen",
+        {
+            "pos": 87,
+            "neg": 337,
+            "total": 424
+        }
+    ],
+    [
+        "red striped",
+        {
+            "pos": 55,
+            "neg": 368,
+            "total": 423
+        }
+    ],
+    [
+        "baggy",
+        {
+            "pos": 183,
+            "neg": 240,
+            "total": 423
+        }
+    ],
+    [
+        "barefoot",
+        {
+            "pos": 144,
+            "neg": 277,
+            "total": 421
+        }
+    ],
+    [
+        "sparse",
+        {
+            "pos": 103,
+            "neg": 313,
+            "total": 416
+        }
+    ],
+    [
+        "patchy",
+        {
+            "pos": 106,
+            "neg": 304,
+            "total": 410
+        }
+    ],
+    [
+        "many",
+        {
+            "pos": 349,
+            "neg": 61,
+            "total": 410
+        }
+    ],
+    [
+        "dressed formally",
+        {
+            "pos": 94,
+            "neg": 315,
+            "total": 409
+        }
+    ],
+    [
+        "snowboarding",
+        {
+            "pos": 99,
+            "neg": 309,
+            "total": 408
+        }
+    ],
+    [
+        "throwing",
+        {
+            "pos": 57,
+            "neg": 348,
+            "total": 405
+        }
+    ],
+    [
+        "foamy",
+        {
+            "pos": 140,
+            "neg": 262,
+            "total": 402
+        }
+    ],
+    [
+        "leftover",
+        {
+            "pos": 18,
+            "neg": 381,
+            "total": 399
+        }
+    ],
+    [
+        "surprised",
+        {
+            "pos": 35,
+            "neg": 363,
+            "total": 398
+        }
+    ],
+    [
+        "overcast",
+        {
+            "pos": 227,
+            "neg": 171,
+            "total": 398
+        }
+    ],
+    [
+        "cloudless",
+        {
+            "pos": 302,
+            "neg": 91,
+            "total": 393
+        }
+    ],
+    [
+        "chubby",
+        {
+            "pos": 61,
+            "neg": 326,
+            "total": 387
+        }
+    ],
+    [
+        "excited",
+        {
+            "pos": 37,
+            "neg": 346,
+            "total": 383
+        }
+    ],
+    [
+        "aqua",
+        {
+            "pos": 39,
+            "neg": 343,
+            "total": 382
+        }
+    ],
+    [
+        "squatting",
+        {
+            "pos": 99,
+            "neg": 282,
+            "total": 381
+        }
+    ],
+    [
+        "wearing pink",
+        {
+            "pos": 82,
+            "neg": 298,
+            "total": 380
+        }
+    ],
+    [
+        "wearing black",
+        {
+            "pos": 199,
+            "neg": 179,
+            "total": 378
+        }
+    ],
+    [
+        "khaki",
+        {
+            "pos": 123,
+            "neg": 251,
+            "total": 374
+        }
+    ],
+    [
+        "heart shaped",
+        {
+            "pos": 26,
+            "neg": 347,
+            "total": 373
+        }
+    ],
+    [
+        "hugging",
+        {
+            "pos": 25,
+            "neg": 348,
+            "total": 373
+        }
+    ],
+    [
+        "texting",
+        {
+            "pos": 35,
+            "neg": 334,
+            "total": 369
+        }
+    ],
+    [
+        "glazed",
+        {
+            "pos": 101,
+            "neg": 266,
+            "total": 367
+        }
+    ],
+    [
+        "looking down",
+        {
+            "pos": 155,
+            "neg": 211,
+            "total": 366
+        }
+    ],
+    [
+        "uneaten",
+        {
+            "pos": 296,
+            "neg": 69,
+            "total": 365
+        }
+    ],
+    [
+        "cartoon",
+        {
+            "pos": 39,
+            "neg": 320,
+            "total": 359
+        }
+    ],
+    [
+        "sealed",
+        {
+            "pos": 132,
+            "neg": 223,
+            "total": 355
+        }
+    ],
+    [
+        "teal",
+        {
+            "pos": 146,
+            "neg": 204,
+            "total": 350
+        }
+    ],
+    [
+        "black lettered",
+        {
+            "pos": 127,
+            "neg": 219,
+            "total": 346
+        }
+    ],
+    [
+        "wearing white",
+        {
+            "pos": 126,
+            "neg": 219,
+            "total": 345
+        }
+    ],
+    [
+        "dead",
+        {
+            "pos": 221,
+            "neg": 124,
+            "total": 345
+        }
+    ],
+    [
+        "using phone",
+        {
+            "pos": 81,
+            "neg": 263,
+            "total": 344
+        }
+    ],
+    [
+        "taking photo",
+        {
+            "pos": 73,
+            "neg": 269,
+            "total": 342
+        }
+    ],
+    [
+        "foggy",
+        {
+            "pos": 87,
+            "neg": 255,
+            "total": 342
+        }
+    ],
+    [
+        "sunny",
+        {
+            "pos": 240,
+            "neg": 99,
+            "total": 339
+        }
+    ],
+    [
+        "messy",
+        {
+            "pos": 106,
+            "neg": 231,
+            "total": 337
+        }
+    ],
+    [
+        "broken",
+        {
+            "pos": 129,
+            "neg": 207,
+            "total": 336
+        }
+    ],
+    [
+        "writing",
+        {
+            "pos": 20,
+            "neg": 313,
+            "total": 333
+        }
+    ],
+    [
+        "playing football",
+        {
+            "pos": 18,
+            "neg": 314,
+            "total": 332
+        }
+    ],
+    [
+        "rippled",
+        {
+            "pos": 142,
+            "neg": 188,
+            "total": 330
+        }
+    ],
+    [
+        "white lettered",
+        {
+            "pos": 124,
+            "neg": 202,
+            "total": 326
+        }
+    ],
+    [
+        "leafless",
+        {
+            "pos": 249,
+            "neg": 70,
+            "total": 319
+        }
+    ],
+    [
+        "serious",
+        {
+            "pos": 113,
+            "neg": 204,
+            "total": 317
+        }
+    ],
+    [
+        "partially eaten",
+        {
+            "pos": 57,
+            "neg": 260,
+            "total": 317
+        }
+    ],
+    [
+        "dilapidated",
+        {
+            "pos": 30,
+            "neg": 286,
+            "total": 316
+        }
+    ],
+    [
+        "wearing blue",
+        {
+            "pos": 121,
+            "neg": 194,
+            "total": 315
+        }
+    ],
+    [
+        "splashing",
+        {
+            "pos": 148,
+            "neg": 162,
+            "total": 310
+        }
+    ],
+    [
+        "wearing scarf",
+        {
+            "pos": 38,
+            "neg": 271,
+            "total": 309
+        }
+    ],
+    [
+        "red brick",
+        {
+            "pos": 100,
+            "neg": 207,
+            "total": 307
+        }
+    ],
+    [
+        "light green",
+        {
+            "pos": 170,
+            "neg": 136,
+            "total": 306
+        }
+    ],
+    [
+        "swimming",
+        {
+            "pos": 87,
+            "neg": 217,
+            "total": 304
+        }
+    ],
+    [
+        "playing baseball",
+        {
+            "pos": 74,
+            "neg": 229,
+            "total": 303
+        }
+    ],
+    [
+        "statue",
+        {
+            "pos": 41,
+            "neg": 261,
+            "total": 302
+        }
+    ],
+    [
+        "choppy",
+        {
+            "pos": 133,
+            "neg": 167,
+            "total": 300
+        }
+    ],
+    [
+        "cooking",
+        {
+            "pos": 56,
+            "neg": 241,
+            "total": 297
+        }
+    ],
+    [
+        "bright blue",
+        {
+            "pos": 166,
+            "neg": 129,
+            "total": 295
+        }
+    ],
+    [
+        "lime green",
+        {
+            "pos": 45,
+            "neg": 248,
+            "total": 293
+        }
+    ],
+    [
+        "turquoise",
+        {
+            "pos": 71,
+            "neg": 221,
+            "total": 292
+        }
+    ],
+    [
+        "cardboard",
+        {
+            "pos": 134,
+            "neg": 157,
+            "total": 291
+        }
+    ],
+    [
+        "unhappy",
+        {
+            "pos": 103,
+            "neg": 187,
+            "total": 290
+        }
+    ],
+    [
+        "outstretched",
+        {
+            "pos": 161,
+            "neg": 126,
+            "total": 287
+        }
+    ],
+    [
+        "turned on",
+        {
+            "pos": 178,
+            "neg": 103,
+            "total": 281
+        }
+    ],
+    [
+        "for sale",
+        {
+            "pos": 80,
+            "neg": 191,
+            "total": 271
+        }
+    ],
+    [
+        "dark haired",
+        {
+            "pos": 202,
+            "neg": 67,
+            "total": 269
+        }
+    ],
+    [
+        "looking up",
+        {
+            "pos": 63,
+            "neg": 198,
+            "total": 261
+        }
+    ],
+    [
+        "dressed warmly",
+        {
+            "pos": 63,
+            "neg": 198,
+            "total": 261
+        }
+    ],
+    [
+        "wispy",
+        {
+            "pos": 123,
+            "neg": 138,
+            "total": 261
+        }
+    ],
+    [
+        "leaping",
+        {
+            "pos": 27,
+            "neg": 233,
+            "total": 260
+        }
+    ],
+    [
+        "wearing bow tie",
+        {
+            "pos": 24,
+            "neg": 236,
+            "total": 260
+        }
+    ],
+    [
+        "light gray",
+        {
+            "pos": 154,
+            "neg": 105,
+            "total": 259
+        }
+    ],
+    [
+        "athletic",
+        {
+            "pos": 153,
+            "neg": 104,
+            "total": 257
+        }
+    ],
+    [
+        "granite",
+        {
+            "pos": 89,
+            "neg": 165,
+            "total": 254
+        }
+    ],
+    [
+        "wearing red",
+        {
+            "pos": 82,
+            "neg": 168,
+            "total": 250
+        }
+    ],
+    [
+        "fuchsia",
+        {
+            "pos": 19,
+            "neg": 230,
+            "total": 249
+        }
+    ],
+    [
+        "adult",
+        {
+            "pos": 216,
+            "neg": 32,
+            "total": 248
+        }
+    ],
+    [
+        "ornate",
+        {
+            "pos": 130,
+            "neg": 117,
+            "total": 247
+        }
+    ],
+    [
+        "knocked over",
+        {
+            "pos": 15,
+            "neg": 232,
+            "total": 247
+        }
+    ],
+    [
+        "red haired",
+        {
+            "pos": 19,
+            "neg": 227,
+            "total": 246
+        }
+    ],
+    [
+        "wearing headband",
+        {
+            "pos": 60,
+            "neg": 185,
+            "total": 245
+        }
+    ],
+    [
+        "black haired",
+        {
+            "pos": 122,
+            "neg": 117,
+            "total": 239
+        }
+    ],
+    [
+        "spherical",
+        {
+            "pos": 103,
+            "neg": 136,
+            "total": 239
+        }
+    ],
+    [
+        "hairless",
+        {
+            "pos": 20,
+            "neg": 219,
+            "total": 239
+        }
+    ],
+    [
+        "almost empty",
+        {
+            "pos": 66,
+            "neg": 173,
+            "total": 239
+        }
+    ],
+    [
+        "colorless",
+        {
+            "pos": 95,
+            "neg": 142,
+            "total": 237
+        }
+    ],
+    [
+        "night",
+        {
+            "pos": 22,
+            "neg": 213,
+            "total": 235
+        }
+    ],
+    [
+        "slippery",
+        {
+            "pos": 60,
+            "neg": 174,
+            "total": 234
+        }
+    ],
+    [
+        "reaching",
+        {
+            "pos": 63,
+            "neg": 169,
+            "total": 232
+        }
+    ],
+    [
+        "amber",
+        {
+            "pos": 30,
+            "neg": 200,
+            "total": 230
+        }
+    ],
+    [
+        "bright red",
+        {
+            "pos": 54,
+            "neg": 175,
+            "total": 229
+        }
+    ],
+    [
+        "filled",
+        {
+            "pos": 133,
+            "neg": 96,
+            "total": 229
+        }
+    ],
+    [
+        "wearing gray",
+        {
+            "pos": 59,
+            "neg": 169,
+            "total": 228
+        }
+    ],
+    [
+        "hardwood",
+        {
+            "pos": 150,
+            "neg": 78,
+            "total": 228
+        }
+    ],
+    [
+        "cushioned",
+        {
+            "pos": 132,
+            "neg": 96,
+            "total": 228
+        }
+    ],
+    [
+        "low",
+        {
+            "pos": 115,
+            "neg": 109,
+            "total": 224
+        }
+    ],
+    [
+        "climbing",
+        {
+            "pos": 17,
+            "neg": 205,
+            "total": 222
+        }
+    ],
+    [
+        "being used",
+        {
+            "pos": 105,
+            "neg": 117,
+            "total": 222
+        }
+    ],
+    [
+        "leaning back",
+        {
+            "pos": 31,
+            "neg": 190,
+            "total": 221
+        }
+    ],
+    [
+        "half",
+        {
+            "pos": 90,
+            "neg": 131,
+            "total": 221
+        }
+    ],
+    [
+        "red lettered",
+        {
+            "pos": 61,
+            "neg": 157,
+            "total": 218
+        }
+    ],
+    [
+        "blue plaid",
+        {
+            "pos": 21,
+            "neg": 196,
+            "total": 217
+        }
+    ],
+    [
+        "dark purple",
+        {
+            "pos": 36,
+            "neg": 180,
+            "total": 216
+        }
+    ],
+    [
+        "sunlit",
+        {
+            "pos": 144,
+            "neg": 72,
+            "total": 216
+        }
+    ],
+    [
+        "shaggy",
+        {
+            "pos": 127,
+            "neg": 89,
+            "total": 216
+        }
+    ],
+    [
+        "rumpled",
+        {
+            "pos": 92,
+            "neg": 122,
+            "total": 214
+        }
+    ],
+    [
+        "violet",
+        {
+            "pos": 39,
+            "neg": 174,
+            "total": 213
+        }
+    ],
+    [
+        "in water",
+        {
+            "pos": 76,
+            "neg": 136,
+            "total": 212
+        }
+    ],
+    [
+        "barren",
+        {
+            "pos": 63,
+            "neg": 149,
+            "total": 212
+        }
+    ],
+    [
+        "mounted",
+        {
+            "pos": 168,
+            "neg": 44,
+            "total": 212
+        }
+    ],
+    [
+        "typing",
+        {
+            "pos": 33,
+            "neg": 176,
+            "total": 209
+        }
+    ],
+    [
+        "mesh",
+        {
+            "pos": 91,
+            "neg": 115,
+            "total": 206
+        }
+    ],
+    [
+        "operating",
+        {
+            "pos": 106,
+            "neg": 96,
+            "total": 202
+        }
+    ],
+    [
+        "numbered",
+        {
+            "pos": 19,
+            "neg": 182,
+            "total": 201
+        }
+    ],
+    [
+        "elderly",
+        {
+            "pos": 46,
+            "neg": 154,
+            "total": 200
+        }
+    ],
+    [
+        "moss covered",
+        {
+            "pos": 37,
+            "neg": 163,
+            "total": 200
+        }
+    ],
+    [
+        "fancy",
+        {
+            "pos": 96,
+            "neg": 103,
+            "total": 199
+        }
+    ],
+    [
+        "crossing arms",
+        {
+            "pos": 20,
+            "neg": 178,
+            "total": 198
+        }
+    ],
+    [
+        "fabric",
+        {
+            "pos": 91,
+            "neg": 106,
+            "total": 197
+        }
+    ],
+    [
+        "military",
+        {
+            "pos": 48,
+            "neg": 149,
+            "total": 197
+        }
+    ],
+    [
+        "cylindrical",
+        {
+            "pos": 91,
+            "neg": 105,
+            "total": 196
+        }
+    ],
+    [
+        "light yellow",
+        {
+            "pos": 35,
+            "neg": 160,
+            "total": 195
+        }
+    ],
+    [
+        "lush",
+        {
+            "pos": 149,
+            "neg": 43,
+            "total": 192
+        }
+    ],
+    [
+        "carpeted",
+        {
+            "pos": 54,
+            "neg": 138,
+            "total": 192
+        }
+    ],
+    [
+        "hairy",
+        {
+            "pos": 148,
+            "neg": 43,
+            "total": 191
+        }
+    ],
+    [
+        "wavy",
+        {
+            "pos": 106,
+            "neg": 82,
+            "total": 188
+        }
+    ],
+    [
+        "busy",
+        {
+            "pos": 98,
+            "neg": 88,
+            "total": 186
+        }
+    ],
+    [
+        "doubledecker",
+        {
+            "pos": 47,
+            "neg": 136,
+            "total": 183
+        }
+    ],
+    [
+        "doorless",
+        {
+            "pos": 18,
+            "neg": 164,
+            "total": 182
+        }
+    ],
+    [
+        "bamboo",
+        {
+            "pos": 27,
+            "neg": 154,
+            "total": 181
+        }
+    ],
+    [
+        "peeled",
+        {
+            "pos": 41,
+            "neg": 140,
+            "total": 181
+        }
+    ],
+    [
+        "golden brown",
+        {
+            "pos": 59,
+            "neg": 120,
+            "total": 179
+        }
+    ],
+    [
+        "gloved",
+        {
+            "pos": 56,
+            "neg": 121,
+            "total": 177
+        }
+    ],
+    [
+        "conical",
+        {
+            "pos": 38,
+            "neg": 138,
+            "total": 176
+        }
+    ],
+    [
+        "ancient",
+        {
+            "pos": 15,
+            "neg": 160,
+            "total": 175
+        }
+    ],
+    [
+        "on ground",
+        {
+            "pos": 93,
+            "neg": 81,
+            "total": 174
+        }
+    ],
+    [
+        "grilled",
+        {
+            "pos": 72,
+            "neg": 102,
+            "total": 174
+        }
+    ],
+    [
+        "submerged",
+        {
+            "pos": 14,
+            "neg": 160,
+            "total": 174
+        }
+    ],
+    [
+        "concentrating",
+        {
+            "pos": 93,
+            "neg": 81,
+            "total": 174
+        }
+    ],
+    [
+        "olive green",
+        {
+            "pos": 30,
+            "neg": 143,
+            "total": 173
+        }
+    ],
+    [
+        "hiking",
+        {
+            "pos": 27,
+            "neg": 146,
+            "total": 173
+        }
+    ],
+    [
+        "murky",
+        {
+            "pos": 82,
+            "neg": 90,
+            "total": 172
+        }
+    ],
+    [
+        "wearing tie",
+        {
+            "pos": 80,
+            "neg": 92,
+            "total": 172
+        }
+    ],
+    [
+        "working",
+        {
+            "pos": 54,
+            "neg": 117,
+            "total": 171
+        }
+    ],
+    [
+        "plain",
+        {
+            "pos": 108,
+            "neg": 62,
+            "total": 170
+        }
+    ],
+    [
+        "armless",
+        {
+            "pos": 102,
+            "neg": 67,
+            "total": 169
+        }
+    ],
+    [
+        "slightly open",
+        {
+            "pos": 19,
+            "neg": 150,
+            "total": 169
+        }
+    ],
+    [
+        "bluish",
+        {
+            "pos": 70,
+            "neg": 98,
+            "total": 168
+        }
+    ],
+    [
+        "unlit",
+        {
+            "pos": 105,
+            "neg": 63,
+            "total": 168
+        }
+    ],
+    [
+        "interior",
+        {
+            "pos": 77,
+            "neg": 89,
+            "total": 166
+        }
+    ],
+    [
+        "shaded",
+        {
+            "pos": 110,
+            "neg": 55,
+            "total": 165
+        }
+    ],
+    [
+        "dark red",
+        {
+            "pos": 76,
+            "neg": 88,
+            "total": 164
+        }
+    ],
+    [
+        "rainbow colored",
+        {
+            "pos": 43,
+            "neg": 121,
+            "total": 164
+        }
+    ],
+    [
+        "heavy",
+        {
+            "pos": 91,
+            "neg": 72,
+            "total": 163
+        }
+    ],
+    [
+        "translucent",
+        {
+            "pos": 47,
+            "neg": 116,
+            "total": 163
+        }
+    ],
+    [
+        "damaged",
+        {
+            "pos": 36,
+            "neg": 127,
+            "total": 163
+        }
+    ],
+    [
+        "displayed",
+        {
+            "pos": 100,
+            "neg": 63,
+            "total": 163
+        }
+    ],
+    [
+        "potted",
+        {
+            "pos": 88,
+            "neg": 74,
+            "total": 162
+        }
+    ],
+    [
+        "daytime",
+        {
+            "pos": 144,
+            "neg": 18,
+            "total": 162
+        }
+    ],
+    [
+        "sliding",
+        {
+            "pos": 52,
+            "neg": 109,
+            "total": 161
+        }
+    ],
+    [
+        "curtainless",
+        {
+            "pos": 103,
+            "neg": 58,
+            "total": 161
+        }
+    ],
+    [
+        "balancing",
+        {
+            "pos": 67,
+            "neg": 93,
+            "total": 160
+        }
+    ],
+    [
+        "crossing legs",
+        {
+            "pos": 50,
+            "neg": 110,
+            "total": 160
+        }
+    ],
+    [
+        "bushy",
+        {
+            "pos": 111,
+            "neg": 48,
+            "total": 159
+        }
+    ],
+    [
+        "batting",
+        {
+            "pos": 52,
+            "neg": 105,
+            "total": 157
+        }
+    ],
+    [
+        "burgundy",
+        {
+            "pos": 61,
+            "neg": 94,
+            "total": 155
+        }
+    ],
+    [
+        "straw",
+        {
+            "pos": 57,
+            "neg": 97,
+            "total": 154
+        }
+    ],
+    [
+        "light red",
+        {
+            "pos": 26,
+            "neg": 127,
+            "total": 153
+        }
+    ],
+    [
+        "wearing watch",
+        {
+            "pos": 57,
+            "neg": 96,
+            "total": 153
+        }
+    ],
+    [
+        "in a costume",
+        {
+            "pos": 35,
+            "neg": 118,
+            "total": 153
+        }
+    ],
+    [
+        "catching",
+        {
+            "pos": 46,
+            "neg": 107,
+            "total": 153
+        }
+    ],
+    [
+        "flattened",
+        {
+            "pos": 59,
+            "neg": 91,
+            "total": 150
+        }
+    ],
+    [
+        "handwritten",
+        {
+            "pos": 19,
+            "neg": 130,
+            "total": 149
+        }
+    ],
+    [
+        "sleepy",
+        {
+            "pos": 51,
+            "neg": 96,
+            "total": 147
+        }
+    ],
+    [
+        "melted",
+        {
+            "pos": 89,
+            "neg": 58,
+            "total": 147
+        }
+    ],
+    [
+        "flowered",
+        {
+            "pos": 57,
+            "neg": 88,
+            "total": 145
+        }
+    ],
+    [
+        "carved",
+        {
+            "pos": 41,
+            "neg": 102,
+            "total": 143
+        }
+    ],
+    [
+        "assorted",
+        {
+            "pos": 72,
+            "neg": 70,
+            "total": 142
+        }
+    ],
+    [
+        "raw",
+        {
+            "pos": 92,
+            "neg": 49,
+            "total": 141
+        }
+    ],
+    [
+        "glossy",
+        {
+            "pos": 53,
+            "neg": 85,
+            "total": 138
+        }
+    ],
+    [
+        "camouflage",
+        {
+            "pos": 24,
+            "neg": 111,
+            "total": 135
+        }
+    ],
+    [
+        "wild",
+        {
+            "pos": 103,
+            "neg": 32,
+            "total": 135
+        }
+    ],
+    [
+        "kissing",
+        {
+            "pos": 15,
+            "neg": 119,
+            "total": 134
+        }
+    ],
+    [
+        "selling",
+        {
+            "pos": 14,
+            "neg": 120,
+            "total": 134
+        }
+    ],
+    [
+        "disposable",
+        {
+            "pos": 55,
+            "neg": 79,
+            "total": 134
+        }
+    ],
+    [
+        "electronic",
+        {
+            "pos": 40,
+            "neg": 94,
+            "total": 134
+        }
+    ],
+    [
+        "flat screen",
+        {
+            "pos": 92,
+            "neg": 41,
+            "total": 133
+        }
+    ],
+    [
+        "spreading legs",
+        {
+            "pos": 40,
+            "neg": 93,
+            "total": 133
+        }
+    ],
+    [
+        "rotten",
+        {
+            "pos": 32,
+            "neg": 101,
+            "total": 133
+        }
+    ],
+    [
+        "bright yellow",
+        {
+            "pos": 40,
+            "neg": 92,
+            "total": 132
+        }
+    ],
+    [
+        "weathered",
+        {
+            "pos": 57,
+            "neg": 75,
+            "total": 132
+        }
+    ],
+    [
+        "old fashioned",
+        {
+            "pos": 55,
+            "neg": 77,
+            "total": 132
+        }
+    ],
+    [
+        "plush",
+        {
+            "pos": 66,
+            "neg": 65,
+            "total": 131
+        }
+    ],
+    [
+        "partly cloudy",
+        {
+            "pos": 47,
+            "neg": 84,
+            "total": 131
+        }
+    ],
+    [
+        "directional",
+        {
+            "pos": 47,
+            "neg": 82,
+            "total": 129
+        }
+    ],
+    [
+        "opaque",
+        {
+            "pos": 75,
+            "neg": 52,
+            "total": 127
+        }
+    ],
+    [
+        "watery",
+        {
+            "pos": 23,
+            "neg": 104,
+            "total": 127
+        }
+    ],
+    [
+        "garbage",
+        {
+            "pos": 30,
+            "neg": 97,
+            "total": 127
+        }
+    ],
+    [
+        "frowning",
+        {
+            "pos": 17,
+            "neg": 109,
+            "total": 126
+        }
+    ],
+    [
+        "polo",
+        {
+            "pos": 27,
+            "neg": 99,
+            "total": 126
+        }
+    ],
+    [
+        "styrofoam",
+        {
+            "pos": 22,
+            "neg": 102,
+            "total": 124
+        }
+    ],
+    [
+        "tree-covered",
+        {
+            "pos": 31,
+            "neg": 92,
+            "total": 123
+        }
+    ],
+    [
+        "taking selfie",
+        {
+            "pos": 29,
+            "neg": 93,
+            "total": 122
+        }
+    ],
+    [
+        "aged",
+        {
+            "pos": 69,
+            "neg": 52,
+            "total": 121
+        }
+    ],
+    [
+        "jagged",
+        {
+            "pos": 25,
+            "neg": 96,
+            "total": 121
+        }
+    ],
+    [
+        "leaf covered",
+        {
+            "pos": 102,
+            "neg": 19,
+            "total": 121
+        }
+    ],
+    [
+        "partially visible",
+        {
+            "pos": 67,
+            "neg": 54,
+            "total": 121
+        }
+    ],
+    [
+        "ridged",
+        {
+            "pos": 24,
+            "neg": 96,
+            "total": 120
+        }
+    ],
+    [
+        "glowing",
+        {
+            "pos": 55,
+            "neg": 64,
+            "total": 119
+        }
+    ],
+    [
+        "crowded",
+        {
+            "pos": 31,
+            "neg": 88,
+            "total": 119
+        }
+    ],
+    [
+        "wheeled",
+        {
+            "pos": 60,
+            "neg": 59,
+            "total": 119
+        }
+    ],
+    [
+        "bright green",
+        {
+            "pos": 39,
+            "neg": 79,
+            "total": 118
+        }
+    ],
+    [
+        "upholstered",
+        {
+            "pos": 64,
+            "neg": 54,
+            "total": 118
+        }
+    ],
+    [
+        "docked",
+        {
+            "pos": 69,
+            "neg": 49,
+            "total": 118
+        }
+    ],
+    [
+        "toasted",
+        {
+            "pos": 83,
+            "neg": 34,
+            "total": 117
+        }
+    ],
+    [
+        "sheer",
+        {
+            "pos": 50,
+            "neg": 66,
+            "total": 116
+        }
+    ],
+    [
+        "collared",
+        {
+            "pos": 73,
+            "neg": 43,
+            "total": 116
+        }
+    ],
+    [
+        "stainless",
+        {
+            "pos": 49,
+            "neg": 66,
+            "total": 115
+        }
+    ],
+    [
+        "scruffy",
+        {
+            "pos": 54,
+            "neg": 61,
+            "total": 115
+        }
+    ],
+    [
+        "leaning forward",
+        {
+            "pos": 39,
+            "neg": 75,
+            "total": 114
+        }
+    ],
+    [
+        "manicured",
+        {
+            "pos": 57,
+            "neg": 56,
+            "total": 113
+        }
+    ],
+    [
+        "hooded",
+        {
+            "pos": 19,
+            "neg": 94,
+            "total": 113
+        }
+    ],
+    [
+        "stained",
+        {
+            "pos": 74,
+            "neg": 38,
+            "total": 112
+        }
+    ],
+    [
+        "powdered",
+        {
+            "pos": 65,
+            "neg": 47,
+            "total": 112
+        }
+    ],
+    [
+        "brown haired",
+        {
+            "pos": 55,
+            "neg": 56,
+            "total": 111
+        }
+    ],
+    [
+        "spreading arms",
+        {
+            "pos": 34,
+            "neg": 77,
+            "total": 111
+        }
+    ],
+    [
+        "blank",
+        {
+            "pos": 60,
+            "neg": 51,
+            "total": 111
+        }
+    ],
+    [
+        "falling",
+        {
+            "pos": 38,
+            "neg": 73,
+            "total": 111
+        }
+    ],
+    [
+        "scraggly",
+        {
+            "pos": 69,
+            "neg": 42,
+            "total": 111
+        }
+    ],
+    [
+        "antique",
+        {
+            "pos": 52,
+            "neg": 58,
+            "total": 110
+        }
+    ],
+    [
+        "shingled",
+        {
+            "pos": 33,
+            "neg": 77,
+            "total": 110
+        }
+    ],
+    [
+        "dark wood",
+        {
+            "pos": 36,
+            "neg": 74,
+            "total": 110
+        }
+    ],
+    [
+        "boxed",
+        {
+            "pos": 40,
+            "neg": 70,
+            "total": 110
+        }
+    ],
+    [
+        "having fun",
+        {
+            "pos": 46,
+            "neg": 64,
+            "total": 110
+        }
+    ],
+    [
+        "staring",
+        {
+            "pos": 66,
+            "neg": 44,
+            "total": 110
+        }
+    ],
+    [
+        "ivory",
+        {
+            "pos": 39,
+            "neg": 70,
+            "total": 109
+        }
+    ],
+    [
+        "deep",
+        {
+            "pos": 80,
+            "neg": 29,
+            "total": 109
+        }
+    ],
+    [
+        "cloth",
+        {
+            "pos": 80,
+            "neg": 29,
+            "total": 109
+        }
+    ],
+    [
+        "knee high",
+        {
+            "pos": 71,
+            "neg": 38,
+            "total": 109
+        }
+    ],
+    [
+        "classical",
+        {
+            "pos": 10,
+            "neg": 99,
+            "total": 109
+        }
+    ],
+    [
+        "topped",
+        {
+            "pos": 54,
+            "neg": 55,
+            "total": 109
+        }
+    ],
+    [
+        "christmas",
+        {
+            "pos": 19,
+            "neg": 90,
+            "total": 109
+        }
+    ],
+    [
+        "pinned",
+        {
+            "pos": 42,
+            "neg": 67,
+            "total": 109
+        }
+    ],
+    [
+        "abandoned",
+        {
+            "pos": 35,
+            "neg": 74,
+            "total": 109
+        }
+    ],
+    [
+        "dark pink",
+        {
+            "pos": 19,
+            "neg": 89,
+            "total": 108
+        }
+    ],
+    [
+        "neon green",
+        {
+            "pos": 22,
+            "neg": 86,
+            "total": 108
+        }
+    ],
+    [
+        "relaxing",
+        {
+            "pos": 36,
+            "neg": 72,
+            "total": 108
+        }
+    ],
+    [
+        "slender",
+        {
+            "pos": 39,
+            "neg": 68,
+            "total": 107
+        }
+    ],
+    [
+        "frozen",
+        {
+            "pos": 16,
+            "neg": 91,
+            "total": 107
+        }
+    ],
+    [
+        "lined up",
+        {
+            "pos": 60,
+            "neg": 46,
+            "total": 106
+        }
+    ],
+    [
+        "buttoned",
+        {
+            "pos": 22,
+            "neg": 84,
+            "total": 106
+        }
+    ],
+    [
+        "smoky",
+        {
+            "pos": 58,
+            "neg": 48,
+            "total": 106
+        }
+    ],
+    [
+        "backless",
+        {
+            "pos": 13,
+            "neg": 93,
+            "total": 106
+        }
+    ],
+    [
+        "arrow shaped",
+        {
+            "pos": 19,
+            "neg": 86,
+            "total": 105
+        }
+    ],
+    [
+        "cubed",
+        {
+            "pos": 15,
+            "neg": 90,
+            "total": 105
+        }
+    ],
+    [
+        "out of focus",
+        {
+            "pos": 39,
+            "neg": 65,
+            "total": 104
+        }
+    ],
+    [
+        "barbed wire",
+        {
+            "pos": 12,
+            "neg": 92,
+            "total": 104
+        }
+    ],
+    [
+        "shoulder length",
+        {
+            "pos": 33,
+            "neg": 71,
+            "total": 104
+        }
+    ],
+    [
+        "braided",
+        {
+            "pos": 24,
+            "neg": 80,
+            "total": 104
+        }
+    ],
+    [
+        "neon",
+        {
+            "pos": 42,
+            "neg": 61,
+            "total": 103
+        }
+    ],
+    [
+        "reclining",
+        {
+            "pos": 30,
+            "neg": 73,
+            "total": 103
+        }
+    ],
+    [
+        "multi-story",
+        {
+            "pos": 52,
+            "neg": 51,
+            "total": 103
+        }
+    ],
+    [
+        "shiny blue",
+        {
+            "pos": 17,
+            "neg": 86,
+            "total": 103
+        }
+    ],
+    [
+        "gray metal",
+        {
+            "pos": 22,
+            "neg": 80,
+            "total": 102
+        }
+    ],
+    [
+        "shredded",
+        {
+            "pos": 40,
+            "neg": 62,
+            "total": 102
+        }
+    ],
+    [
+        "funny",
+        {
+            "pos": 37,
+            "neg": 65,
+            "total": 102
+        }
+    ],
+    [
+        "topless",
+        {
+            "pos": 26,
+            "neg": 76,
+            "total": 102
+        }
+    ],
+    [
+        "textured",
+        {
+            "pos": 56,
+            "neg": 45,
+            "total": 101
+        }
+    ],
+    [
+        "slim",
+        {
+            "pos": 38,
+            "neg": 62,
+            "total": 100
+        }
+    ],
+    [
+        "sparkling",
+        {
+            "pos": 19,
+            "neg": 81,
+            "total": 100
+        }
+    ],
+    [
+        "mixed",
+        {
+            "pos": 58,
+            "neg": 42,
+            "total": 100
+        }
+    ],
+    [
+        "off white",
+        {
+            "pos": 32,
+            "neg": 67,
+            "total": 99
+        }
+    ],
+    [
+        "new",
+        {
+            "pos": 74,
+            "neg": 25,
+            "total": 99
+        }
+    ],
+    [
+        "black framed",
+        {
+            "pos": 32,
+            "neg": 67,
+            "total": 99
+        }
+    ],
+    [
+        "whole",
+        {
+            "pos": 59,
+            "neg": 40,
+            "total": 99
+        }
+    ],
+    [
+        "frizzy",
+        {
+            "pos": 27,
+            "neg": 72,
+            "total": 99
+        }
+    ],
+    [
+        "puffy",
+        {
+            "pos": 87,
+            "neg": 12,
+            "total": 99
+        }
+    ],
+    [
+        "side view",
+        {
+            "pos": 37,
+            "neg": 62,
+            "total": 99
+        }
+    ],
+    [
+        "spiral",
+        {
+            "pos": 15,
+            "neg": 83,
+            "total": 98
+        }
+    ],
+    [
+        "gold framed",
+        {
+            "pos": 15,
+            "neg": 83,
+            "total": 98
+        }
+    ],
+    [
+        "barred",
+        {
+            "pos": 63,
+            "neg": 35,
+            "total": 98
+        }
+    ],
+    [
+        "buried",
+        {
+            "pos": 34,
+            "neg": 64,
+            "total": 98
+        }
+    ],
+    [
+        "hitting",
+        {
+            "pos": 29,
+            "neg": 69,
+            "total": 98
+        }
+    ],
+    [
+        "dotted",
+        {
+            "pos": 54,
+            "neg": 43,
+            "total": 97
+        }
+    ],
+    [
+        "well dressed",
+        {
+            "pos": 17,
+            "neg": 80,
+            "total": 97
+        }
+    ],
+    [
+        "baked",
+        {
+            "pos": 70,
+            "neg": 27,
+            "total": 97
+        }
+    ],
+    [
+        "caucasian",
+        {
+            "pos": 55,
+            "neg": 40,
+            "total": 95
+        }
+    ],
+    [
+        "two-story",
+        {
+            "pos": 40,
+            "neg": 55,
+            "total": 95
+        }
+    ],
+    [
+        "half filled",
+        {
+            "pos": 55,
+            "neg": 40,
+            "total": 95
+        }
+    ],
+    [
+        "carried",
+        {
+            "pos": 27,
+            "neg": 68,
+            "total": 95
+        }
+    ],
+    [
+        "rust colored",
+        {
+            "pos": 11,
+            "neg": 83,
+            "total": 94
+        }
+    ],
+    [
+        "smirking",
+        {
+            "pos": 16,
+            "neg": 78,
+            "total": 94
+        }
+    ],
+    [
+        "enjoying",
+        {
+            "pos": 39,
+            "neg": 55,
+            "total": 94
+        }
+    ],
+    [
+        "filthy",
+        {
+            "pos": 14,
+            "neg": 79,
+            "total": 93
+        }
+    ],
+    [
+        "thatched",
+        {
+            "pos": 16,
+            "neg": 77,
+            "total": 93
+        }
+    ],
+    [
+        "black metal",
+        {
+            "pos": 19,
+            "neg": 73,
+            "total": 92
+        }
+    ],
+    [
+        "knitted",
+        {
+            "pos": 20,
+            "neg": 71,
+            "total": 91
+        }
+    ],
+    [
+        "horned",
+        {
+            "pos": 30,
+            "neg": 61,
+            "total": 91
+        }
+    ],
+    [
+        "taupe",
+        {
+            "pos": 15,
+            "neg": 75,
+            "total": 90
+        }
+    ],
+    [
+        "raising arm",
+        {
+            "pos": 33,
+            "neg": 57,
+            "total": 90
+        }
+    ],
+    [
+        "unmade",
+        {
+            "pos": 27,
+            "neg": 63,
+            "total": 90
+        }
+    ],
+    [
+        "tagged",
+        {
+            "pos": 46,
+            "neg": 43,
+            "total": 89
+        }
+    ],
+    [
+        "neat",
+        {
+            "pos": 72,
+            "neg": 17,
+            "total": 89
+        }
+    ],
+    [
+        "overgrown",
+        {
+            "pos": 53,
+            "neg": 36,
+            "total": 89
+        }
+    ],
+    [
+        "stormy",
+        {
+            "pos": 28,
+            "neg": 60,
+            "total": 88
+        }
+    ],
+    [
+        "paperback",
+        {
+            "pos": 75,
+            "neg": 12,
+            "total": 87
+        }
+    ],
+    [
+        "pale blue",
+        {
+            "pos": 46,
+            "neg": 39,
+            "total": 85
+        }
+    ],
+    [
+        "monochromatic",
+        {
+            "pos": 48,
+            "neg": 35,
+            "total": 83
+        }
+    ],
+    [
+        "pepperoni",
+        {
+            "pos": 17,
+            "neg": 66,
+            "total": 83
+        }
+    ],
+    [
+        "holed",
+        {
+            "pos": 42,
+            "neg": 41,
+            "total": 83
+        }
+    ],
+    [
+        "covered in sugar",
+        {
+            "pos": 60,
+            "neg": 22,
+            "total": 82
+        }
+    ],
+    [
+        "cheesy",
+        {
+            "pos": 39,
+            "neg": 42,
+            "total": 81
+        }
+    ],
+    [
+        "gloomy",
+        {
+            "pos": 27,
+            "neg": 54,
+            "total": 81
+        }
+    ],
+    [
+        "loose",
+        {
+            "pos": 58,
+            "neg": 23,
+            "total": 81
+        }
+    ],
+    [
+        "woven",
+        {
+            "pos": 37,
+            "neg": 44,
+            "total": 81
+        }
+    ],
+    [
+        "turbulent",
+        {
+            "pos": 27,
+            "neg": 51,
+            "total": 78
+        }
+    ],
+    [
+        "muscular",
+        {
+            "pos": 46,
+            "neg": 32,
+            "total": 78
+        }
+    ],
+    [
+        "pulled back",
+        {
+            "pos": 25,
+            "neg": 53,
+            "total": 78
+        }
+    ],
+    [
+        "active",
+        {
+            "pos": 37,
+            "neg": 40,
+            "total": 77
+        }
+    ],
+    [
+        "nylon",
+        {
+            "pos": 24,
+            "neg": 52,
+            "total": 76
+        }
+    ],
+    [
+        "wool",
+        {
+            "pos": 42,
+            "neg": 33,
+            "total": 75
+        }
+    ],
+    [
+        "cobblestone",
+        {
+            "pos": 31,
+            "neg": 43,
+            "total": 74
+        }
+    ],
+    [
+        "dense",
+        {
+            "pos": 37,
+            "neg": 30,
+            "total": 67
+        }
+    ],
+    [
+        "sprinkled",
+        {
+            "pos": 37,
+            "neg": 26,
+            "total": 63
+        }
+    ],
+    [
+        "speckled",
+        {
+            "pos": 31,
+            "neg": 31,
+            "total": 62
+        }
+    ],
+    [
+        "littered",
+        {
+            "pos": 15,
+            "neg": 46,
+            "total": 61
+        }
+    ],
+    [
+        "perched",
+        {
+            "pos": 41,
+            "neg": 20,
+            "total": 61
+        }
+    ],
+    [
+        "vintage",
+        {
+            "pos": 55,
+            "neg": 5,
+            "total": 60
+        }
+    ],
+    [
+        "silk",
+        {
+            "pos": 28,
+            "neg": 31,
+            "total": 59
+        }
+    ],
+    [
+        "stucco",
+        {
+            "pos": 18,
+            "neg": 41,
+            "total": 59
+        }
+    ],
+    [
+        "sticking out",
+        {
+            "pos": 34,
+            "neg": 24,
+            "total": 58
+        }
+    ],
+    [
+        "tricolored",
+        {
+            "pos": 16,
+            "neg": 41,
+            "total": 57
+        }
+    ],
+    [
+        "tucked in",
+        {
+            "pos": 20,
+            "neg": 36,
+            "total": 56
+        }
+    ],
+    [
+        "white framed",
+        {
+            "pos": 29,
+            "neg": 26,
+            "total": 55
+        }
+    ],
+    [
+        "shoeless",
+        {
+            "pos": 14,
+            "neg": 39,
+            "total": 53
+        }
+    ],
+    [
+        "terracotta",
+        {
+            "pos": 26,
+            "neg": 26,
+            "total": 52
+        }
+    ],
+    [
+        "bronze",
+        {
+            "pos": 12,
+            "neg": 39,
+            "total": 51
+        }
+    ],
+    [
+        "boiled",
+        {
+            "pos": 16,
+            "neg": 31,
+            "total": 47
+        }
+    ],
+    [
+        "domed",
+        {
+            "pos": 18,
+            "neg": 27,
+            "total": 45
+        }
+    ],
+    [
+        "pebbled",
+        {
+            "pos": 23,
+            "neg": 20,
+            "total": 43
+        }
+    ],
+    [
+        "diagonal",
+        {
+            "pos": 22,
+            "neg": 17,
+            "total": 39
+        }
+    ],
+    [
+        "hiding",
+        {
+            "pos": 15,
+            "neg": 23,
+            "total": 38
+        }
+    ],
+    [
+        "aluminum",
+        {
+            "pos": 34,
+            "neg": 3,
+            "total": 37
+        }
+    ],
+    [
+        "chipped",
+        {
+            "pos": 22,
+            "neg": 13,
+            "total": 35
+        }
+    ],
+    [
+        "reddish",
+        {
+            "pos": 20,
+            "neg": 11,
+            "total": 31
+        }
+    ],
+    [
+        "bell shaped",
+        {
+            "pos": 6,
+            "neg": 19,
+            "total": 25
+        }
+    ],
+    [
+        "pale green",
+        {
+            "pos": 13,
+            "neg": 10,
+            "total": 23
+        }
+    ]
+]
