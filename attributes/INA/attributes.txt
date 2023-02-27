@@ -1,4 +1,0 @@
-Color: black, blue, brown, gray, green, orange, pink, red, violet, white, yellow
-Pattern: spotted, striped
-Shape: long, round, rectangular, square
-Texture: furry, smooth, rough, shiny, metallic, vegetation, wooden, wet

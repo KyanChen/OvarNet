@@ -1,0 +1,492 @@
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <!--
+  <script src="./resources/jsapi" type="text/javascript"></script>
+  <script type="text/javascript" async>google.load("jquery", "1.3.2");</script>
+ -->
+    <style type="text/css">
+        @font-face {
+            font-family: 'Avenir Book';
+            src: url("./fonts/Avenir_Book.ttf"); /* File to be stored at your site */
+        }
+    body {
+    font-family: "Avenir Book", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight:300;
+    font-size:14px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+  }
+  h1 {
+    font-weight:300;
+  }
+  h2 {
+    font-weight:300;
+  }
+
+  p {
+    font-weight:300;
+    line-height: 1.4;
+  }
+
+  code {
+    font-size: 0.8rem;
+    margin: 0 0.2rem;
+    padding: 0.5rem 0.8rem;
+    white-space: nowrap;
+    background: #efefef;
+    border: 1px solid #d3d3d3;
+    color: #000000;
+    border-radius: 3px;
+  }
+
+  pre > code {
+    display: block;
+    white-space: pre;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+  }
+
+  pre.prettyprint > code {
+    border: none;
+  }
+
+
+  .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+  }
+  .image {
+        flex-basis: 40%
+  }
+  .text {
+        padding-left: 20px;
+        padding-right: 20px;
+  }
+
+  .disclaimerbox {
+    background-color: #eee;
+    border: 1px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+    padding: 20px;
+  }
+
+  video.header-vid {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  img.header-img {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  img.rounded {
+    border: 0px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+
+  }
+
+  a:link,a:visited
+  {
+    color: #1367a7;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #208799;
+  }
+
+  td.dl-link {
+    height: 160px;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .layered-paper-big { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35), /* The third layer shadow */
+            15px 15px 0 0px #fff, /* The fourth layer */
+            15px 15px 1px 1px rgba(0,0,0,0.35), /* The fourth layer shadow */
+            20px 20px 0 0px #fff, /* The fifth layer */
+            20px 20px 1px 1px rgba(0,0,0,0.35), /* The fifth layer shadow */
+            25px 25px 0 0px #fff, /* The fifth layer */
+            25px 25px 1px 1px rgba(0,0,0,0.35); /* The fifth layer shadow */
+    margin-left: 10px;
+    margin-right: 45px;
+  }
+
+
+  .layered-paper { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35); /* The third layer shadow */
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+  }
+
+  .vert-cent {
+    position: relative;
+      top: 50%;
+      transform: translateY(-50%);
+  }
+
+  hr
+  {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }
+</style>
+	<title>OvarNet: Towards Open-vocabulary Object Attribute Recognition</title>
+</head>
+
+<body>
+<br>
+<span style="font-size:36px">
+    <div style="text-align: center;">
+        OvarNet: Towards Open-vocabulary Object Attribute Recognition
+    </div>
+</span>
+<br>
+<br>
+<br>
+<table align="center" width="800px">
+    <tr>
+        <td align="center" width="180px">
+            <div style="text-align: center;">
+                <span style="font-size:16px"><a href="https://kyanchen.github.io/">Keyan Chen</a><sup>&star; 1</sup></span>
+            </div>
+        </td>
+        <td align="center" width="180px">
+            <div style="text-align: center;">
+                <span style="font-size:16px">Xiaolong Jiang<sup>&star; 2</sup></span>
+            </div>
+        </td>
+
+        <td align="center" width="100px">
+            <div style="text-align: center;">
+                <span style="font-size:16px">Yao Hu<sup>2</sup></span>
+            </div>
+        </td>
+
+        <td align="center" width="100px">
+            <div style="text-align: center;">
+                <span style="font-size:16px">Xu Tang<sup>2</sup></span>
+            </div>
+        </td>
+
+        <td align="center" width="100px">
+            <div style="text-align: center;">
+                <span style="font-size:16px">Yan Gao<sup>2</sup></span>
+            </div>
+        </td>
+
+        <td align="center" width="140px">
+            <div style="text-align: center;">
+                <span style="font-size:16px"><a href="https://github.com/WindVChen">Jianqi Chen</a><sup>1</sup></span>
+            </div>
+        </td>
+
+        <td align="center" width="140px">
+            <div style="text-align: center;">
+                <span style="font-size:16px">
+                    <a href="https://weidixie.github.io/">Weidi Xie</a>
+<!--                    <sup><img class="round" style="width:20px" src="./resources/corresponding_fig.png">3</sup>-->
+                    <sup>&#9993 3</sup>
+                </span>
+            </div>
+        </td>
+    </tr>
+</table>
+
+<br>
+	
+<table align="center" width="700px">
+    <tbody>
+    <tr>
+        <td align="center" width="300px">
+            <center>
+                <span style="font-size:16px">Beihang University<sup>1</sup></span>
+            </center>
+        </td>
+
+        <td align="center" width="300px">
+            <center>
+                <span style="font-size:16px">Xiaohongshu Inc<sup>2</sup></span>
+            </center>
+        </td>
+
+        <td align="center" width="300px">
+            <center>
+                <span style="font-size:16px">Shanghai Jiao Tong University<sup>3</sup></span>
+            </center>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+
+<table align="center" width="700px">
+    <tbody>
+    <tr>
+        <td align="center" width="300px">
+            <center>
+                <span style="font-size:16px"><sup>&star;</sup>equal contribution</span>
+            </center>
+        </td>
+
+        <td align="center" width="300px">
+            <center>
+                <span style="font-size:16px"><sup>&#9993</sup>corresponding author</span>
+            </center>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+<table align="center" width="700px">
+    <tbody>
+    <tr>
+        <td align="center" width="200px">
+            <div style="text-align: center;">
+                <span style="font-size:20px">
+                    Code
+                    <a href="https://github.com/KyanChen/OvarNet">[GitHub]</a>
+                </span>
+            </div>
+        </td>
+
+        <td align="center" width="200px">
+            <div style="text-align: center;">
+                <span style="font-size:20px">
+                    Paper
+                    <a href="https://arxiv.org/abs/2301.09506">[arXiv]</a>
+                </span>
+            </div>
+        </td>
+
+        <td align="center" width="200px">
+            <center>
+                <span style="font-size:20px">
+                    Cite <a href="resources/cite.txt"> [BibTeX]</a>
+                </span>
+            </center>
+        </td>
+    </tr>
+    </tbody>
+</table>
+<br>
+<hr>
+
+<div style="text-align: center;">
+    <h2>Teaser</h2>
+</div>
+
+
+<p style="text-align:justify; text-justify:inter-ideograph;">
+<table>
+    <tr>
+        <td>
+            <div style="text-align: center;">
+                <img src="resources/ovar.png" width="800px">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+            The first row depicts the tasks of object detection and attribute classification in a close-set setting, <i>i.e.</i>, train and test on the same vocabulary set.
+The second row gives qualitative results from our proposed OvarNet,
+which simultaneously localizes, categorizes, and characterizes arbitrary objects in an open-vocabulary scenario. We only show one object per image for ease of visualization, <span style="color: red; "><b>red</b></span> denotes the base category/attribute <i>i.e.</i>,
+seen in the training set, while <span style="color: #1230F5; "><b>blue</b></span> represents the novel category/attribute unseen in the training set.
+            </p>
+        </td>
+    </tr>
+</table>
+
+
+<br>
+<hr>
+<div style="text-align: center;">
+    <h2>Abstract</h2>
+</div>
+
+<table>
+    <tr>
+        <td>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+            In this paper, we consider the problem of simultaneously detecting objects and inferring their visual attributes in an image, even for those with no manual annotations provided at the training stage, resembling an open-vocabulary scenario.
+To achieve this goal, we make the following contributions:
+(i) we start with a naive two-stage approach for open-vocabulary object detection and attribute classification, termed CLIP-Attr. The candidate objects are first proposed with an offline RPN and later classified for semantic category and attributes;
+(ii) we combine all available datasets and train with a federated strategy to finetune the CLIP model, aligning the visual representation with attributes,
+additionally, we investigate the efficacy of leveraging freely available online image-caption pairs under weakly supervised learning;
+(iii) in pursuit of efficiency, we train a Faster-RCNN type model end-to-end with knowledge distillation, that performs class-agnostic object proposals and classification on semantic categories and attributes with classifiers generated from a text encoder;
+Finally, (iv) we conduct extensive experiments on VAW, MS-COCO, LSA, and OVAD datasets,
+and show that recognition of semantic category and attributes is complementary for visual scene understanding, <i>i.e.</i>, jointly training object detection and attributes prediction largely outperform existing approaches that treat the two tasks independently,
+demonstrating strong generalization ability to novel attributes and categories.
+            </p>
+        </td>
+    </tr>
+</table>
+
+<br>
+<hr>
+<div style="text-align: center;">
+    <h2>Architecture</h2>
+</div>
+
+<table>
+    <tr>
+        <td>
+            <div style="text-align: center;">
+                <img src="resources/reverse_models.png" width="800px">
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                <br>
+                An overview of the proposed method.
+<b>Left:</b> the two-step training procedure for finetuning the pre-trained CLIP to get CLIP-Attr that better aligns the regional visual feature to attributes. <b>Step-I:</b>  naive federate training by base attribute annotations. <b>Step-II:</b>  training by image-caption pairs. We first conduct RPN on the whole image to get box-level crops, parse the caption to get noun phrases, categories, and attributes, and then match these fine-grained concepts for weakly supervised training.
+ <b>Right:</b> the proposed one-stage framework OvarNet. We inherit the CLIP-Attr for open-vocabulary object attribute recognition. Regional visual feature is learned from the attentional pooling of proposals; while attribute concept embedding is extracted from the text encoder. Solid lines declare the standard federated training regime. Dashed lines denote training by knowledge distillation with CLIP-Attr.
+            </p>
+        </td>
+    </tr>
+</table>
+
+<br>
+<hr>
+<div style="text-align: center;">
+    <h2>Quantitative Results</h2>
+</div>
+
+<table>
+    <tr>
+        <td>
+            <p>
+                <b>
+                    R1: Benchmark on COCO and VAW Datasets
+                </b>
+            </p>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                In the Tab., we compare OvarNet to other attribute prediction methods and open-vocabulary object detectors on the VAW test set and COCO validation set.
+As there is no open-vocabulary attribute prediction method developed on the VAW dataset,
+we re-train two models on the <i>full</i> VAW dataset as an oracle comparison, namely, SCoNE and TAP.
+Our best model achieves 68.52/67.62 AP across all attribute classes for the box-given and box-free settings respectively.
+On COCO open-vocabulary object detection,
+we compare with OVR-RCNN, ViLD, Region CLIP, PromptDet, and Detic, our best model obtains 54.10/35.17 AP for novel categories, surpassing the recent state-of-the-art ViLD-ens and Detic by a large margin,
+showing that attributes understanding is beneficial for open-vocabulary object recognition.
+            </p>
+            <div style="text-align: center;">
+                <img src="resources/benchmark_on_coco_vaw.png" width="600px">
+            </div>
+        </td>
+    </tr>
+
+
+    <tr>
+        <td>
+            <br>
+            <p>
+                <b>
+                    R2: Cross-dataset Transfer on OVAD Benchmark
+                </b>
+            </p>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                We compare with other state-of-the-art methods on OVAD benchmark,
+following the same evaluation protocol, we conduct zero-shot cross-dataset transfer evaluation with CLIP-Attr and OvarNet trained on COCO Caption dataset.
+Metric is average precision (AP) over different attribute frequency distributions, 'head', 'medium', and 'tail'.
+As shown in the Tab., our proposed models largely outperform other competitors by a noticeable margin.
+            </p>
+            <div style="text-align: center;">
+                <img src="resources/benchmark_on_ovad.png" width="500px">
+            </div>
+        </td>
+    </tr>
+
+    <tr>
+        <td>
+            <br>
+            <p>
+                <b>
+                    R3: Evaluation on LSA Benchmark
+                </b>
+            </p>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                We evaluate the proposed OvarNet on the same benchmark proposed by Pham <i>et al.</i>.
+As OpenTAP employs a Transformer-based architecture with object category and object bounding box as the additional prior inputs, we have evaluated two settings. One is the original OvarNet without any additional input information;
+                the other integrates the object category embedding as an extra token into the transformer encoder layer.
+As shown in the Tab., OvarNet outperforms prompt-based CLIP by a large margin and surpasses OpenTAP (proposed in the benchmark paper) under the same scenario,
+<i>i.e.</i>, with additional category embedding introduced. 'Attribute prompt' means the prompt designed with formats similar to "A photo of something that is [attribute]", while 'object-attribute prompt' denotes "A photo of [category] [attribute]". For the 'combined prompt', the outputs of the 'attribute prompt' and the 'object-attribute prompt' are weighted average.
+            </p>
+            <div style="text-align: center;">
+                <img src="resources/benchmark_on_lsa.png" width="500px">
+            </div>
+        </td>
+    </tr>
+
+</table>
+
+<br>
+<hr>
+<div style="text-align: center;">
+    <h2>Visualizations</h2>
+</div>
+
+<table>
+    <tr>
+        <td>
+            <p style="text-align:justify; text-justify:inter-ideograph;">
+                In the following Fig., we show the qualitative results
+                of OvarNet on VAW and MS-COCO benchmarks.
+                OvarNet is capable of accurately localizing, recognizing,
+                and characterizing objects based on a broad variety
+                of novel categories and attributes.
+            </p>
+            <div style="text-align: center;">
+                <img src="resources/qualitative_results.png" width="800px">
+            </div>
+        </td>
+    </tr>
+</table>
+
+<br>
+<hr>
+
+<div style="text-align: center;">
+    <h2>Acknowledgements</h2>
+</div>
+      <p>
+	      Based on a template by <a href="http://web.mit.edu/phillipi/">Phillip Isola</a> and <a href="http://richzhang.github.io/">Richard Zhang</a>.
+      </p>
+
+<br>
+<br>
+<br>
+
+</body>
+</html>
