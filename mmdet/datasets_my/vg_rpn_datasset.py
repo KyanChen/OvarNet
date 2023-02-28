@@ -505,25 +505,4 @@ class VGRPNDataset(Dataset):
                  iou_thrs=None,
                  metric_items=None
                  ):
-        results = [x.cpu().numpy() for x in results]
-
-        metrics = metric if isinstance(metric, list) else [metric]
-        allowed_metrics = ['bbox', 'segm', 'proposal', 'proposal_fast']
-        for metric in metrics:
-            if metric not in allowed_metrics:
-                raise KeyError(f'metric {metric} is not supported')
-
-        # coco_gt = self.coco
-        # self.cat_ids = coco_gt.get_cat_ids(cat_names=self.CLASSES)
-        jsonfile_prefix = 'results/EXP20220804_4/fasterrcnn_coco'
-        os.makedirs(jsonfile_prefix, exist_ok=True)
-        result_files, tmp_dir = self.format_results(results, jsonfile_prefix)
-        coco_gt = None
-        eval_results = self.evaluate_det_segm(results, result_files, coco_gt,
-                                              metrics, logger, classwise,
-                                              proposal_nums, iou_thrs,
-                                              metric_items)
-
-        if tmp_dir is not None:
-            tmp_dir.cleanup()
-        return eval_results
+        pass
