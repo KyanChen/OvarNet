@@ -1,6 +1,6 @@
-@article{chen2023ovarnet,
-  title={OvarNet: Towards Open-vocabulary Object Attribute Recognition},
-  author={Chen, Keyan and Jiang, Xiaolong and Hu, Yao and Tang, Xu and Gao, Yan and Chen, Jianqi and Xie, Weidi},
-  journal={arXiv preprint arXiv:2301.09506},
-  year={2023}
+ @InProceedings{chen2023ovarnet,
+    title={OvarNet: Towards Open-vocabulary Object Attribute Recognition},
+    author={Chen, Keyan and Jiang, Xiaolong and Hu, Yao and Tang, Xu and Gao, Yan and Chen, Jianqi and Xie, Weidi},
+    booktitle={CVPR},
+    year={2023}
 }
